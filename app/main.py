@@ -21,7 +21,7 @@ def health():
         pipline = load_model()
         return {'status': 'ok', 'model_loaded': pipline is not None}
     except Exception as e:
-        return {'status': 'error', 'derail': str(e)}
+        return {'status': 'error', 'detail': str(e)}
 
 # Seuil métié fixé pour notre projet  
 THRESHOLD = 0.47 
