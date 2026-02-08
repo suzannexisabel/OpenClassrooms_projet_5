@@ -2,6 +2,8 @@ from fastapi import FastAPI, HTTPException
 import numpy as np
 import pandas as pd
 
+from fastapi.responses import HTMLResponse
+
 from app.schemas import PredictRequest, PredictResponse
 from app.model import load_model
 
@@ -11,6 +13,21 @@ app = FastAPI(
     "Permettant de détecter les employés qui sont succeptible de quitter l'entreprise",
     version="1.0.0"
 )
+
+@app.get("/", response_class=HTMLResponse)
+def home():
+    return """
+    <html>
+      <body style="font-family: Arial; padding: 24px;">
+        <h1>ML Model API</h1>
+        <p>✅ API is running</p>
+        <ul>
+          <li><a href="/docs">Swagger UI</a></li>
+          <li><a href="/health">Health check</a></li>
+        </ul>
+      </body>
+    </html>
+    """
 
 @app.get("/health")
 def health():
