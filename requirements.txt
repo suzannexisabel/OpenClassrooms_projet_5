@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+pytest
+joblib
+huggingface_hub
+fastapi
+uvicorn[standard]
+pydantic
+httpx
