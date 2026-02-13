@@ -8,3 +8,5 @@ fastapi
 uvicorn[standard]
 pydantic
 httpx
+sqlalchemy>=2.0
+psycopg[binary]>=3.1
