@@ -1,11 +1,22 @@
-from fastapi import FastAPI, HTTPException
+
 import numpy as np
 import pandas as pd
 
+from fastapi import FastAPI, HTTPException
 from fastapi.responses import HTMLResponse
+from fastapi import Depends
 
 from app.schemas import PredictRequest, PredictResponse
 from app.model import load_model
+from app.db import get_db
+
+import json
+import time
+import uuid
+from sqlalchemy import text
+from sqlalchemy.orm import Session
+
+
 
 app = FastAPI(
     title="ML Model API",
@@ -44,7 +55,8 @@ def health():
 THRESHOLD = 0.47 
 
 @app.post("/predict", response_model=PredictResponse)
-def predict(payload: PredictRequest):
+def predict(payload: PredictRequest, db: Session = Depends(get_db)):
+
     """
     Endpoint de prédiction.
     
@@ -52,6 +64,10 @@ def predict(payload: PredictRequest):
     - Conversion en DataFrame avec les bons noms de colonnes
     - Prédiction via pipeline.predict()
     """
+
+    t0 = time.perf_counter()
+    request_id = uuid.uuid4()
+
     try:
         pipeline = load_model()
 
@@ -73,6 +89,51 @@ def predict(payload: PredictRequest):
 
         # application du seuil métier 
         prediction = int(proba_positive >= THRESHOLD) 
+        latency_ms = int((time.perf_counter() - t0) * 1000)
+
+        # Log de la requête
+        db.execute(
+            text("""
+                 INSERT INTO app.prediction_request (request_id, endpoint, input_json)
+                VALUES (:request_id, :endpoint, :input_json)
+            """),
+            {
+                "request_id": str(request_id),
+                "endpoint": "/predict",
+                "input_json": json.dumps(row, ensure_ascii=False),
+                     
+            }
+        )
+
+        # ID du modele
+        model_id = db.execute(
+            text("""
+                SELECT id FROM app.model_registry
+                WHERE name = :name AND version = :version
+                LIMIT 1
+            """),
+            {"name": "employee_churn_rf", "version": "v1"}
+        ).scalar_one()
+
+        # log le résultat 
+        db.execute(
+            text("""
+                INSERT INTO app.prediction_result
+                (request_id, model_id, threshold, proba_positive, prediction, latency_ms)
+                VALUES
+                (:request_id, :model_id, :threshold, :proba_positive, :prediction, :latency_ms)
+            """),
+            {
+                "request_id": str(request_id),
+                "model_id": model_id,
+                "threshold": THRESHOLD,
+                "proba_positive": proba_positive,
+                "prediction": prediction,
+                "latency_ms": latency_ms,
+            }
+        )
+
+        db.commit()
 
         return PredictResponse(prediction=prediction, probability=proba_positive)
     
@@ -80,4 +141,6 @@ def predict(payload: PredictRequest):
         # Erreurs de type : colonne manquante, mauvais type, etc.
         raise HTTPException(status_code=400, detail=f"Invalid input for model: {str(e)}")
     except Exception as e:
+        db.rollback()
+        print("ERROR /predict:", repr(e))
         raise HTTPException(status_code=500, detail=f"Internal error: {str(e)}")
