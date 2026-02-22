@@ -1,15 +1,14 @@
-name: CI/CD minimal
+name: CI
 
 on:
   push:
-    branches:
-      - "**"
+    branches: ["**"]
   pull_request:
-    branches:
-      - main
+    branches: ["main"]
 
 jobs:
-  pipeline:
+  tests-no-db:
+    name: Tests (unit + functional DB OFF)
     runs-on: ubuntu-latest
 
     steps:
@@ -20,6 +19,7 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+          cache: "pip"
 
       - name: Install dependencies
         run: |
@@ -34,3 +34,53 @@ jobs:
           import sklearn
           print("Dependencies imported successfully")
           PY
+
+      - name: Run unit tests
+        run: |
+          pytest -m unit -vv
+
+      - name: Run functional tests (DB OFF / HF mode)
+        run: |
+          pytest -m functional -vv
+
+  tests-with-db:
+    name: Tests (DB ON)
+    runs-on: ubuntu-latest
+
+    services:
+      postgres:
+        image: postgres:16
+        env:
+          POSTGRES_USER: mluser
+          POSTGRES_PASSWORD: mlpass
+          POSTGRES_DB: mldb_test
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd "pg_isready -U mluser -d mldb_test"
+          --health-interval 5s
+          --health-timeout 5s
+          --health-retries 20
+
+    env:
+      # IMPORTANT: les tests DB utilisent DATABASE_URL_TEST
+      DATABASE_URL_TEST: postgresql+psycopg://mluser:mlpass@localhost:5432/mldb_test
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run DB tests
+        run: |
+          pytest -m db -vv
