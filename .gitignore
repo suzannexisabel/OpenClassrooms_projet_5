@@ -4,3 +4,8 @@ models/*.joblib
 # Docker / Postgres data
 pgdata/
 .env
+.venv
+.pytest_cache
+.coverage
+
+

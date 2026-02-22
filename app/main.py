@@ -51,7 +51,7 @@ def health():
     except Exception as e:
         return {'status': 'error', 'detail': str(e)}
 
-# Seuil métié fixé pour notre projet  
+# Seuil métier fixer pour notre projet  
 THRESHOLD = 0.47 
 
 @app.post("/predict", response_model=PredictResponse)
