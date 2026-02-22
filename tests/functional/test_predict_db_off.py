@@ -9,7 +9,7 @@ def test_predict_contract(client):
     assert "detail" in body
 
 @pytest.mark.functional
-def test_predict_ok(client):
+def test_predict_ok(client, mock_model):
     payload = {
         "age": 35,
         "nombre_experiences_precedentes": 2,

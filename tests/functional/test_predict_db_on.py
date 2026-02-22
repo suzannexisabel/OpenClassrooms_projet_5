@@ -2,7 +2,7 @@ import pytest
 from sqlalchemy import text
 
 @pytest.mark.db
-def test_predict_logs_to_db(client_with_db, test_engine):
+def test_predict_logs_to_db(client_with_db, test_engine, mock_model):
     payload = {
         "age": 35,
         "nombre_experiences_precedentes": 2,

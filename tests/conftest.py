@@ -20,6 +20,26 @@ from app.main import app
 from app.db import get_db
 
 # ----------------------------
+# Dummy Pipline (model)
+# ----------------------------
+
+class DummyPipline:
+    classes_ = [0,1]
+
+    def predict_proba(self,X):
+        import numpy as np
+        return np.tile([0.2, 0.8], (len(X),1))
+    
+# ----------------------------
+# Mock model
+# ----------------------------
+
+@pytest.fixture
+def mock_model(monkeypatch):
+    import app.main
+    monkeypatch.setattr(app.main, "load_model", lambda: DummyPipline())
+
+# ----------------------------
 # Client DB OFF (mode HF)
 # ----------------------------
 @pytest.fixture
