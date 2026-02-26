@@ -1,11 +1,11 @@
 import sys
 from pathlib import Path
-
 import pytest 
 from dotenv import load_dotenv
 from fastapi.testclient import TestClient
 from sqlalchemy import text, create_engine
 from sqlalchemy.orm import sessionmaker
+import numpy as np
 
 
 # Ajoute la racine du repo au PYTHONPATH pour que `import app...` marche
@@ -20,7 +20,7 @@ from app.main import app
 from app.db import get_db
 
 # ----------------------------
-# Dummy Pipline (model)
+# Dummy Pipline Fixe (model)
 # ----------------------------
 
 class DummyPipline:
@@ -30,6 +30,7 @@ class DummyPipline:
         import numpy as np
         return np.tile([0.2, 0.8], (len(X),1))
     
+    
 # ----------------------------
 # Mock model
 # ----------------------------
@@ -38,6 +39,53 @@ class DummyPipline:
 def mock_model(monkeypatch):
     import app.main
     monkeypatch.setattr(app.main, "load_model", lambda: DummyPipline())
+
+# ----------------------------
+# Dummy Pipline configurable (model)
+# ----------------------------
+
+class DummyPipelineConfigurable:
+    def __init__(self, proba_positive=0.8, classes=(0, 1), raise_exc=None):
+        self.classes_ = list(classes)
+        self.proba_positive = float(proba_positive)
+        self.raise_exc = raise_exc
+
+    def predict_proba(self, X):
+        if self.raise_exc is not None:
+            raise self.raise_exc
+
+        n = len(self.classes_)
+        pos_idx = self.classes_.index(1)
+        row = [0.0] * n
+        row[pos_idx] = self.proba_positive
+        if n == 2:
+            row[1 - pos_idx] = 1.0 - self.proba_positive
+        return np.tile(row, (len(X), 1))
+    
+# ----------------------------
+#
+# ----------------------------
+
+@pytest.fixture
+def mock_model_factory(monkeypatch):
+    """
+    Permet de choisir proba/classes/erreur par test:
+    mock_model_factory(proba_positive=0.47, classes=(1,0))
+    """
+    import app.main
+
+    def _factory(proba_positive=0.8, classes=(0, 1), raise_exc=None):
+        monkeypatch.setattr(
+            app.main,
+            "load_model",
+            lambda: DummyPipelineConfigurable(
+                proba_positive=proba_positive,
+                classes=classes,
+                raise_exc=raise_exc,
+            ),
+        )
+
+    return _factory
 
 # ----------------------------
 # Client DB OFF (mode HF)
