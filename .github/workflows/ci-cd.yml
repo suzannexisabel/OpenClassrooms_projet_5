@@ -35,13 +35,16 @@ jobs:
           print("Dependencies imported successfully")
           PY
 
-      - name: Run unit tests
+      - name: Run unit + functional tests with coverage (DB OFF)
         run: |
-          pytest -m unit -vv
+          pytest -m "unit or functional" -vv \
+            --cov=app --cov-report=term-missing --cov-report=xml
 
-      - name: Run functional tests (DB OFF / HF mode)
-        run: |
-          pytest -m functional -vv
+      - name: Upload coverage report (DB OFF)
+        uses: actions/upload-artifact@v4
+        with:
+          name: coverage-no-db
+          path: coverage.xml
 
   tests-with-db:
     name: Tests (DB ON)
@@ -81,6 +84,13 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run DB tests
+      - name: Run DB tests with coverage
         run: |
-          pytest -m db -vv
+          pytest -m db -vv \
+            --cov=app --cov-report=term-missing --cov-report=xml
+
+      - name: Upload coverage report (DB ON)
+        uses: actions/upload-artifact@v4
+        with:
+          name: coverage-with-db
+          path: coverage.xml

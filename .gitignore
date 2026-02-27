@@ -1,11 +1,14 @@
 __pycache__/
 models/*.joblib
 *.joblib
-# Docker / Postgres data
 pgdata/
 .env
 .venv
 .pytest_cache
 .coverage
+*.pyc
+htmlcov/
+coverage.*
+
 
 
