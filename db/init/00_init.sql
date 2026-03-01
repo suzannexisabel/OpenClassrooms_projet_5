@@ -43,3 +43,9 @@ CREATE TABLE IF NOT EXISTS app.prediction_result (
 
 CREATE INDEX IF NOT EXISTS idx_prediction_result_request
   ON app.prediction_result(request_id);
+
+-- Enregistrement du modele par défaut dans la BD si elle n'existe pas encore 
+INSERT INTO app.model_registry (name, version, artifact_path)
+VALUES ('employee_churn_rf', 'v1', 'models/model.joblib')
+ON CONFLICT (name, version) DO NOTHING;
+
