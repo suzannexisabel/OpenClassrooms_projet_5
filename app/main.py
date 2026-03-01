@@ -54,7 +54,10 @@ def health():
 # Seuil métier fixer pour notre projet  
 THRESHOLD = 0.47 
 
-@app.post("/predict", response_model=PredictResponse)
+@app.post("/predict", 
+          response_model=PredictResponse,
+          summary="Prédiction de départ d'un employé",
+          description="Retourne la probabilité qu'un employé quitte l'entreprise")
 def predict(payload: PredictRequest, db: Session = Depends(get_db)):
 
     """
@@ -66,7 +69,7 @@ def predict(payload: PredictRequest, db: Session = Depends(get_db)):
     """
 
     t0 = time.perf_counter()
-    request_id = uuid.uuid4()
+    request_id = str(uuid.uuid4())
 
     try:
         pipeline = load_model()
