@@ -33,8 +33,10 @@ def test_predict_ok(client, mock_model):
     
     body = r.json()
     assert isinstance(body, dict)
-    assert len(body) > 0
 
-    # plus tard il faut tester 
-    # assert "prediction" in body
-    # assert "probability" in body
+    assert "prediction" in body
+    assert body["prediction"] in (0, 1)
+
+    assert "probability" in body
+    assert isinstance(body["probability"], (int, float))
+    assert 0.0 <= float(body["probability"]) <= 1.0
