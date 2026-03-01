@@ -41,6 +41,29 @@ package "app schema" {
     idx_prediction_result_request(request_id)
   }
 
+  class employee_dataset {
+    +id : BIGSERIAL <<PK>>
+    --
+    age : INTEGER
+    genre : TEXT
+    poste : TEXT
+    nombre_experiences_precedentes : INTEGER
+    niveau_hierarchique_poste : INTEGER
+    heure_supplementaires : INTEGER
+    a_quitte_l_entreprise : INTEGER
+    nombre_participation_pee : INTEGER
+    niveau_education : INTEGER
+    domaine_etude : TEXT
+    ratio_anciennete_manager : DOUBLE PRECISION
+    frequence_deplacement_code : INTEGER
+    score_satisfaction_global : DOUBLE PRECISION
+    delta_evaluation : INTEGER
+    "Célibataire" : INTEGER
+    annees_dans_l_entreprise_bins : INTEGER
+    distance_domicile_travail_bins : INTEGER
+    created_at : TIMESTAMPTZ
+  }
+
   prediction_request "1" <-- "0..*" prediction_result : request_id
   model_registry     "1" <-- "0..*" prediction_result : model_id
 }
