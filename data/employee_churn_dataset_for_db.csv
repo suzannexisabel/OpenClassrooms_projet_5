@@ -1,0 +1,1471 @@
+age,genre,poste,nombre_experiences_precedentes,niveau_hierarchique_poste,heure_supplementaires,a_quitte_l_entreprise,nombre_participation_pee,niveau_education,domaine_etude,ratio_anciennete_manager,frequence_deplacement_code,score_satisfaction_global,delta_evaluation,Célibataire,annees_dans_l_entreprise_bins,distance_domicile_travail_bins
+41,F,Cadre Commercial,8,2,1,1,0,2,Infra & Cloud,0.7142857142857143,2,2.0,0,1,2,0
+49,M,Assistant de Direction,1,2,0,0,1,1,Infra & Cloud,0.6363636363636364,3,3.0,2,0,2,1
+37,M,Consultant,6,1,1,1,0,2,Autre,0.0,2,3.0,1,1,0,0
+33,F,Assistant de Direction,1,1,1,0,0,4,Infra & Cloud,0.0,3,3.25,0,0,2,0
+27,M,Consultant,9,1,0,0,1,1,Transformation Digitale,0.6666666666666666,2,2.5,0,0,0,0
+32,M,Consultant,0,1,0,0,0,2,Infra & Cloud,0.75,3,3.25,0,1,2,0
+59,F,Consultant,4,1,1,0,3,3,Transformation Digitale,0.0,2,1.75,0,0,0,0
+30,M,Consultant,1,1,0,0,1,1,Infra & Cloud,0.0,2,3.0,1,0,0,2
+38,M,Tech Lead,0,3,0,0,0,3,Infra & Cloud,0.8,3,3.0,2,1,2,2
+36,M,Manager,6,2,0,0,2,3,Transformation Digitale,0.875,2,2.5,0,0,2,2
+35,M,Consultant,0,1,0,0,1,3,Transformation Digitale,0.5,2,2.25,-1,0,1,1
+29,F,Consultant,0,2,1,0,0,2,Infra & Cloud,0.8,2,3.5,1,1,2,1
+31,M,Assistant de Direction,1,1,0,0,1,1,Infra & Cloud,0.5,2,2.5,0,0,1,2
+34,M,Consultant,0,1,0,0,1,2,Transformation Digitale,0.6666666666666666,2,3.0,0,0,0,1
+28,M,Consultant,5,1,1,1,0,3,Infra & Cloud,0.6,2,2.75,1,1,1,2
+29,F,Tech Lead,1,3,0,0,1,4,Infra & Cloud,0.7272727272727273,2,2.25,-1,0,2,2
+32,M,Assistant de Direction,0,1,1,0,2,2,Infra & Cloud,0.7142857142857143,2,2.25,-1,0,2,0
+22,M,Consultant,1,1,1,0,2,2,Transformation Digitale,0.0,1,3.0,-1,0,0,1
+53,F,Senior Manager,2,4,0,0,0,4,Infra & Cloud,0.2692307692307692,2,2.75,1,0,4,0
+38,M,Assistant de Direction,5,1,1,0,0,3,Infra & Cloud,0.5,2,3.5,0,1,1,0
+24,F,Tech Lead,0,2,0,0,1,2,Autre,0.6,1,2.5,-1,0,1,1
+36,M,Représentant Commercial,7,1,0,1,0,4,Infra & Cloud,0.5,2,2.25,2,1,1,1
+34,F,Directeur Technique,0,3,0,0,0,4,Infra & Cloud,0.8461538461538461,2,2.25,0,1,3,1
+21,M,Assistant de Direction,1,1,0,0,0,2,Infra & Cloud,0.0,2,3.5,0,1,0,1
+34,M,Assistant de Direction,2,1,0,1,0,1,Transformation Digitale,0.6,2,2.25,0,1,1,1
+53,F,Senior Manager,4,5,0,0,1,3,Autre,0.5333333333333333,2,3.0,0,0,3,0
+32,F,Assistant de Direction,1,1,1,1,0,1,Infra & Cloud,0.6363636363636364,3,2.0,3,1,2,1
+42,M,Cadre Commercial,0,2,0,0,1,4,Marketing,0.2,2,3.0,0,0,2,1
+44,F,Manager,3,3,0,0,1,4,Transformation Digitale,0.7391304347826086,2,3.0,1,0,4,1
+46,F,Senior Manager,3,5,0,0,0,4,Marketing,0.3333333333333333,2,2.25,0,1,0,0
+33,M,Consultant,4,1,0,0,0,3,Transformation Digitale,0.0,2,3.5,0,1,0,0
+44,M,Manager,2,2,1,0,0,4,Autre,0.6,2,4.0,0,0,1,1
+30,M,Consultant,1,1,0,0,0,2,Transformation Digitale,0.7272727272727273,2,2.75,1,1,2,1
+39,M,Représentant Commercial,3,2,0,1,1,3,Entrepreunariat,0.0,2,3.75,0,0,0,0
+24,M,Assistant de Direction,2,1,1,1,1,3,Transformation Digitale,0.0,2,2.25,0,0,0,0
+43,F,Assistant de Direction,1,1,0,0,2,2,Transformation Digitale,0.6666666666666666,2,3.25,-1,0,1,0
+50,M,Représentant Commercial,1,1,1,1,0,2,Marketing,0.5,2,2.5,1,0,1,0
+35,F,Représentant Commercial,1,1,0,0,0,3,Marketing,0.6666666666666666,2,3.0,0,0,0,0
+36,F,Assistant de Direction,9,1,1,0,1,4,Infra & Cloud,0.0,2,2.75,1,0,0,0
+33,F,Cadre Commercial,2,2,0,0,2,3,Infra & Cloud,0.5,3,2.0,-1,0,1,0
+35,M,Consultant,1,1,0,0,1,2,Autre,0.0,2,3.25,0,0,0,0
+27,F,Consultant,1,1,0,0,1,4,Infra & Cloud,0.0,2,3.0,0,0,0,0
+26,M,Consultant,1,1,0,1,0,3,Infra & Cloud,0.5,2,2.25,2,1,0,2
+27,M,Cadre Commercial,1,3,0,0,0,3,Infra & Cloud,0.7,3,3.5,0,1,2,1
+30,F,Consultant,1,2,0,0,0,2,Transformation Digitale,0.5384615384615384,3,3.5,1,1,3,0
+41,F,Directeur Technique,1,5,0,1,0,3,Entrepreunariat,0.34782608695652173,2,3.0,0,0,4,1
+34,M,Cadre Commercial,0,2,0,0,0,4,Marketing,0.7,1,2.75,1,1,2,2
+37,M,Assistant de Direction,4,1,0,0,0,2,Infra & Cloud,0.0,2,2.0,1,0,0,1
+46,M,Cadre Commercial,4,2,1,0,0,4,Marketing,0.8,3,2.75,1,1,2,0
+35,M,Consultant,1,1,0,0,0,1,Infra & Cloud,0.5,2,3.75,-1,0,0,1
+48,M,Consultant,9,3,1,1,0,2,Infra & Cloud,0.0,2,2.75,1,1,0,0
+28,M,Consultant,1,1,1,1,0,4,Entrepreunariat,0.6666666666666666,2,2.75,0,1,0,0
+44,F,Cadre Commercial,5,2,1,0,1,5,Marketing,0.6,2,2.0,1,0,1,0
+35,M,Manager,2,3,1,0,1,2,Transformation Digitale,0.6,1,2.5,1,0,1,1
+26,F,Cadre Commercial,7,2,1,0,1,3,Marketing,0.0,2,3.0,1,0,0,2
+33,F,Directeur Technique,1,3,1,0,0,2,Infra & Cloud,0.75,3,2.75,0,1,3,0
+35,M,Cadre Commercial,1,3,0,0,1,5,Infra & Cloud,0.8,3,2.25,1,0,2,1
+35,F,Consultant,3,1,1,0,1,4,Transformation Digitale,0.6666666666666666,2,2.5,0,0,0,2
+31,M,Consultant,3,2,0,0,1,4,Infra & Cloud,0.875,2,3.5,1,0,2,1
+37,M,Tech Lead,1,2,0,0,1,4,Infra & Cloud,0.875,2,2.75,1,0,2,0
+32,M,Tech Lead,1,2,1,0,1,3,Transformation Digitale,0.8,2,2.5,1,0,2,0
+38,F,Consultant,1,2,0,0,0,5,Infra & Cloud,0.8181818181818182,3,3.75,0,1,2,2
+50,F,Directeur Technique,5,5,1,0,1,2,Transformation Digitale,0.2857142857142857,2,2.75,1,0,4,1
+59,F,Cadre Commercial,7,3,0,0,0,3,Infra & Cloud,0.4090909090909091,2,2.0,0,1,4,2
+36,F,Manager,1,3,0,0,3,3,Entrepreunariat,0.4444444444444444,2,2.75,0,0,3,1
+55,F,Senior Manager,2,4,1,0,3,3,Transformation Digitale,0.3333333333333333,2,3.25,0,0,1,1
+36,M,Tech Lead,1,2,0,0,0,3,Infra & Cloud,0.42857142857142855,3,2.5,1,1,2,1
+45,M,Assistant de Direction,2,3,0,0,1,3,Infra & Cloud,0.0,2,2.25,0,0,0,1
+35,M,Assistant de Direction,4,1,0,0,1,3,Transformation Digitale,0.5,3,2.25,0,0,1,0
+36,M,Assistant de Direction,0,1,1,1,1,3,Transformation Digitale,0.0,2,2.5,1,0,0,1
+59,F,Cadre Commercial,7,2,0,0,0,1,Infra & Cloud,0.6,3,2.5,1,1,1,0
+29,M,Assistant de Direction,0,1,0,0,1,3,Infra & Cloud,0.6666666666666666,2,3.0,1,0,1,0
+31,M,Assistant de Direction,1,1,0,0,0,4,Transformation Digitale,0.0,2,2.5,0,1,0,0
+32,M,Assistant de Direction,1,2,0,0,2,3,Infra & Cloud,0.8181818181818182,2,2.25,0,0,2,0
+36,F,Consultant,3,1,0,0,0,3,Infra & Cloud,0.0,2,2.75,-1,0,0,1
+31,F,Tech Lead,1,2,0,0,0,4,Infra & Cloud,0.6666666666666666,2,3.5,1,1,3,1
+35,M,Cadre Commercial,0,2,0,0,0,4,Marketing,0.5,2,2.25,1,1,3,0
+45,M,Directeur Technique,4,3,1,0,0,4,Autre,0.0,2,2.75,0,0,0,1
+37,M,Directeur Technique,4,3,0,0,0,4,Transformation Digitale,0.3333333333333333,2,2.25,0,1,1,1
+46,M,Ressources Humaines,8,2,1,0,1,2,Transformation Digitale,0.4,2,2.75,1,0,1,0
+30,M,Consultant,1,2,1,0,2,1,Infra & Cloud,0.0,2,3.25,1,0,2,0
+35,M,Assistant de Direction,1,1,0,0,0,3,Transformation Digitale,0.5714285714285714,2,2.25,1,1,2,0
+55,M,Cadre Commercial,3,3,0,0,1,2,Infra & Cloud,0.0,2,3.0,0,0,0,0
+38,F,Assistant de Direction,7,2,1,0,3,3,Transformation Digitale,0.6428571428571429,1,3.25,2,0,3,1
+34,M,Tech Lead,1,2,0,0,0,2,Transformation Digitale,0.5,2,2.25,0,0,1,0
+56,M,Tech Lead,4,3,0,0,0,3,Infra & Cloud,0.2857142857142857,2,2.75,2,1,2,1
+23,M,Représentant Commercial,3,1,0,0,1,1,Entrepreunariat,0.0,2,2.5,0,0,0,0
+51,M,Consultant,3,1,0,0,2,4,Infra & Cloud,0.6,2,3.25,1,0,1,1
+30,M,Manager,1,2,0,0,3,3,Infra & Cloud,0.6666666666666666,2,2.75,1,0,3,0
+46,M,Cadre Commercial,1,3,0,1,0,2,Transformation Digitale,0.7,2,3.5,1,1,2,1
+40,M,Manager,1,4,0,0,1,4,Infra & Cloud,0.4782608695652174,3,2.75,2,0,4,0
+51,M,Cadre Commercial,0,2,1,0,0,4,Marketing,0.0,2,3.0,1,1,2,2
+30,F,Cadre Commercial,1,2,1,0,3,2,Transformation Digitale,0.5833333333333334,2,2.25,1,0,3,0
+46,M,Manager,2,3,1,0,1,3,Transformation Digitale,0.45454545454545453,3,2.25,1,0,2,0
+32,M,Cadre Commercial,1,2,0,0,0,4,Transformation Digitale,0.5833333333333334,2,2.25,0,1,3,1
+54,F,Directeur Technique,9,3,0,0,1,4,Entrepreunariat,0.6,2,1.5,0,0,1,0
+24,F,Cadre Commercial,0,2,0,0,1,2,Autre,0.5,2,1.75,1,0,1,0
+28,M,Cadre Commercial,1,2,0,0,0,3,Transformation Digitale,0.6666666666666666,1,2.75,0,0,1,0
+58,M,Cadre Commercial,0,4,0,0,0,4,Transformation Digitale,0.21052631578947367,2,3.0,0,1,4,1
+44,M,Consultant,4,2,0,0,1,3,Transformation Digitale,0.5,1,2.75,0,0,1,2
+37,M,Ressources Humaines,4,1,1,1,0,4,Ressources Humaines,0.5,2,2.75,1,0,1,1
+32,M,Assistant de Direction,1,1,0,0,0,1,Infra & Cloud,0.0,2,3.0,0,1,0,0
+20,F,Consultant,1,1,1,1,0,3,Infra & Cloud,0.0,3,3.25,1,1,0,1
+34,F,Assistant de Direction,1,2,0,0,0,4,Autre,0.5882352941176471,2,2.5,0,1,3,1
+37,M,Manager,5,2,0,0,1,2,Infra & Cloud,0.0,1,3.75,1,0,0,0
+59,F,Senior Manager,9,5,0,0,1,4,Ressources Humaines,0.5,1,3.5,2,0,1,0
+50,F,Directeur Technique,3,5,1,0,0,3,Infra & Cloud,0.7777777777777778,3,1.5,0,0,2,0
+25,M,Cadre Commercial,1,2,1,1,0,3,Marketing,0.42857142857142855,2,3.25,1,1,2,0
+25,M,Assistant de Direction,1,1,0,0,2,1,Transformation Digitale,0.3333333333333333,2,3.5,1,0,0,1
+22,F,Consultant,1,1,0,0,0,3,Transformation Digitale,0.0,2,3.0,0,1,0,1
+51,F,Manager,3,3,0,0,0,4,Transformation Digitale,0.5714285714285714,3,1.75,2,1,3,0
+34,M,Consultant,1,2,1,1,0,3,Infra & Cloud,0.6,3,2.75,3,1,2,1
+54,F,Senior Manager,2,4,1,0,0,3,Ressources Humaines,0.6666666666666666,1,3.5,-1,1,1,2
+24,M,Consultant,0,1,0,0,1,1,Infra & Cloud,0.3333333333333333,2,2.75,0,0,1,1
+34,F,Assistant de Direction,6,2,0,0,1,4,Infra & Cloud,0.0,2,2.75,1,0,0,1
+37,M,Cadre Commercial,2,3,0,0,0,3,Infra & Cloud,0.5,2,2.75,0,1,1,0
+34,F,Senior Manager,2,3,0,0,0,3,Transformation Digitale,0.6666666666666666,2,2.75,1,1,3,0
+36,F,Cadre Commercial,0,3,0,0,1,2,Entrepreunariat,0.8,3,3.0,0,0,2,1
+36,F,Consultant,5,1,0,0,1,2,Infra & Cloud,0.0,2,2.25,1,0,0,0
+43,M,Senior Manager,1,4,1,0,2,2,Infra & Cloud,0.46153846153846156,3,3.75,0,0,4,2
+30,M,Assistant de Direction,1,1,0,0,3,3,Infra & Cloud,0.8181818181818182,3,2.25,3,0,2,2
+33,M,Cadre Commercial,0,2,0,0,1,2,Marketing,0.875,1,2.5,0,0,2,2
+56,F,Assistant de Direction,9,1,1,1,3,4,Infra & Cloud,0.5,2,2.0,0,0,1,1
+51,M,Directeur Technique,7,5,0,0,0,3,Infra & Cloud,0.7142857142857143,2,2.5,0,1,3,1
+31,M,Cadre Commercial,4,2,1,1,0,4,Infra & Cloud,0.875,2,2.25,2,0,2,1
+26,F,Assistant de Direction,1,1,0,0,0,3,Autre,0.5,2,2.5,1,0,1,1
+58,F,Manager,1,3,0,1,1,4,Transformation Digitale,0.14634146341463414,2,3.5,0,0,4,2
+19,M,Représentant Commercial,1,1,1,1,0,1,Marketing,0.0,2,3.25,0,1,0,2
+22,M,Consultant,0,1,0,0,1,1,Entrepreunariat,0.3333333333333333,2,3.25,0,0,0,0
+49,F,Tech Lead,1,2,0,0,0,4,Transformation Digitale,0.6875,2,2.25,0,0,3,1
+43,F,Assistant de Direction,4,1,0,0,0,3,Transformation Digitale,0.5,3,3.0,-1,1,1,2
+50,F,Cadre Commercial,4,3,0,0,0,3,Marketing,0.3333333333333333,3,3.5,0,1,0,1
+31,F,Cadre Commercial,3,2,1,1,1,3,Infra & Cloud,0.6666666666666666,2,2.75,2,0,0,1
+41,M,Cadre Commercial,3,3,1,0,1,1,Infra & Cloud,0.7,2,3.0,0,0,2,1
+26,F,Ressources Humaines,1,1,0,0,1,1,Infra & Cloud,0.7777777777777778,2,3.25,1,0,2,2
+36,M,Tech Lead,6,2,0,0,2,2,Transformation Digitale,0.25,2,2.75,1,0,1,1
+51,M,Tech Lead,2,3,0,1,0,4,Infra & Cloud,0.6,3,3.0,2,1,1,1
+39,F,Cadre Commercial,4,2,0,0,1,4,Infra & Cloud,0.5625,2,3.5,1,0,3,0
+25,M,Cadre Commercial,2,2,0,0,0,3,Infra & Cloud,0.6666666666666666,2,2.75,1,0,0,2
+30,M,Ressources Humaines,0,2,1,0,0,3,Ressources Humaines,0.5833333333333334,2,3.0,0,0,3,1
+32,F,Consultant,7,1,0,1,0,3,Transformation Digitale,0.6666666666666666,2,1.75,1,1,1,1
+45,M,Assistant de Direction,5,1,0,0,0,3,Transformation Digitale,0.42857142857142855,2,2.75,0,1,2,2
+38,F,Assistant de Direction,3,2,1,0,0,5,Entrepreunariat,0.5,2,3.0,1,1,1,0
+30,F,Assistant de Direction,1,1,0,0,0,3,Infra & Cloud,0.6666666666666666,2,2.25,0,1,1,1
+32,M,Cadre Commercial,0,2,0,0,3,2,Transformation Digitale,0.7777777777777778,3,4.0,2,0,2,1
+30,F,Assistant de Direction,5,1,0,0,1,3,Entrepreunariat,0.5,2,3.0,0,0,1,0
+30,M,Consultant,0,1,0,0,0,1,Transformation Digitale,0.3333333333333333,2,3.25,1,1,1,0
+41,M,Senior Manager,4,4,0,0,1,3,Infra & Cloud,0.875,3,2.25,1,0,2,1
+41,M,Consultant,2,1,0,0,1,4,Infra & Cloud,0.6666666666666666,2,2.75,1,0,1,1
+19,F,Consultant,1,1,0,0,0,1,Transformation Digitale,0.0,2,2.75,0,1,0,0
+40,F,Assistant de Direction,1,2,0,0,1,3,Transformation Digitale,0.6190476190476191,3,2.0,0,0,3,2
+35,M,Cadre Commercial,1,3,0,0,2,5,Marketing,0.5454545454545454,2,2.25,0,0,2,0
+53,M,Représentant Commercial,2,2,1,0,1,2,Marketing,0.625,2,2.5,1,0,2,1
+45,M,Consultant,8,2,0,0,1,3,Infra & Cloud,0.8333333333333334,2,2.0,0,0,3,1
+32,F,Cadre Commercial,1,3,0,0,0,3,Marketing,0.7,3,3.25,0,1,2,1
+29,M,Tech Lead,1,2,0,0,1,1,Entrepreunariat,0.8181818181818182,1,2.75,0,0,2,0
+51,M,Tech Lead,2,2,0,0,0,4,Transformation Digitale,0.0,2,2.75,1,0,0,1
+58,F,Assistant de Direction,4,1,1,0,1,3,Transformation Digitale,0.0,2,2.0,2,0,0,1
+40,M,Cadre Commercial,7,3,0,0,1,4,Marketing,0.8461538461538461,2,2.5,1,0,3,0
+34,F,Représentant Commercial,6,1,0,0,1,4,Marketing,0.4,3,3.25,0,0,1,0
+22,M,Assistant de Direction,1,1,0,0,2,1,Transformation Digitale,0.6666666666666666,2,2.75,1,0,0,1
+27,M,Assistant de Direction,6,1,0,0,1,3,Transformation Digitale,0.6666666666666666,1,2.75,0,0,0,1
+28,M,Assistant de Direction,1,1,0,0,1,3,Transformation Digitale,0.3333333333333333,2,2.75,0,0,1,2
+57,M,Manager,3,3,1,0,1,2,Infra & Cloud,0.6666666666666666,2,2.5,-1,0,1,2
+27,M,Assistant de Direction,1,1,1,0,1,3,Transformation Digitale,0.5,1,3.0,1,0,0,0
+50,F,Senior Manager,3,5,0,0,0,3,Infra & Cloud,0.6666666666666666,2,2.5,0,1,1,1
+41,M,Assistant de Direction,4,1,0,0,1,3,Infra & Cloud,0.8,2,2.0,0,0,2,1
+30,F,Cadre Commercial,2,3,0,0,1,3,Infra & Cloud,0.36363636363636365,2,3.0,0,0,2,0
+38,F,Cadre Commercial,4,2,0,0,0,4,Infra & Cloud,0.7777777777777778,2,3.0,2,1,2,0
+32,M,Assistant de Direction,3,1,0,0,0,5,Infra & Cloud,0.6666666666666666,2,2.5,1,1,1,1
+27,M,Assistant de Direction,0,1,1,0,1,3,Entrepreunariat,0.16666666666666666,2,2.75,0,0,1,1
+19,F,Représentant Commercial,0,1,0,1,0,1,Entrepreunariat,0.0,3,2.25,3,1,0,0
+36,M,Consultant,4,1,0,0,0,2,Transformation Digitale,0.2222222222222222,3,2.75,0,1,2,0
+30,M,Consultant,1,2,0,0,2,3,Transformation Digitale,0.7692307692307693,1,2.5,0,0,3,1
+45,F,Cadre Commercial,4,2,1,0,1,2,Infra & Cloud,0.5,2,2.25,0,0,1,0
+56,F,Assistant de Direction,4,1,1,0,1,3,Infra & Cloud,0.6666666666666666,2,2.5,0,0,0,1
+33,M,Assistant de Direction,0,1,0,0,0,3,Infra & Cloud,0.5,2,3.0,0,1,1,0
+19,M,Consultant,1,1,0,1,0,3,Infra & Cloud,0.0,2,2.75,2,1,0,0
+46,F,Cadre Commercial,1,3,0,0,3,2,Marketing,0.28,2,2.25,1,0,4,0
+38,F,Consultant,1,1,0,0,0,2,Infra & Cloud,0.3333333333333333,2,3.25,0,1,0,1
+31,F,Assistant de Direction,8,1,1,0,1,1,Transformation Digitale,0.4,2,3.25,1,0,1,1
+34,F,Assistant de Direction,2,1,0,0,0,2,Transformation Digitale,0.5,2,3.25,0,1,1,2
+41,F,Représentant Commercial,1,1,1,1,0,2,Marketing,0.4,2,2.5,1,1,1,1
+50,M,Consultant,2,1,0,0,1,3,Transformation Digitale,0.5,2,3.0,1,0,1,0
+53,F,Tech Lead,1,2,0,0,2,2,Transformation Digitale,0.6,2,2.75,-1,0,1,1
+33,F,Assistant de Direction,1,1,0,0,1,3,Transformation Digitale,0.6666666666666666,2,3.25,0,0,2,1
+40,F,Senior Manager,1,5,0,0,1,1,Transformation Digitale,0.42857142857142855,2,3.0,0,0,3,0
+55,M,Directeur Technique,8,5,0,0,0,4,Transformation Digitale,0.6,2,3.0,-1,1,4,1
+34,M,Tech Lead,1,2,0,0,0,1,Infra & Cloud,0.8181818181818182,3,3.0,1,0,2,0
+51,F,Manager,3,4,0,0,0,3,Transformation Digitale,0.0,2,3.0,0,1,2,0
+52,M,Senior Manager,0,5,0,0,1,4,Infra & Cloud,0.2647058823529412,2,2.5,1,0,4,0
+27,F,Assistant de Direction,1,1,0,0,0,3,Transformation Digitale,0.375,2,3.0,0,1,2,1
+35,M,Tech Lead,3,2,1,1,0,2,Infra & Cloud,0.5,2,2.25,1,0,0,2
+43,M,Assistant de Direction,4,1,0,0,3,3,Transformation Digitale,0.3333333333333333,1,4.0,-1,0,1,1
+45,M,Senior Manager,9,4,0,0,1,2,Transformation Digitale,0.38095238095238093,1,3.0,2,0,3,0
+37,M,Assistant de Direction,1,1,1,0,1,3,Infra & Cloud,0.7777777777777778,2,1.5,-1,0,2,2
+35,F,Consultant,5,2,0,0,0,3,Transformation Digitale,0.2857142857142857,3,2.75,0,1,2,0
+42,F,Tech Lead,2,2,0,0,1,2,Transformation Digitale,0.3333333333333333,1,2.75,0,0,1,2
+38,M,Tech Lead,9,2,0,0,0,4,Infra & Cloud,0.0,2,3.0,0,0,0,0
+38,M,Tech Lead,3,2,0,0,1,3,Entrepreunariat,0.875,2,2.5,0,0,2,2
+27,M,Tech Lead,5,2,0,0,1,1,Entrepreunariat,0.0,3,2.5,1,0,0,0
+49,M,Tech Lead,1,2,1,0,2,4,Infra & Cloud,0.875,1,3.0,0,0,2,1
+34,M,Assistant de Direction,1,1,1,0,1,4,Transformation Digitale,0.0,3,3.75,0,0,1,1
+40,M,Consultant,8,2,1,0,1,2,Transformation Digitale,0.875,2,3.5,0,0,2,1
+38,M,Manager,7,2,1,1,0,1,Transformation Digitale,0.0,2,2.0,0,0,0,2
+29,F,Cadre Commercial,1,3,0,1,3,3,Marketing,0.8181818181818182,2,3.0,1,0,2,2
+22,M,Assistant de Direction,1,1,1,0,1,3,Infra & Cloud,0.4,2,2.25,-1,0,1,0
+36,F,Consultant,1,1,0,0,0,1,Transformation Digitale,0.7777777777777778,3,2.5,0,1,2,1
+40,M,Manager,9,2,0,0,1,5,Infra & Cloud,0.5,1,3.25,1,0,1,1
+46,M,Manager,7,3,0,0,1,4,Transformation Digitale,0.6,2,2.75,0,0,1,0
+32,M,Cadre Commercial,1,3,0,1,0,4,Transformation Digitale,0.5333333333333333,2,3.25,2,0,3,0
+30,M,Tech Lead,1,3,0,0,0,1,Infra & Cloud,0.6666666666666666,1,3.0,2,1,3,0
+27,F,Cadre Commercial,1,2,0,0,0,3,Infra & Cloud,0.875,3,3.5,0,1,2,1
+51,M,Directeur Technique,5,3,0,0,2,4,Infra & Cloud,0.6363636363636364,2,2.25,1,0,2,1
+30,F,Assistant de Direction,5,1,1,1,0,3,Entrepreunariat,0.6666666666666666,2,2.75,0,1,1,0
+41,F,Senior Manager,3,3,1,0,0,3,Infra & Cloud,0.0,2,3.5,0,1,0,1
+30,F,Cadre Commercial,5,2,0,1,0,4,Marketing,0.14285714285714285,3,2.25,1,1,2,2
+29,M,Assistant de Direction,0,1,0,1,0,3,Entrepreunariat,0.7142857142857143,2,3.0,0,1,2,0
+45,F,Cadre Commercial,6,3,0,0,0,3,Transformation Digitale,0.4,1,3.75,1,1,3,1
+54,F,Cadre Commercial,2,2,0,0,1,3,Marketing,0.7142857142857143,2,3.0,0,0,2,0
+36,M,Consultant,8,2,0,0,0,2,Infra & Cloud,0.5,2,3.5,0,1,3,0
+33,F,Assistant de Direction,6,1,0,0,0,4,Transformation Digitale,0.25,2,3.0,2,0,1,0
+37,M,Directeur Technique,1,3,1,0,3,3,Autre,0.6363636363636364,3,3.0,0,0,2,1
+38,M,Cadre Commercial,0,3,0,0,2,3,Infra & Cloud,0.7647058823529411,2,2.25,0,0,3,0
+31,M,Tech Lead,0,2,0,0,1,4,Transformation Digitale,0.6666666666666666,1,3.25,2,0,1,0
+59,M,Assistant de Direction,3,1,0,0,1,3,Infra & Cloud,0.0,2,2.75,1,0,0,0
+37,M,Représentant Commercial,4,1,0,0,1,4,Marketing,0.8,3,2.75,0,0,2,0
+29,F,Cadre Commercial,1,3,0,0,1,1,Transformation Digitale,0.08333333333333333,3,3.25,0,0,3,0
+35,F,Cadre Commercial,1,3,0,0,0,3,Marketing,0.7272727272727273,3,2.75,0,1,2,0
+29,M,Assistant de Direction,1,1,1,1,0,1,Transformation Digitale,0.2,2,3.0,1,1,1,1
+52,F,Consultant,7,1,0,0,0,3,Infra & Cloud,0.6666666666666666,2,2.75,1,1,0,0
+42,M,Senior Manager,1,5,0,0,0,2,Entrepreunariat,0.6521739130434783,2,3.5,0,0,4,0
+59,M,Ressources Humaines,8,1,0,0,0,2,Transformation Digitale,0.6666666666666666,2,2.75,0,0,0,1
+50,F,Senior Manager,3,5,0,0,1,4,Transformation Digitale,0.75,2,3.25,0,0,2,0
+33,M,Consultant,5,1,1,1,1,3,Transformation Digitale,0.6666666666666666,2,2.75,0,0,1,1
+43,F,Senior Manager,5,4,1,0,1,3,Marketing,0.5,2,3.5,1,0,3,1
+33,F,Consultant,7,1,0,1,0,2,Infra & Cloud,0.7,2,1.75,1,0,2,0
+52,M,Senior Manager,1,5,1,0,0,4,Infra & Cloud,0.35294117647058826,1,3.0,1,1,4,0
+32,F,Représentant Commercial,2,1,0,0,1,2,Infra & Cloud,0.4,2,2.25,0,0,1,0
+32,M,Consultant,0,1,1,1,0,3,Infra & Cloud,0.5,2,3.0,1,1,1,0
+39,F,Consultant,7,1,0,0,3,4,Transformation Digitale,0.5,2,3.0,0,0,1,0
+32,M,Cadre Commercial,0,2,0,0,0,4,Marketing,0.5,1,2.75,0,0,1,2
+41,M,Assistant de Direction,2,2,0,0,2,2,Infra & Cloud,0.0,2,1.75,0,0,0,1
+40,M,Assistant de Direction,1,2,0,0,2,2,Entrepreunariat,0.7,2,2.25,0,0,2,2
+45,M,Senior Manager,0,5,0,0,1,3,Autre,0.28,2,3.25,-1,0,4,0
+31,M,Directeur Technique,9,3,0,0,1,4,Transformation Digitale,0.6666666666666666,3,2.25,0,0,0,0
+33,F,Assistant de Direction,1,1,0,0,1,4,Infra & Cloud,0.6666666666666666,2,3.0,1,0,0,0
+34,M,Tech Lead,6,2,0,0,1,4,Infra & Cloud,0.75,2,2.5,1,0,3,0
+37,F,Assistant de Direction,2,1,0,0,1,2,Transformation Digitale,0.5,2,1.75,1,0,1,0
+45,M,Tech Lead,4,2,0,0,1,4,Infra & Cloud,0.5,3,2.75,-1,0,1,1
+37,M,Tech Lead,6,3,0,1,2,3,Transformation Digitale,0.0,3,2.25,0,0,0,1
+39,F,Manager,0,3,0,0,0,4,Entrepreunariat,0.4,3,3.25,1,1,3,0
+29,M,Assistant de Direction,1,1,0,0,0,3,Infra & Cloud,0.7142857142857143,2,2.75,0,1,2,1
+42,F,Assistant de Direction,3,2,1,0,0,2,Infra & Cloud,0.5,2,2.75,-1,1,1,1
+29,M,Cadre Commercial,2,2,0,0,1,2,Marketing,0.5,2,3.75,0,0,1,1
+25,F,Tech Lead,0,2,0,0,2,3,Infra & Cloud,0.4,2,2.75,0,0,1,0
+42,F,Consultant,0,1,1,0,1,3,Transformation Digitale,0.8,2,2.75,1,0,2,0
+40,M,Directeur Technique,0,5,0,0,1,2,Transformation Digitale,0.4090909090909091,2,2.75,0,0,4,0
+51,M,Assistant de Direction,1,1,0,0,0,3,Infra & Cloud,0.0,2,2.75,0,0,0,0
+31,M,Consultant,0,1,0,1,0,2,Transformation Digitale,0.6666666666666666,3,2.75,1,1,1,2
+32,M,Consultant,1,1,0,0,0,3,Infra & Cloud,0.5,3,2.0,0,0,1,1
+38,M,Cadre Commercial,3,2,0,0,1,2,Infra & Cloud,0.5555555555555556,1,3.75,1,0,2,0
+32,M,Consultant,4,2,0,0,0,1,Entrepreunariat,0.5714285714285714,2,3.0,1,1,2,0
+46,F,Senior Manager,3,4,1,0,1,3,Entrepreunariat,0.875,2,2.25,2,0,2,0
+28,M,Consultant,2,1,0,1,0,4,Infra & Cloud,0.0,2,2.0,0,1,0,0
+29,M,Cadre Commercial,2,2,0,0,2,3,Transformation Digitale,0.0,2,2.0,1,0,0,0
+31,M,Manager,0,2,0,0,1,3,Transformation Digitale,0.8,2,2.75,2,0,2,2
+25,M,Manager,1,2,0,0,2,2,Infra & Cloud,0.7142857142857143,1,2.5,-1,0,2,0
+45,M,Manager,0,4,1,0,0,2,Transformation Digitale,0.47619047619047616,2,3.0,0,0,3,1
+36,M,Consultant,0,1,0,0,1,3,Infra & Cloud,0.6875,2,3.5,0,0,3,1
+55,M,Senior Manager,0,5,1,0,0,3,Transformation Digitale,0.35135135135135137,2,2.75,0,1,4,0
+47,M,Senior Manager,1,3,1,1,1,4,Infra & Cloud,0.8181818181818182,1,2.25,0,0,2,2
+28,M,Assistant de Direction,1,1,0,0,1,3,Transformation Digitale,0.6666666666666666,2,3.5,1,0,1,1
+37,M,Cadre Commercial,4,2,0,0,1,4,Transformation Digitale,0.16666666666666666,2,3.25,0,0,1,1
+21,M,Assistant de Direction,1,1,0,0,0,2,Transformation Digitale,0.0,2,3.0,1,1,1,0
+37,F,Directeur Technique,2,3,1,0,2,4,Transformation Digitale,0.3333333333333333,1,2.25,0,0,1,0
+35,F,Senior Manager,7,3,0,0,1,3,Infra & Cloud,0.25,2,2.0,-1,0,2,2
+38,F,Cadre Commercial,1,2,1,0,1,2,Transformation Digitale,0.7777777777777778,2,2.0,0,0,2,1
+26,F,Tech Lead,1,2,0,0,1,3,Infra & Cloud,0.5714285714285714,3,1.75,1,0,2,0
+50,M,Directeur Technique,3,5,0,0,2,1,Infra & Cloud,0.5454545454545454,2,1.5,0,0,2,0
+53,M,Directeur Technique,3,4,1,0,3,4,Transformation Digitale,0.5,2,3.0,0,0,1,0
+42,M,Cadre Commercial,1,2,0,0,0,1,Infra & Cloud,0.2857142857142857,2,2.75,1,0,3,0
+29,M,Cadre Commercial,1,2,0,0,0,2,Infra & Cloud,0.8181818181818182,3,2.25,0,1,2,0
+55,M,Consultant,3,2,1,0,1,2,Entrepreunariat,0.7272727272727273,2,3.25,0,0,2,1
+26,M,Manager,1,2,1,0,1,2,Transformation Digitale,0.5,3,2.0,0,0,1,1
+37,F,Assistant de Direction,1,1,0,0,0,3,Infra & Cloud,0.3888888888888889,2,3.25,0,1,3,0
+44,M,Consultant,3,1,1,1,1,3,Infra & Cloud,0.0,3,3.0,1,0,0,2
+38,M,Manager,9,2,0,0,1,4,Infra & Cloud,0.6666666666666666,2,3.25,0,0,0,2
+26,M,Consultant,2,1,1,1,1,4,Transformation Digitale,0.5,2,2.5,0,0,1,1
+28,F,Assistant de Direction,1,1,0,0,0,2,Infra & Cloud,0.3333333333333333,2,3.75,1,1,1,1
+49,F,Directeur Technique,9,5,1,0,0,4,Infra & Cloud,0.5,3,2.75,0,1,1,1
+36,M,Assistant de Direction,4,2,0,0,0,3,Entrepreunariat,0.7777777777777778,2,3.0,0,1,2,0
+31,F,Représentant Commercial,1,1,0,0,1,3,Marketing,0.6666666666666666,3,2.75,0,0,0,0
+26,M,Cadre Commercial,1,2,1,1,0,4,Marketing,0.4444444444444444,2,3.25,1,1,2,0
+37,M,Assistant de Direction,1,1,1,0,3,3,Transformation Digitale,0.4,3,2.75,0,0,1,1
+42,F,Cadre Commercial,5,4,0,0,1,3,Marketing,0.38095238095238093,3,3.25,0,0,3,2
+18,M,Consultant,1,1,0,1,0,3,Infra & Cloud,0.0,2,3.0,0,1,0,0
+35,M,Cadre Commercial,0,3,0,0,2,3,Marketing,0.75,2,2.5,0,0,3,1
+36,M,Consultant,4,1,0,0,2,4,Infra & Cloud,0.0,3,3.5,-1,0,0,1
+51,M,Tech Lead,5,2,0,0,1,3,Transformation Digitale,0.4,2,3.25,2,0,1,0
+41,M,Senior Manager,1,4,0,0,0,4,Infra & Cloud,0.17391304347826086,2,2.75,0,1,4,0
+18,F,Représentant Commercial,1,1,0,0,0,3,Transformation Digitale,0.0,2,2.75,1,1,0,1
+28,M,Manager,0,2,0,0,0,2,Transformation Digitale,0.7777777777777778,2,2.25,-1,1,2,1
+31,M,Cadre Commercial,4,2,0,0,1,3,Entrepreunariat,0.7777777777777778,2,2.5,-1,0,2,1
+39,M,Manager,0,3,0,0,3,3,Transformation Digitale,0.3684210526315789,2,2.5,-1,0,3,0
+36,F,Consultant,7,2,0,0,1,4,Infra & Cloud,0.8,1,2.5,0,0,2,2
+32,M,Cadre Commercial,1,2,0,0,1,3,Infra & Cloud,0.5714285714285714,2,3.0,1,0,3,1
+38,F,Directeur Technique,3,3,0,0,1,2,Infra & Cloud,0.09090909090909091,2,2.25,1,0,2,2
+58,M,Manager,2,2,1,0,1,4,Infra & Cloud,0.3333333333333333,1,3.5,2,0,1,0
+31,M,Assistant de Direction,0,1,1,0,1,4,Entrepreunariat,0.5,2,3.25,0,0,1,0
+31,M,Ressources Humaines,3,2,0,0,0,3,Ressources Humaines,0.0,2,2.25,1,0,0,0
+45,M,Consultant,1,3,0,0,1,3,Infra & Cloud,0.44,3,1.5,0,0,4,1
+31,M,Assistant de Direction,0,1,1,0,1,4,Infra & Cloud,0.6666666666666666,2,2.5,0,0,0,0
+33,F,Senior Manager,6,3,0,0,2,4,Infra & Cloud,0.7272727272727273,3,2.75,0,0,2,0
+39,M,Senior Manager,1,4,1,0,0,1,Transformation Digitale,0.45454545454545453,2,2.75,0,0,4,1
+43,F,Consultant,0,1,0,0,0,4,Infra & Cloud,0.7777777777777778,3,2.75,0,1,2,1
+49,F,Manager,7,4,1,0,0,2,Entrepreunariat,0.875,2,3.25,1,1,2,0
+52,M,Assistant de Direction,2,2,0,1,0,4,Transformation Digitale,0.7777777777777778,2,2.0,1,0,2,1
+27,F,Assistant de Direction,1,1,1,0,0,3,Infra & Cloud,0.4,2,2.25,0,1,1,0
+32,F,Cadre Commercial,1,2,1,0,0,2,Entrepreunariat,0.6428571428571429,2,3.0,1,0,3,1
+27,M,Cadre Commercial,1,2,1,0,0,3,Infra & Cloud,0.6666666666666666,2,2.75,0,1,1,0
+31,M,Cadre Commercial,4,2,0,0,3,3,Marketing,0.875,2,3.75,0,0,2,1
+32,F,Assistant de Direction,7,2,0,0,0,4,Transformation Digitale,0.875,2,2.5,-1,1,2,0
+28,M,Assistant de Direction,5,1,1,1,0,4,Transformation Digitale,0.5,2,2.75,2,0,1,0
+30,F,Assistant de Direction,1,2,0,0,2,2,Transformation Digitale,0.8181818181818182,2,3.75,0,0,2,2
+31,F,Tech Lead,1,3,0,0,1,2,Infra & Cloud,0.8181818181818182,3,2.5,2,0,2,1
+39,M,Senior Manager,1,5,0,0,1,2,Transformation Digitale,0.13636363636363635,3,2.75,1,0,4,1
+39,F,Cadre Commercial,4,2,1,1,0,2,Transformation Digitale,0.0,2,2.5,0,0,0,0
+33,M,Cadre Commercial,3,2,0,0,0,3,Marketing,0.125,3,2.75,1,1,2,1
+47,M,Directeur Technique,4,5,0,0,1,5,Infra & Cloud,0.25,2,3.0,0,0,1,0
+43,F,Consultant,1,2,0,0,1,4,Infra & Cloud,0.0,3,3.0,1,0,2,1
+27,M,Cadre Commercial,0,2,1,0,1,1,Marketing,0.6666666666666666,1,3.0,0,0,1,0
+54,F,Assistant de Direction,3,2,0,0,0,4,Infra & Cloud,0.6,3,3.25,0,1,1,1
+43,F,Manager,8,3,0,0,1,3,Infra & Cloud,0.0,2,1.75,0,0,0,1
+45,M,Assistant de Direction,9,2,0,0,2,4,Autre,0.7272727272727273,2,3.0,0,0,2,1
+40,M,Cadre Commercial,2,2,1,0,3,2,Transformation Digitale,0.4,2,2.75,3,0,1,0
+29,M,Consultant,1,1,1,1,0,4,Autre,0.875,2,2.25,2,0,2,1
+29,M,Consultant,0,1,0,0,0,5,Autre,0.5,2,3.0,1,1,1,1
+30,F,Cadre Commercial,1,2,0,0,3,3,Marketing,0.18181818181818182,2,3.25,1,0,2,0
+27,F,Cadre Commercial,1,2,0,0,1,4,Marketing,0.7777777777777778,2,2.0,0,0,2,1
+37,M,Tech Lead,7,2,0,0,2,2,Transformation Digitale,0.5714285714285714,2,3.25,0,0,2,0
+38,M,Directeur Technique,0,3,1,0,1,2,Infra & Cloud,0.75,2,3.0,1,0,3,1
+31,F,Tech Lead,1,3,1,0,0,4,Transformation Digitale,0.8333333333333334,2,3.0,0,1,3,1
+29,F,Cadre Commercial,1,2,1,0,2,1,Marketing,0.875,2,2.5,1,0,2,1
+35,M,Tech Lead,0,3,0,0,0,4,Entrepreunariat,0.7647058823529411,2,3.0,0,1,3,0
+23,M,Assistant de Direction,1,1,0,0,2,1,Infra & Cloud,0.4,2,3.0,0,0,1,2
+41,M,Tech Lead,6,2,1,0,0,3,Transformation Digitale,0.3333333333333333,2,3.25,1,1,1,1
+47,M,Représentant Commercial,3,2,0,0,0,1,Transformation Digitale,0.0,3,2.25,0,1,0,0
+42,F,Directeur Technique,2,4,0,0,0,5,Infra & Cloud,0.0,2,2.5,0,1,0,2
+29,M,Cadre Commercial,1,2,0,0,1,3,Infra & Cloud,0.4,1,2.5,0,0,1,0
+42,M,Ressources Humaines,0,1,1,0,1,1,Entrepreunariat,0.0,2,3.0,0,0,1,0
+32,F,Consultant,1,1,0,0,1,3,Transformation Digitale,0.7777777777777778,2,2.75,0,0,2,0
+48,F,Senior Manager,3,3,0,0,1,1,Transformation Digitale,0.0,2,1.75,1,0,0,2
+37,M,Assistant de Direction,4,2,1,0,2,3,Transformation Digitale,0.875,2,2.0,-1,0,2,1
+30,F,Cadre Commercial,7,2,1,0,1,2,Entrepreunariat,0.6666666666666666,1,3.25,0,0,0,2
+26,M,Cadre Commercial,1,2,0,0,1,3,Infra & Cloud,0.7777777777777778,2,2.75,0,0,2,0
+42,M,Manager,3,2,0,0,0,4,Autre,0.0,2,2.5,2,1,0,0
+21,F,Représentant Commercial,1,1,1,1,0,1,Entrepreunariat,0.5,3,2.25,1,1,1,0
+36,F,Cadre Commercial,4,2,0,0,0,5,Transformation Digitale,0.0,1,3.25,0,1,0,0
+36,M,Cadre Commercial,4,3,0,0,1,4,Transformation Digitale,0.8571428571428571,3,2.25,1,0,3,0
+57,M,Manager,2,2,0,0,0,4,Transformation Digitale,0.5,2,3.25,0,0,1,0
+40,F,Consultant,3,1,1,0,1,4,Infra & Cloud,0.875,2,3.25,-1,0,2,1
+21,M,Représentant Commercial,1,1,0,0,0,2,Transformation Digitale,0.5,1,2.5,1,1,1,1
+33,F,Représentant Commercial,1,1,1,1,0,3,Marketing,0.0,2,3.0,0,1,0,0
+37,F,Consultant,6,1,0,0,1,3,Transformation Digitale,0.5,2,2.25,1,0,1,1
+46,F,Tech Lead,2,2,0,0,0,4,Transformation Digitale,0.0,1,3.25,0,0,0,1
+41,M,Cadre Commercial,1,2,0,1,0,3,Marketing,0.7777777777777778,3,2.25,0,1,2,0
+50,M,Manager,6,3,0,0,0,3,Entrepreunariat,0.6,2,3.75,1,1,1,1
+40,M,Cadre Commercial,2,2,1,1,2,2,Marketing,0.0,2,2.5,1,0,2,2
+31,M,Assistant de Direction,0,1,1,0,0,4,Infra & Cloud,0.6666666666666666,2,3.0,1,1,0,1
+21,F,Représentant Commercial,1,1,0,1,0,3,Infra & Cloud,0.0,2,3.0,-1,1,0,1
+29,M,Assistant de Direction,9,1,0,0,0,3,Infra & Cloud,0.5,2,3.75,0,1,1,2
+35,M,Manager,9,2,0,0,0,4,Infra & Cloud,0.0,2,2.75,1,1,0,1
+27,M,Consultant,1,1,0,0,1,2,Transformation Digitale,0.6666666666666666,2,2.75,0,0,1,0
+28,M,Cadre Commercial,1,2,0,0,0,4,Infra & Cloud,0.875,2,3.25,0,1,2,1
+49,M,Manager,8,3,0,0,0,3,Autre,0.0,2,2.75,2,1,1,1
+51,F,Cadre Commercial,4,2,0,0,1,2,Infra & Cloud,0.875,2,3.0,0,0,2,1
+36,F,Assistant de Direction,4,1,0,0,1,3,Infra & Cloud,0.6666666666666666,2,3.0,0,0,0,0
+34,M,Cadre Commercial,8,2,1,1,0,3,Marketing,0.6666666666666666,1,2.25,-1,1,1,1
+55,F,Senior Manager,2,4,1,0,0,3,Infra & Cloud,0.3333333333333333,2,3.25,0,1,1,0
+24,F,Cadre Commercial,1,2,1,0,1,4,Marketing,0.5,2,3.75,0,0,1,1
+30,M,Représentant Commercial,1,1,0,0,1,1,Entrepreunariat,0.0,2,2.25,0,0,0,0
+26,M,Assistant de Direction,0,1,0,1,0,1,Entrepreunariat,0.5714285714285714,3,2.5,1,1,2,0
+22,F,Assistant de Direction,1,1,0,0,1,3,Transformation Digitale,0.6666666666666666,2,2.5,0,0,0,1
+36,M,Cadre Commercial,1,3,0,0,2,2,Transformation Digitale,0.0,2,2.5,1,0,2,0
+30,M,Assistant de Direction,9,1,1,1,0,3,Entrepreunariat,0.0,3,3.25,1,1,0,0
+37,F,Consultant,1,1,0,0,1,3,Infra & Cloud,0.8947368421052632,2,2.5,0,0,3,1
+40,F,Cadre Commercial,7,2,0,0,2,2,Marketing,0.5,2,3.0,0,0,1,0
+42,F,Consultant,3,1,0,0,1,4,Infra & Cloud,0.3333333333333333,2,2.0,0,0,1,0
+37,M,Tech Lead,2,2,1,0,0,4,Infra & Cloud,0.5,2,2.75,0,1,0,1
+43,M,Directeur Technique,1,4,0,0,1,3,Infra & Cloud,0.34615384615384615,2,2.25,1,0,4,1
+40,F,Consultant,6,2,0,0,1,3,Transformation Digitale,0.0,2,2.5,2,0,0,0
+54,M,Directeur Technique,4,5,0,0,1,2,Transformation Digitale,0.4,2,1.75,0,0,1,0
+34,F,Cadre Commercial,9,2,0,0,1,4,Marketing,0.5,1,2.5,0,0,1,0
+31,F,Tech Lead,1,2,0,0,1,2,Transformation Digitale,0.8571428571428571,2,1.5,0,0,3,1
+43,M,Consultant,7,1,0,0,1,3,Transformation Digitale,0.5,3,3.0,1,0,1,2
+43,F,Manager,4,2,1,0,0,4,Autre,0.3333333333333333,2,3.25,0,0,1,1
+25,F,Cadre Commercial,1,2,1,0,0,2,Infra & Cloud,0.5,2,2.75,1,1,1,0
+37,F,Assistant de Direction,3,2,1,0,2,5,Transformation Digitale,0.5,1,2.25,0,0,3,2
+31,M,Consultant,1,1,0,0,1,2,Infra & Cloud,0.4,2,2.75,1,0,1,0
+39,M,Senior Manager,1,5,1,0,1,1,Infra & Cloud,0.2727272727272727,3,2.75,0,0,4,0
+56,F,Cadre Commercial,9,4,0,0,3,3,Infra & Cloud,0.875,3,2.5,-1,0,2,1
+30,F,Cadre Commercial,0,2,0,0,0,3,Entrepreunariat,0.6666666666666666,2,2.5,0,1,1,1
+41,M,Cadre Commercial,1,3,0,0,1,3,Marketing,0.6363636363636364,2,2.25,-1,0,2,0
+28,M,Consultant,1,2,0,0,1,2,Transformation Digitale,0.7272727272727273,2,2.75,0,0,2,1
+25,M,Consultant,5,1,0,1,1,3,Transformation Digitale,0.6666666666666666,2,2.0,0,0,0,0
+52,M,Tech Lead,2,3,1,0,0,3,Transformation Digitale,0.6666666666666666,2,3.25,1,0,1,0
+45,M,Assistant de Direction,3,1,0,0,2,2,Infra & Cloud,0.6666666666666666,2,2.75,1,0,0,1
+52,F,Senior Manager,2,4,0,0,0,2,Infra & Cloud,0.6666666666666666,2,3.25,0,0,1,0
+42,F,Assistant de Direction,2,2,0,0,1,2,Infra & Cloud,0.3333333333333333,3,2.25,0,0,1,2
+30,F,Tech Lead,2,2,0,0,0,3,Infra & Cloud,0.3333333333333333,2,3.25,3,1,1,0
+60,F,Senior Manager,5,5,0,0,0,3,Infra & Cloud,0.3333333333333333,2,1.75,0,0,4,1
+46,F,Tech Lead,2,2,0,0,1,3,Transformation Digitale,0.7272727272727273,2,2.75,0,0,2,1
+42,F,Manager,0,2,0,0,3,4,Entrepreunariat,0.5714285714285714,3,4.0,1,0,2,2
+24,F,Représentant Commercial,1,1,1,1,0,1,Entrepreunariat,0.6666666666666666,2,2.0,0,1,1,0
+34,F,Représentant Commercial,0,1,0,1,1,2,Marketing,0.0,3,3.25,2,0,0,1
+38,M,Consultant,1,1,1,0,1,2,Infra & Cloud,0.0,3,3.5,1,0,0,0
+40,F,Senior Manager,0,5,0,0,0,4,Infra & Cloud,0.5714285714285714,2,3.25,0,0,3,0
+26,F,Assistant de Direction,1,1,0,0,2,3,Infra & Cloud,0.5,2,2.0,1,0,1,2
+30,M,Consultant,4,1,0,0,1,3,Infra & Cloud,0.6666666666666666,1,2.75,0,0,1,0
+29,M,Directeur Technique,1,3,0,0,0,4,Transformation Digitale,0.6363636363636364,2,2.75,1,0,2,0
+29,F,Assistant de Direction,5,1,0,1,0,5,Entrepreunariat,0.3333333333333333,2,2.75,1,0,0,2
+19,M,Ressources Humaines,1,1,0,1,0,2,Entrepreunariat,0.0,2,3.0,1,1,0,0
+30,F,Cadre Commercial,0,3,0,0,0,4,Autre,0.8,1,2.5,0,0,2,2
+57,M,Senior Manager,3,4,0,0,1,3,Marketing,0.0,2,2.5,1,0,0,2
+50,M,Senior Manager,0,4,0,0,1,4,Infra & Cloud,0.25,2,2.5,1,0,4,2
+30,F,Consultant,0,1,0,0,0,3,Transformation Digitale,0.5833333333333334,1,3.0,0,1,3,0
+60,F,Cadre Commercial,4,3,0,0,0,3,Marketing,0.5789473684210527,3,3.0,1,0,3,2
+47,F,Tech Lead,5,2,0,0,3,2,Transformation Digitale,0.6666666666666666,2,2.75,0,0,1,0
+46,M,Directeur Technique,6,4,0,0,0,3,Infra & Cloud,0.25,2,2.0,0,0,1,0
+35,M,Consultant,0,1,0,0,0,3,Infra & Cloud,0.5,2,3.25,2,1,1,2
+54,F,Consultant,7,2,0,0,0,4,Infra & Cloud,0.0,2,3.0,0,1,0,1
+34,M,Assistant de Direction,3,1,0,0,1,4,Infra & Cloud,0.875,2,3.25,1,0,2,0
+46,F,Cadre Commercial,2,3,1,0,1,3,Marketing,0.5,2,3.25,1,0,1,1
+31,M,Tech Lead,1,3,0,0,1,1,Infra & Cloud,0.5714285714285714,2,3.25,1,0,3,1
+33,M,Senior Manager,7,3,1,1,0,1,Transformation Digitale,0.875,2,3.25,0,0,2,1
+33,M,Consultant,7,1,0,1,3,1,Transformation Digitale,0.6,2,2.25,2,0,1,1
+30,M,Représentant Commercial,0,1,0,0,0,1,Marketing,0.5,2,2.5,0,1,1,1
+35,M,Manager,4,3,1,0,0,3,Infra & Cloud,0.0,2,3.25,0,0,2,1
+31,M,Manager,3,3,0,1,0,3,Infra & Cloud,0.0,3,2.0,0,0,0,1
+34,F,Ressources Humaines,9,3,1,1,3,3,Ressources Humaines,0.5,3,2.25,0,0,1,2
+42,M,Consultant,4,1,0,0,1,2,Autre,0.0,3,3.0,0,0,0,0
+36,M,Cadre Commercial,1,3,0,0,0,4,Transformation Digitale,0.6363636363636364,1,3.0,0,1,2,1
+22,M,Consultant,5,1,0,1,0,1,Entrepreunariat,0.6666666666666666,3,3.0,1,1,0,0
+48,F,Cadre Commercial,2,2,0,0,1,5,Marketing,0.7,2,2.5,0,0,2,0
+55,F,Senior Manager,3,4,0,0,0,5,Infra & Cloud,0.6363636363636364,2,2.5,1,1,2,1
+41,M,Cadre Commercial,7,2,0,0,0,2,Infra & Cloud,0.6666666666666666,1,3.75,0,1,3,1
+35,M,Cadre Commercial,9,2,0,0,0,3,Marketing,0.75,2,2.75,0,0,3,0
+40,F,Tech Lead,7,4,0,0,0,3,Infra & Cloud,0.6190476190476191,2,2.75,0,1,3,1
+39,F,Consultant,1,1,0,0,1,1,Infra & Cloud,0.7777777777777778,3,2.5,0,0,2,1
+31,M,Cadre Commercial,4,2,1,0,0,1,Infra & Cloud,0.7142857142857143,2,3.25,0,1,2,0
+42,M,Tech Lead,1,3,1,0,1,3,Transformation Digitale,0.7272727272727273,2,2.75,1,0,2,2
+45,M,Cadre Commercial,0,2,0,0,1,3,Autre,0.7777777777777778,2,3.0,0,0,2,0
+26,F,Ressources Humaines,0,1,1,1,1,4,Infra & Cloud,0.0,3,2.25,0,0,2,1
+29,M,Tech Lead,4,2,0,0,2,3,Entrepreunariat,0.5,2,3.5,0,0,1,1
+33,F,Directeur Technique,4,4,0,0,1,5,Transformation Digitale,0.7142857142857143,2,2.5,-1,0,2,0
+31,M,Senior Manager,9,3,0,0,1,3,Infra & Cloud,0.16666666666666666,2,3.0,2,0,1,1
+18,M,Représentant Commercial,1,1,1,1,0,3,Marketing,0.0,3,2.75,0,1,0,0
+40,M,Cadre Commercial,3,3,0,0,1,3,Autre,0.5,1,2.5,2,0,0,2
+41,F,Manager,2,2,1,0,0,4,Autre,0.7777777777777778,1,2.0,1,1,2,0
+26,M,Cadre Commercial,5,2,0,0,2,2,Transformation Digitale,0.0,2,2.0,0,0,0,2
+35,F,Cadre Commercial,1,2,0,0,0,3,Transformation Digitale,0.5,2,2.75,0,1,1,0
+34,M,Cadre Commercial,1,2,0,0,0,4,Infra & Cloud,0.6363636363636364,2,3.75,-1,1,2,2
+26,M,Consultant,1,1,1,1,0,3,Entrepreunariat,0.0,2,2.5,2,1,0,2
+37,F,Tech Lead,4,3,0,0,0,3,Entrepreunariat,0.2857142857142857,2,3.5,0,1,2,0
+46,F,Manager,5,3,0,0,0,1,Transformation Digitale,0.6666666666666666,3,2.5,0,0,0,1
+41,F,Senior Manager,7,4,0,0,1,5,Infra & Cloud,0.42105263157894735,2,2.0,0,0,3,0
+37,M,Cadre Commercial,1,3,0,0,1,4,Transformation Digitale,0.7,1,2.5,0,0,2,1
+52,M,Assistant de Direction,3,2,1,0,2,2,Entrepreunariat,0.8181818181818182,2,2.5,0,0,2,1
+32,M,Cadre Commercial,8,2,0,1,0,4,Autre,0.4,1,3.5,-1,0,1,1
+24,M,Représentant Commercial,0,1,0,0,2,3,Transformation Digitale,0.3333333333333333,3,3.5,0,0,0,2
+38,F,Manager,3,2,0,0,1,3,Transformation Digitale,0.0,2,3.0,0,0,0,1
+37,F,Tech Lead,6,2,0,0,1,4,Infra & Cloud,0.42857142857142855,2,2.0,0,0,2,0
+49,M,Directeur Technique,1,5,1,0,1,4,Infra & Cloud,0.28125,2,3.25,1,0,4,1
+24,M,Assistant de Direction,1,1,1,0,2,3,Transformation Digitale,0.5714285714285714,2,2.75,-1,0,2,2
+26,M,Cadre Commercial,1,2,0,0,2,2,Marketing,0.6666666666666666,2,2.75,1,0,1,2
+24,M,Consultant,1,1,0,0,1,2,Autre,0.0,2,3.25,2,0,0,1
+50,M,Senior Manager,1,5,0,0,1,3,Transformation Digitale,0.21212121212121213,3,2.25,0,0,4,0
+25,M,Représentant Commercial,1,1,0,0,0,1,Transformation Digitale,0.75,2,2.75,0,0,2,1
+24,F,Consultant,1,1,1,1,1,3,Infra & Cloud,0.2857142857142857,3,2.75,0,0,2,1
+30,M,Représentant Commercial,1,1,0,1,1,4,Infra & Cloud,0.0,3,2.5,1,0,0,1
+34,M,Assistant de Direction,1,1,1,0,1,2,Infra & Cloud,0.42857142857142855,2,3.25,1,0,2,0
+31,M,Cadre Commercial,2,2,0,1,0,4,Transformation Digitale,0.5,2,1.75,0,0,1,1
+35,M,Consultant,4,2,0,0,0,2,Autre,0.5,2,3.0,1,1,1,2
+31,M,Cadre Commercial,4,2,0,0,2,4,Transformation Digitale,0.875,2,3.25,0,0,2,1
+27,F,Assistant de Direction,0,1,0,0,2,4,Transformation Digitale,0.5,2,2.25,1,0,1,1
+37,M,Cadre Commercial,4,2,1,0,1,3,Marketing,0.0,2,3.0,0,0,1,0
+20,F,Assistant de Direction,1,1,0,0,0,3,Infra & Cloud,0.0,2,3.5,1,1,0,0
+42,F,Manager,1,2,0,0,2,4,Infra & Cloud,0.18181818181818182,2,3.0,0,0,2,0
+43,M,Directeur Technique,4,4,1,0,1,4,Autre,0.0,2,2.75,1,0,0,1
+38,F,Assistant de Direction,3,1,0,0,0,1,Infra & Cloud,0.0,2,2.5,0,1,0,0
+43,M,Consultant,3,2,1,0,1,5,Transformation Digitale,0.7777777777777778,3,3.0,0,0,2,1
+48,F,Senior Manager,7,4,0,0,1,4,Infra & Cloud,0.5,2,1.75,1,0,1,0
+44,F,Ressources Humaines,4,2,0,0,0,4,Infra & Cloud,0.6666666666666666,2,2.5,1,1,0,0
+34,F,Représentant Commercial,1,1,1,0,2,3,Entrepreunariat,0.6666666666666666,2,3.25,0,0,2,1
+27,M,Représentant Commercial,0,1,0,1,1,1,Marketing,0.4,2,2.25,0,0,1,0
+21,M,Représentant Commercial,1,1,0,0,0,1,Entrepreunariat,0.5,2,3.0,0,1,1,2
+44,M,Senior Manager,4,5,1,0,1,4,Autre,0.3333333333333333,2,3.25,0,0,0,0
+22,M,Assistant de Direction,0,1,0,0,0,1,Transformation Digitale,0.6666666666666666,2,2.75,1,0,0,1
+33,M,Cadre Commercial,0,2,0,0,0,4,Marketing,0.3333333333333333,2,3.25,0,0,1,1
+32,F,Assistant de Direction,1,2,1,0,1,4,Infra & Cloud,0.7142857142857143,2,2.75,0,0,2,1
+30,F,Assistant de Direction,1,1,0,0,1,3,Transformation Digitale,0.0,3,3.0,1,0,0,0
+53,F,Cadre Commercial,7,2,0,0,0,1,Transformation Digitale,0.6666666666666666,2,3.25,1,1,3,0
+34,M,Assistant de Direction,1,1,0,0,1,5,Infra & Cloud,0.7272727272727273,2,3.0,0,0,2,0
+45,F,Cadre Commercial,2,2,0,1,2,4,Infra & Cloud,0.0,3,2.25,0,0,0,2
+26,F,Consultant,1,1,1,0,1,3,Infra & Cloud,0.5,2,3.25,0,0,1,1
+37,M,Tech Lead,1,3,0,0,1,3,Autre,0.7272727272727273,2,3.0,0,0,2,0
+29,F,Cadre Commercial,1,2,0,0,1,2,Transformation Digitale,0.2857142857142857,2,2.0,0,0,2,0
+35,M,Assistant de Direction,1,2,0,0,0,4,Infra & Cloud,0.4444444444444444,2,2.75,2,1,3,1
+33,M,Manager,3,2,0,0,1,3,Infra & Cloud,0.5,3,2.75,1,0,3,1
+54,M,Ressources Humaines,2,3,0,0,1,4,Transformation Digitale,0.1,2,3.0,0,0,2,1
+36,M,Tech Lead,2,2,1,0,1,2,Transformation Digitale,0.5,2,2.5,1,0,1,1
+27,M,Assistant de Direction,0,1,0,0,0,4,Transformation Digitale,0.2,2,3.0,1,1,1,0
+20,M,Assistant de Direction,1,1,1,1,0,1,Transformation Digitale,0.5,2,3.5,0,1,0,1
+33,M,Assistant de Direction,1,1,1,1,0,3,Infra & Cloud,0.6363636363636364,3,1.5,0,1,2,0
+35,M,Consultant,1,1,0,0,2,3,Infra & Cloud,0.0,1,3.0,1,0,0,0
+23,M,Assistant de Direction,2,1,0,0,1,3,Transformation Digitale,0.5,2,1.75,-1,0,1,0
+25,M,Cadre Commercial,0,2,0,0,1,3,Infra & Cloud,0.5,2,3.0,0,0,1,1
+38,F,Cadre Commercial,0,2,0,0,0,4,Marketing,0.625,2,3.0,2,1,2,1
+29,M,Assistant de Direction,1,1,0,0,1,4,Infra & Cloud,0.7272727272727273,3,3.25,2,0,2,0
+48,M,Cadre Commercial,3,2,0,0,0,1,Marketing,0.6666666666666666,2,2.75,-1,0,0,0
+27,F,Cadre Commercial,1,2,1,0,2,1,Transformation Digitale,0.5714285714285714,3,3.25,0,0,2,0
+37,M,Assistant de Direction,3,1,0,0,0,2,Infra & Cloud,0.0,2,3.0,-1,1,0,1
+50,M,Consultant,1,1,1,0,3,1,Transformation Digitale,0.38095238095238093,2,3.25,-1,0,3,2
+34,F,Manager,1,3,0,0,0,3,Transformation Digitale,0.7777777777777778,2,3.0,1,1,2,1
+24,F,Cadre Commercial,9,2,0,1,0,2,Infra & Cloud,0.0,2,2.0,0,1,0,0
+39,F,Manager,1,2,0,0,0,4,Entrepreunariat,0.47619047619047616,2,2.75,1,1,3,0
+32,M,Cadre Commercial,1,2,0,0,0,3,Marketing,0.7272727272727273,2,3.5,0,1,2,1
+50,M,Cadre Commercial,3,2,1,1,1,2,Entrepreunariat,0.6,3,2.25,0,0,1,1
+38,F,Manager,0,2,0,0,0,4,Infra & Cloud,0.8,2,2.75,-1,1,2,0
+27,F,Tech Lead,1,3,0,0,0,2,Infra & Cloud,0.7,2,2.75,0,0,2,0
+32,F,Directeur Technique,3,3,0,0,0,2,Infra & Cloud,0.875,2,3.5,0,1,2,0
+47,M,Cadre Commercial,2,2,0,0,0,4,Marketing,0.875,2,3.0,0,1,2,1
+40,M,Cadre Commercial,5,3,1,0,1,4,Infra & Cloud,0.631578947368421,3,2.75,2,0,3,0
+53,M,Directeur Technique,3,4,0,0,0,3,Infra & Cloud,0.5,2,3.0,-1,0,1,1
+41,M,Senior Manager,3,5,0,0,3,4,Ressources Humaines,0.2727272727272727,2,2.5,1,0,4,1
+60,M,Cadre Commercial,8,2,0,0,0,4,Marketing,0.6666666666666666,2,2.25,0,1,0,1
+27,M,Tech Lead,1,3,0,0,2,2,Infra & Cloud,0.7,3,2.5,1,0,2,1
+41,M,Senior Manager,1,5,0,0,1,3,Ressources Humaines,0.43478260869565216,2,3.0,1,0,4,0
+50,M,Représentant Commercial,7,1,0,0,1,4,Marketing,0.6666666666666666,2,3.25,0,0,0,1
+28,F,Assistant de Direction,7,1,1,1,0,2,Infra & Cloud,0.875,2,2.5,2,1,2,0
+36,F,Directeur Technique,9,3,0,0,1,3,Infra & Cloud,0.5555555555555556,1,1.5,-1,0,2,1
+38,F,Tech Lead,4,3,1,0,0,3,Infra & Cloud,0.0,2,3.5,0,1,0,0
+44,M,Consultant,2,1,0,0,0,3,Transformation Digitale,0.6666666666666666,1,2.5,2,1,1,2
+47,F,Cadre Commercial,9,4,1,0,2,3,Transformation Digitale,0.5652173913043478,3,3.25,0,0,4,0
+30,M,Cadre Commercial,7,2,0,0,1,5,Marketing,0.7777777777777778,2,3.25,1,0,2,2
+29,M,Représentant Commercial,1,1,0,0,0,3,Infra & Cloud,0.0,2,3.0,0,1,0,1
+42,M,Assistant de Direction,6,1,1,1,0,3,Transformation Digitale,0.6666666666666666,3,3.25,-1,0,0,1
+43,M,Cadre Commercial,3,2,0,0,1,3,Infra & Cloud,0.6666666666666666,3,3.5,1,0,0,1
+34,F,Manager,3,2,0,0,0,2,Transformation Digitale,0.5,2,3.0,0,1,1,1
+23,M,Consultant,1,1,0,0,1,1,Transformation Digitale,0.4,2,2.75,0,0,1,1
+39,F,Ressources Humaines,9,2,0,0,1,3,Ressources Humaines,0.6666666666666666,2,2.25,-1,0,2,0
+56,M,Manager,7,4,0,0,0,3,Transformation Digitale,0.09090909090909091,2,3.0,0,0,2,1
+40,F,Assistant de Direction,0,1,1,0,0,1,Transformation Digitale,0.6,2,3.5,2,1,1,0
+27,F,Manager,8,2,0,0,0,3,Transformation Digitale,0.875,2,1.75,1,1,2,1
+29,M,Représentant Commercial,1,1,0,0,2,3,Marketing,0.6666666666666666,2,3.25,0,0,0,1
+53,M,Consultant,2,2,0,0,0,3,Infra & Cloud,0.6666666666666666,2,3.75,0,1,0,1
+35,F,Manager,2,2,0,0,1,4,Infra & Cloud,0.0,1,2.5,0,0,0,0
+32,M,Consultant,1,2,0,0,2,4,Infra & Cloud,0.6363636363636364,3,3.0,0,0,2,2
+38,M,Assistant de Direction,6,1,1,0,1,5,Transformation Digitale,0.5,2,2.5,0,0,0,0
+34,F,Tech Lead,3,2,0,0,1,5,Infra & Cloud,0.0,2,2.25,0,0,0,1
+52,M,Senior Manager,1,4,0,0,0,4,Marketing,0.45714285714285713,2,2.25,1,0,4,0
+33,M,Assistant de Direction,1,1,1,1,0,4,Autre,0.7272727272727273,2,3.25,0,1,2,0
+25,F,Cadre Commercial,1,2,0,0,0,1,Transformation Digitale,0.5714285714285714,2,2.75,1,1,2,2
+45,M,Représentant Commercial,0,2,0,0,0,2,Entrepreunariat,0.1111111111111111,2,2.25,2,1,2,0
+23,M,Assistant de Direction,1,1,0,0,0,1,Transformation Digitale,0.6666666666666666,2,2.75,-1,1,0,1
+47,F,Cadre Commercial,4,2,1,1,0,2,Infra & Cloud,0.5,3,3.0,-1,1,1,2
+34,M,Cadre Commercial,1,2,0,0,0,3,Autre,0.5714285714285714,2,3.5,1,1,2,0
+55,M,Senior Manager,5,5,1,1,1,3,Transformation Digitale,0.6666666666666666,2,3.0,0,0,1,0
+36,M,Cadre Commercial,1,3,0,0,0,4,Infra & Cloud,0.8181818181818182,1,1.75,1,1,2,1
+52,M,Assistant de Direction,0,1,0,0,1,4,Transformation Digitale,0.4,1,3.0,0,0,1,1
+26,F,Consultant,3,1,0,0,1,2,Infra & Cloud,0.0,3,2.25,2,0,0,0
+29,F,Manager,4,2,0,0,1,3,Transformation Digitale,0.1111111111111111,2,2.0,0,0,2,2
+26,M,Cadre Commercial,6,2,0,1,0,3,Entrepreunariat,0.4,2,2.5,1,1,1,1
+34,F,Assistant de Direction,2,1,0,0,0,4,Infra & Cloud,0.6,2,3.0,-1,1,1,0
+54,F,Tech Lead,9,2,1,0,2,4,Transformation Digitale,0.6666666666666666,2,2.5,0,0,1,1
+27,M,Cadre Commercial,0,2,0,0,1,1,Marketing,0.2,3,3.0,0,0,1,1
+37,F,Assistant de Direction,0,1,1,0,2,1,Infra & Cloud,0.5,2,2.25,0,0,1,1
+38,F,Tech Lead,6,2,1,0,0,4,Infra & Cloud,0.75,3,2.25,-1,1,3,0
+34,F,Assistant de Direction,1,1,0,0,0,4,Transformation Digitale,0.42857142857142855,2,2.5,1,1,2,0
+35,F,Représentant Commercial,1,1,0,0,1,4,Infra & Cloud,0.5,2,2.25,0,0,1,1
+30,M,Consultant,3,1,0,0,2,3,Infra & Cloud,0.6666666666666666,2,3.25,3,0,0,0
+40,F,Manager,1,2,0,0,1,2,Transformation Digitale,0.7777777777777778,3,3.0,0,0,2,0
+34,F,Cadre Commercial,5,2,0,0,1,2,Infra & Cloud,0.5,2,2.25,0,0,1,1
+42,M,Senior Manager,1,5,0,0,1,3,Infra & Cloud,0.36,3,2.5,0,0,4,1
+23,M,Consultant,1,1,1,1,2,3,Infra & Cloud,0.0,2,2.5,0,0,0,1
+24,M,Consultant,1,1,0,0,3,3,Infra & Cloud,0.0,1,2.75,1,0,0,1
+52,F,Consultant,8,2,0,0,1,4,Infra & Cloud,0.6666666666666666,2,3.0,1,0,1,1
+50,M,Directeur Technique,5,4,0,0,0,3,Transformation Digitale,0.6,2,3.25,0,0,1,0
+29,F,Consultant,1,1,1,1,1,2,Infra & Cloud,0.0,2,2.5,1,0,0,0
+33,M,Directeur Technique,0,3,0,0,0,3,Transformation Digitale,0.5,2,3.5,0,0,3,1
+33,F,Cadre Commercial,5,2,0,1,0,3,Marketing,0.5,2,2.0,0,1,1,1
+47,F,Senior Manager,1,4,1,0,1,2,Autre,0.0,2,3.0,0,0,4,0
+36,F,Tech Lead,0,2,0,0,1,3,Autre,0.5,2,2.25,0,0,2,0
+29,M,Assistant de Direction,1,1,0,0,1,2,Infra & Cloud,0.6363636363636364,2,3.0,0,0,2,2
+58,M,Directeur Technique,7,5,1,1,0,4,Infra & Cloud,0.25,2,3.25,0,1,4,0
+35,F,Assistant de Direction,3,1,0,0,0,4,Infra & Cloud,0.6666666666666666,2,3.25,-1,1,0,0
+42,F,Tech Lead,9,2,1,0,1,2,Infra & Cloud,0.4,2,3.75,1,0,1,0
+28,M,Assistant de Direction,6,1,0,1,0,4,Transformation Digitale,0.3333333333333333,2,3.0,0,1,0,0
+36,M,Ressources Humaines,4,1,0,0,1,3,Ressources Humaines,0.6666666666666666,2,2.5,0,0,1,1
+32,F,Tech Lead,1,2,0,0,1,3,Infra & Cloud,0.5333333333333333,2,3.0,1,0,3,0
+40,M,Consultant,6,2,0,0,0,4,Transformation Digitale,0.0,3,2.75,1,1,0,1
+30,F,Tech Lead,5,2,1,0,0,3,Transformation Digitale,0.0,2,2.75,2,1,0,0
+45,F,Assistant de Direction,1,1,0,0,0,3,Infra & Cloud,0.0,2,3.0,1,1,0,0
+42,M,Tech Lead,1,2,0,0,1,3,Infra & Cloud,0.8,2,2.5,0,0,2,2
+38,M,Manager,2,2,0,0,1,3,Infra & Cloud,0.4,3,1.75,1,0,1,1
+34,F,Assistant de Direction,1,1,0,0,0,4,Infra & Cloud,0.5,3,3.25,1,1,1,1
+49,F,Cadre Commercial,1,3,0,1,2,3,Marketing,0.7,2,3.0,0,0,2,1
+55,M,Cadre Commercial,4,2,0,1,0,1,Transformation Digitale,0.3,2,3.0,0,1,2,0
+43,M,Directeur Technique,6,4,0,0,1,2,Infra & Cloud,0.0,2,2.25,1,0,1,1
+27,M,Directeur Technique,1,3,1,0,1,1,Entrepreunariat,0.8,2,3.0,1,0,2,0
+35,M,Tech Lead,3,3,0,0,0,3,Autre,0.6666666666666666,2,3.0,1,1,2,1
+28,F,Cadre Commercial,1,2,1,0,0,4,Marketing,0.5555555555555556,2,2.0,1,0,2,0
+34,M,Ressources Humaines,0,1,0,0,1,2,Ressources Humaines,0.5,2,2.75,0,0,1,0
+26,F,Assistant de Direction,1,1,1,1,1,2,Transformation Digitale,0.7777777777777778,3,2.5,1,0,2,0
+27,M,Assistant de Direction,1,1,0,0,3,3,Transformation Digitale,0.0,1,3.25,0,0,0,0
+51,F,Senior Manager,2,4,0,0,1,4,Marketing,0.8095238095238095,2,2.25,0,0,3,2
+44,M,Manager,9,2,0,0,0,3,Transformation Digitale,0.5,2,3.0,0,1,1,0
+25,M,Assistant de Direction,7,1,0,0,0,1,Transformation Digitale,0.2,2,1.75,-1,1,1,0
+33,M,Cadre Commercial,1,2,0,0,1,3,Transformation Digitale,0.8,2,1.5,0,0,2,0
+35,F,Assistant de Direction,1,1,0,0,0,1,Transformation Digitale,0.14285714285714285,2,2.5,1,1,2,2
+36,M,Cadre Commercial,1,2,1,0,1,2,Infra & Cloud,0.5789473684210527,2,3.0,0,0,3,0
+32,M,Cadre Commercial,2,2,0,0,1,4,Infra & Cloud,0.5,2,2.75,0,0,1,1
+30,M,Assistant de Direction,9,1,0,0,1,4,Infra & Cloud,0.5,3,2.5,1,0,1,0
+53,F,Cadre Commercial,7,3,1,0,1,2,Marketing,0.6666666666666666,2,3.0,1,0,1,1
+45,M,Cadre Commercial,4,3,1,0,1,3,Marketing,0.3333333333333333,2,2.75,0,0,1,1
+32,F,Assistant de Direction,5,2,0,0,1,2,Transformation Digitale,0.5,2,2.75,-1,0,1,1
+52,F,Tech Lead,3,4,0,0,0,4,Transformation Digitale,0.0,3,3.25,2,0,2,2
+37,M,Cadre Commercial,4,2,0,0,2,4,Marketing,0.0,2,3.5,1,0,0,1
+28,M,Ressources Humaines,1,1,0,0,1,2,Transformation Digitale,0.6666666666666666,2,3.25,1,0,1,1
+22,M,Tech Lead,6,2,0,0,2,2,Infra & Cloud,0.6666666666666666,2,2.5,2,0,0,0
+44,M,Consultant,2,1,1,0,1,4,Infra & Cloud,0.5,2,2.5,0,0,1,1
+42,M,Assistant de Direction,5,1,1,0,0,1,Transformation Digitale,0.6666666666666666,3,3.25,0,1,0,0
+36,M,Ressources Humaines,0,1,0,0,0,3,Infra & Cloud,0.5,2,2.0,2,0,1,1
+25,M,Cadre Commercial,1,2,1,0,0,1,Autre,0.5,2,2.75,0,0,1,0
+35,F,Tech Lead,1,3,1,0,1,3,Infra & Cloud,0.8333333333333334,2,3.0,2,0,3,1
+35,F,Assistant de Direction,1,1,1,1,1,4,Infra & Cloud,0.7272727272727273,3,2.25,0,0,2,2
+32,M,Consultant,0,1,0,0,1,3,Infra & Cloud,0.5,1,3.25,0,0,1,0
+25,M,Cadre Commercial,1,2,0,0,0,1,Marketing,0.5,2,2.25,1,0,1,0
+49,F,Assistant de Direction,2,1,0,0,1,3,Entrepreunariat,0.4,2,2.25,0,0,1,0
+24,M,Consultant,0,1,0,0,0,1,Infra & Cloud,0.6666666666666666,1,2.75,1,0,1,0
+32,M,Cadre Commercial,1,2,0,0,1,2,Infra & Cloud,0.2727272727272727,3,2.75,0,0,2,0
+38,M,Représentant Commercial,0,1,0,0,1,3,Marketing,0.6666666666666666,2,2.75,1,0,0,1
+42,F,Consultant,2,2,1,0,1,3,Infra & Cloud,0.5,2,2.75,-1,0,1,0
+31,M,Assistant de Direction,3,1,1,0,1,4,Infra & Cloud,0.2857142857142857,2,3.25,0,0,2,1
+29,F,Représentant Commercial,6,1,1,1,3,3,Transformation Digitale,0.5,2,2.75,1,0,1,0
+53,M,Cadre Commercial,5,4,0,0,1,3,Marketing,0.6666666666666666,2,2.75,0,0,0,1
+35,M,Tech Lead,3,3,0,0,0,3,Entrepreunariat,0.5714285714285714,2,2.5,1,0,3,2
+37,F,Représentant Commercial,5,1,0,0,1,2,Transformation Digitale,0.0,3,3.0,0,0,1,2
+53,F,Directeur Technique,6,4,0,0,0,4,Infra & Cloud,0.6153846153846154,2,3.5,0,1,3,2
+43,F,Manager,4,2,0,0,1,3,Infra & Cloud,0.3333333333333333,3,3.0,0,0,1,0
+47,F,Cadre Commercial,0,2,1,0,1,2,Marketing,0.875,2,2.75,1,0,2,0
+37,M,Cadre Commercial,1,3,1,0,0,2,Transformation Digitale,0.8181818181818182,1,2.5,0,1,2,1
+50,M,Senior Manager,1,4,0,0,1,4,Infra & Cloud,0.21875,1,2.25,0,0,4,0
+39,F,Ressources Humaines,8,2,0,0,2,3,Infra & Cloud,0.6666666666666666,2,3.5,1,0,1,0
+33,M,Ressources Humaines,3,1,1,0,1,2,Ressources Humaines,0.6,2,3.25,0,0,1,0
+32,M,Consultant,1,1,1,1,0,4,Infra & Cloud,0.5,2,2.25,1,1,0,2
+29,F,Consultant,6,1,0,0,3,1,Transformation Digitale,0.6,2,2.75,1,0,1,1
+44,M,Assistant de Direction,1,1,1,0,0,2,Infra & Cloud,0.1111111111111111,2,2.5,0,0,2,1
+28,M,Cadre Commercial,1,2,0,0,0,4,Transformation Digitale,0.4,2,2.5,0,1,1,0
+58,M,Consultant,9,1,1,1,1,1,Infra & Cloud,0.0,3,3.5,1,0,0,0
+43,F,Tech Lead,4,2,0,0,1,3,Infra & Cloud,0.0,2,2.5,1,0,0,1
+20,F,Représentant Commercial,1,1,0,1,0,3,Transformation Digitale,0.6666666666666666,2,3.0,1,1,0,0
+21,F,Assistant de Direction,1,1,0,1,0,1,Autre,0.0,2,2.75,0,1,0,1
+36,M,Manager,0,2,1,0,1,1,Infra & Cloud,0.6470588235294118,2,2.5,0,0,3,1
+47,F,Représentant Commercial,1,1,1,0,0,4,Infra & Cloud,0.5,2,2.75,1,1,1,0
+22,F,Tech Lead,0,2,1,1,1,1,Infra & Cloud,0.5,2,2.5,0,0,1,0
+41,F,Consultant,4,1,1,1,1,4,Infra & Cloud,0.0,2,2.75,2,0,2,0
+28,F,Assistant de Direction,5,1,0,0,1,3,Transformation Digitale,0.6666666666666666,2,2.75,0,0,0,1
+39,M,Consultant,7,1,1,1,0,3,Transformation Digitale,0.6666666666666666,2,2.5,1,0,0,1
+27,F,Assistant de Direction,1,1,0,0,0,3,Infra & Cloud,0.0,2,2.75,0,1,0,0
+34,M,Consultant,1,1,0,0,2,3,Infra & Cloud,0.0,2,2.25,0,0,0,1
+42,F,Cadre Commercial,7,2,0,0,0,2,Transformation Digitale,0.5,2,2.5,1,1,1,1
+33,M,Assistant de Direction,3,1,1,0,0,4,Autre,0.5,2,2.25,1,1,1,0
+58,F,Manager,2,3,1,0,1,3,Entrepreunariat,0.5714285714285714,2,3.0,1,0,2,0
+31,M,Représentant Commercial,3,1,0,0,0,4,Infra & Cloud,0.25,2,2.75,1,0,2,1
+35,F,Manager,1,2,1,0,1,1,Infra & Cloud,0.6363636363636364,2,3.25,1,0,2,2
+49,F,Consultant,4,3,0,0,1,2,Autre,0.25925925925925924,2,2.0,0,0,4,1
+48,M,Assistant de Direction,4,1,0,0,2,4,Transformation Digitale,0.0,2,2.5,0,0,0,1
+31,F,Cadre Commercial,1,2,0,0,1,2,Marketing,0.0,1,3.25,0,0,2,1
+36,M,Assistant de Direction,2,1,0,0,0,4,Autre,0.14285714285714285,2,3.0,0,1,2,1
+38,F,Directeur Technique,1,3,0,0,1,3,Entrepreunariat,0.6875,2,2.5,0,0,3,0
+32,F,Consultant,6,1,0,0,0,3,Infra & Cloud,0.5,1,2.75,2,0,1,0
+25,M,Représentant Commercial,1,1,1,1,3,2,Marketing,0.0,2,2.75,1,0,0,1
+40,M,Cadre Commercial,2,3,0,0,1,4,Marketing,0.0,2,1.75,1,0,0,1
+26,M,Cadre Commercial,1,2,0,0,0,3,Transformation Digitale,0.875,3,2.25,1,1,2,0
+41,M,Consultant,2,1,1,0,0,3,Transformation Digitale,0.8947368421052632,2,2.75,0,1,3,1
+36,M,Consultant,4,1,0,0,0,4,Transformation Digitale,0.75,2,3.0,1,1,3,0
+19,M,Représentant Commercial,1,1,1,1,0,3,Autre,0.0,2,3.0,1,1,0,2
+20,M,Consultant,1,1,0,1,0,3,Entrepreunariat,0.0,2,1.75,0,1,0,0
+31,F,Manager,0,2,1,0,2,3,Transformation Digitale,0.5,2,3.0,0,0,2,1
+40,M,Assistant de Direction,8,1,1,0,1,4,Transformation Digitale,0.0,3,3.25,0,0,0,1
+32,F,Tech Lead,1,2,0,0,1,4,Transformation Digitale,0.3333333333333333,2,2.75,0,0,2,0
+36,M,Cadre Commercial,1,3,1,1,1,1,Infra & Cloud,0.4117647058823529,2,2.75,1,0,3,0
+33,F,Manager,0,2,0,0,0,3,Infra & Cloud,0.6666666666666666,2,2.5,1,1,1,0
+37,M,Cadre Commercial,5,3,0,1,0,4,Infra & Cloud,0.4666666666666667,2,2.0,1,0,3,0
+45,M,Consultant,1,2,0,0,0,2,Infra & Cloud,0.8,1,2.25,0,0,2,0
+29,F,Représentant Commercial,1,1,0,0,1,3,Entrepreunariat,0.5,3,3.0,0,0,1,1
+35,F,Cadre Commercial,1,2,0,0,0,3,Transformation Digitale,0.0,2,2.75,0,0,1,1
+52,M,Senior Manager,2,4,0,0,1,2,Infra & Cloud,0.8,2,3.0,0,0,2,0
+58,M,Assistant de Direction,4,1,0,1,0,3,Entrepreunariat,0.0,2,2.75,1,1,0,0
+53,M,Senior Manager,6,4,0,0,1,2,Transformation Digitale,0.1111111111111111,2,3.25,0,0,3,0
+30,M,Cadre Commercial,5,3,0,0,1,2,Autre,0.7777777777777778,2,2.75,0,0,2,1
+38,F,Cadre Commercial,1,2,1,0,0,3,Entrepreunariat,0.5,1,3.0,0,1,1,1
+35,M,Cadre Commercial,6,3,0,0,1,4,Infra & Cloud,0.7272727272727273,2,3.25,0,0,2,0
+39,M,Cadre Commercial,0,3,0,0,0,5,Infra & Cloud,0.7777777777777778,2,2.75,-1,1,2,0
+40,F,Cadre Commercial,4,4,1,1,0,3,Infra & Cloud,0.0,1,2.5,-1,1,0,2
+47,M,Tech Lead,1,2,1,0,0,4,Transformation Digitale,0.35,3,3.25,-1,0,3,1
+36,M,Cadre Commercial,4,2,0,0,2,4,Entrepreunariat,0.875,1,3.0,0,0,2,1
+31,M,Assistant de Direction,0,1,1,1,0,2,Transformation Digitale,0.5,1,2.0,2,1,1,1
+33,M,Senior Manager,1,4,0,0,0,3,Infra & Cloud,0.0,1,3.5,0,1,2,1
+29,F,Assistant de Direction,6,1,1,1,0,3,Infra & Cloud,0.0,2,2.75,2,1,0,1
+33,F,Assistant de Direction,3,1,0,0,0,1,Infra & Cloud,0.5,2,2.5,0,1,1,1
+45,F,Consultant,3,1,0,0,2,4,Transformation Digitale,0.3333333333333333,2,3.75,0,0,1,0
+50,M,Directeur Technique,9,4,0,0,1,2,Transformation Digitale,0.5,2,3.25,1,0,1,0
+33,F,Manager,1,2,1,0,1,4,Autre,0.2857142857142857,3,2.25,-1,0,2,0
+41,M,Directeur Technique,2,5,0,0,1,3,Transformation Digitale,0.5789473684210527,3,2.5,0,0,3,1
+27,F,Consultant,9,1,0,0,1,4,Entrepreunariat,0.6666666666666666,2,2.5,0,0,0,1
+45,M,Consultant,1,2,1,0,1,2,Infra & Cloud,0.8,1,2.75,0,0,2,2
+47,F,Cadre Commercial,1,2,1,0,0,2,Infra & Cloud,0.7,2,3.5,0,1,2,0
+30,F,Assistant de Direction,4,1,1,1,0,3,Infra & Cloud,0.16666666666666666,2,2.25,0,0,1,2
+50,M,Tech Lead,3,4,1,0,1,3,Infra & Cloud,0.38461538461538464,2,3.5,0,0,3,2
+38,M,Assistant de Direction,0,1,0,0,1,1,Transformation Digitale,0.6666666666666666,3,2.5,0,0,0,1
+46,M,Tech Lead,6,3,0,0,1,2,Transformation Digitale,0.7777777777777778,2,3.0,0,0,2,1
+24,F,Tech Lead,1,2,0,0,2,1,Transformation Digitale,0.4,2,3.0,1,0,1,1
+35,M,Consultant,1,1,1,1,1,4,Autre,0.4,2,2.5,2,0,1,1
+31,F,Tech Lead,1,2,0,0,1,1,Infra & Cloud,0.6,3,2.5,0,0,1,0
+18,M,Assistant de Direction,1,1,0,0,0,2,Infra & Cloud,0.0,1,3.25,0,1,0,0
+54,F,Tech Lead,8,3,0,0,1,3,Entrepreunariat,0.7272727272727273,2,3.0,0,0,2,1
+35,F,Manager,1,3,1,0,1,4,Transformation Digitale,0.058823529411764705,2,2.75,0,0,3,2
+30,F,Directeur Technique,0,3,1,0,3,2,Infra & Cloud,0.7777777777777778,2,2.0,-1,0,2,1
+20,F,Assistant de Direction,1,1,1,1,0,3,Transformation Digitale,0.0,2,2.25,1,1,0,1
+30,F,Consultant,0,1,0,1,0,3,Transformation Digitale,0.5,3,2.0,0,1,1,0
+26,M,Tech Lead,1,2,0,0,0,2,Transformation Digitale,0.3333333333333333,2,3.25,-1,0,2,0
+22,M,Consultant,1,1,0,0,1,1,Infra & Cloud,0.2,2,1.5,2,0,1,1
+48,M,Manager,2,2,0,0,0,3,Infra & Cloud,0.6666666666666666,2,2.75,1,1,0,1
+48,M,Manager,7,3,0,0,0,4,Infra & Cloud,0.5,2,2.75,1,1,3,0
+41,F,Tech Lead,6,2,0,0,0,2,Transformation Digitale,0.3333333333333333,2,3.0,0,1,0,1
+39,F,Tech Lead,1,4,0,0,1,1,Infra & Cloud,0.36363636363636365,2,3.5,1,0,4,0
+27,F,Tech Lead,0,2,0,0,1,4,Infra & Cloud,0.5,2,2.5,0,0,1,0
+35,M,Consultant,1,1,0,0,1,3,Autre,0.5,2,2.25,1,0,1,1
+42,M,Senior Manager,6,5,0,0,0,2,Marketing,0.0,2,3.25,0,0,0,0
+50,M,Consultant,4,1,0,0,0,3,Infra & Cloud,0.0,2,2.5,0,0,0,1
+59,F,Tech Lead,3,4,1,0,0,3,Infra & Cloud,0.5,2,2.75,1,1,1,0
+37,F,Manager,5,2,0,1,0,2,Transformation Digitale,0.0,2,1.25,2,0,0,1
+55,M,Manager,3,2,1,0,2,4,Transformation Digitale,0.7777777777777778,3,3.0,0,0,2,1
+41,F,Directeur Technique,1,5,0,0,2,1,Infra & Cloud,0.45454545454545453,1,2.5,3,0,4,1
+38,M,Cadre Commercial,8,2,1,0,0,4,Infra & Cloud,0.0,2,3.0,0,1,0,0
+26,M,Cadre Commercial,8,2,0,1,0,2,Transformation Digitale,0.6666666666666666,1,2.5,2,1,0,2
+52,F,Senior Manager,1,5,0,1,1,1,Marketing,0.2727272727272727,2,3.0,2,0,4,0
+44,F,Cadre Commercial,3,4,1,0,1,3,Transformation Digitale,0.8461538461538461,2,3.5,-1,0,3,2
+50,F,Cadre Commercial,0,2,0,0,1,3,Infra & Cloud,0.6842105263157895,1,2.75,0,0,3,0
+36,F,Consultant,1,1,0,1,0,4,Infra & Cloud,0.7777777777777778,2,2.5,-1,1,3,1
+39,F,Tech Lead,1,3,1,0,0,3,Transformation Digitale,0.36363636363636365,3,2.75,0,1,4,2
+33,F,Représentant Commercial,0,1,0,0,0,1,Infra & Cloud,0.6666666666666666,1,3.0,1,1,0,1
+45,F,Senior Manager,3,4,0,0,1,2,Infra & Cloud,0.1,2,3.5,0,0,2,1
+32,F,Consultant,9,1,0,0,0,4,Transformation Digitale,0.7777777777777778,1,3.0,0,1,2,2
+34,M,Cadre Commercial,0,2,0,0,1,4,Marketing,0.5625,2,3.0,-1,0,3,0
+59,M,Senior Manager,3,3,1,0,1,2,Entrepreunariat,0.5714285714285714,2,2.5,0,0,2,0
+45,M,Ressources Humaines,1,1,0,0,0,4,Transformation Digitale,0.5714285714285714,2,2.0,0,1,2,2
+53,F,Cadre Commercial,2,3,0,0,1,3,Marketing,0.75,3,2.25,1,0,3,0
+36,M,Consultant,7,2,0,1,1,3,Autre,0.0,2,2.0,0,0,0,1
+26,M,Assistant de Direction,6,1,1,1,1,3,Infra & Cloud,0.5,3,1.75,0,0,1,0
+34,F,Représentant Commercial,1,1,1,0,1,4,Infra & Cloud,0.0,2,3.25,0,0,0,1
+28,M,Représentant Commercial,1,1,0,0,0,1,Transformation Digitale,0.0,2,2.75,1,0,0,1
+38,M,Assistant de Direction,3,1,0,0,1,4,Autre,0.6666666666666666,3,2.5,0,0,0,0
+50,M,Directeur Technique,2,5,1,0,1,4,Transformation Digitale,0.7777777777777778,2,2.75,0,0,2,0
+37,F,Manager,3,2,0,0,0,3,Autre,0.2,2,2.25,0,1,1,0
+40,M,Cadre Commercial,1,2,0,0,1,3,Marketing,0.625,2,2.0,0,0,2,2
+26,F,Assistant de Direction,1,1,0,0,2,1,Transformation Digitale,0.5,3,2.5,1,0,1,0
+46,M,Directeur Technique,9,5,0,0,2,4,Transformation Digitale,0.6666666666666666,2,3.75,0,0,0,0
+54,F,Cadre Commercial,6,3,0,0,1,4,Infra & Cloud,0.0,2,2.75,1,0,2,0
+56,F,Assistant de Direction,2,1,0,0,1,3,Transformation Digitale,0.5,3,2.25,0,0,1,1
+36,F,Tech Lead,0,3,0,0,0,5,Transformation Digitale,0.5333333333333333,2,3.0,1,1,3,1
+55,M,Senior Manager,7,4,0,0,0,1,Transformation Digitale,0.2,1,2.5,1,1,2,0
+43,M,Cadre Commercial,5,3,0,0,1,3,Transformation Digitale,0.0,2,3.25,1,0,0,2
+20,F,Représentant Commercial,1,1,1,1,0,3,Marketing,0.6666666666666666,3,3.25,0,1,0,1
+21,F,Consultant,1,1,0,1,0,3,Infra & Cloud,0.0,2,1.75,1,1,0,1
+46,F,Assistant de Direction,8,2,1,0,3,4,Infra & Cloud,0.4117647058823529,2,2.25,2,0,3,1
+51,M,Assistant de Direction,9,1,1,1,3,4,Infra & Cloud,0.6363636363636364,2,2.75,0,0,2,0
+28,M,Manager,1,3,0,1,0,2,Entrepreunariat,0.8181818181818182,1,1.5,1,1,2,2
+26,M,Consultant,1,1,0,0,2,2,Transformation Digitale,0.5,2,1.5,1,0,1,0
+30,M,Tech Lead,0,2,0,0,1,3,Autre,0.2857142857142857,2,2.25,0,0,2,1
+41,F,Assistant de Direction,1,1,0,0,0,2,Entrepreunariat,0.7272727272727273,2,2.75,-1,0,2,1
+38,F,Manager,0,3,0,0,1,1,Infra & Cloud,0.45,2,2.25,1,0,3,1
+40,M,Manager,4,3,0,0,1,4,Entrepreunariat,0.08333333333333333,2,3.0,1,0,3,1
+27,M,Consultant,1,1,0,0,3,5,Infra & Cloud,0.5,1,2.75,2,0,1,1
+55,M,Tech Lead,3,3,0,0,1,1,Infra & Cloud,0.5,3,2.75,0,0,1,0
+28,F,Assistant de Direction,3,2,0,0,0,3,Autre,0.7777777777777778,2,3.5,0,1,2,1
+44,M,Ressources Humaines,9,3,0,1,1,2,Transformation Digitale,0.2857142857142857,2,2.5,1,0,3,0
+33,M,Manager,4,3,0,0,1,3,Infra & Cloud,0.5,2,3.5,1,0,1,0
+35,M,Cadre Commercial,0,3,1,1,0,3,Entrepreunariat,0.7777777777777778,2,2.25,1,1,2,0
+33,F,Assistant de Direction,1,2,0,1,0,4,Transformation Digitale,0.5714285714285714,3,2.25,2,1,3,2
+28,M,Consultant,1,1,0,0,1,2,Infra & Cloud,0.4,2,2.5,0,0,1,1
+34,M,Manager,0,2,0,0,0,1,Infra & Cloud,0.5714285714285714,3,2.5,0,1,2,0
+37,F,Cadre Commercial,2,2,1,0,3,4,Infra & Cloud,0.0,2,3.5,1,0,0,1
+25,M,Consultant,1,1,1,1,1,1,Entrepreunariat,0.75,2,3.5,0,0,2,0
+26,M,Consultant,1,1,0,1,1,3,Transformation Digitale,0.0,2,2.25,1,0,0,2
+33,M,Assistant de Direction,4,1,1,1,0,3,Transformation Digitale,0.6666666666666666,2,2.0,2,1,0,2
+42,M,Senior Manager,0,4,0,0,1,2,Transformation Digitale,0.30434782608695654,2,3.0,0,0,4,0
+28,M,Consultant,1,1,0,1,2,3,Transformation Digitale,0.0,3,1.75,1,0,0,0
+50,M,Cadre Commercial,3,2,1,1,0,4,Autre,0.0,3,3.5,0,1,0,0
+33,F,Cadre Commercial,0,2,0,0,1,3,Infra & Cloud,0.5,3,3.0,0,0,1,1
+34,M,Assistant de Direction,3,1,0,0,3,4,Infra & Cloud,0.0,1,3.5,1,0,0,0
+48,M,Senior Manager,2,4,0,0,0,4,Transformation Digitale,0.16666666666666666,1,2.5,0,1,1,0
+45,F,Cadre Commercial,1,2,0,0,1,4,Infra & Cloud,0.75,1,3.0,1,0,3,1
+52,M,Manager,7,3,0,0,0,4,Infra & Cloud,0.0,2,2.75,0,1,2,1
+38,M,Cadre Commercial,0,3,1,0,2,4,Marketing,0.7777777777777778,2,2.75,1,0,2,1
+29,F,Assistant de Direction,4,1,0,0,1,4,Infra & Cloud,0.875,2,2.75,1,0,2,2
+28,F,Tech Lead,0,3,0,0,3,3,Transformation Digitale,0.7,2,2.5,0,0,2,0
+46,M,Senior Manager,3,4,0,0,1,1,Marketing,0.6923076923076923,2,2.75,0,0,3,0
+38,M,Cadre Commercial,7,3,0,0,0,2,Marketing,0.0,2,3.0,0,1,0,0
+43,F,Tech Lead,8,3,0,0,1,3,Infra & Cloud,0.1111111111111111,3,2.5,0,0,2,2
+39,M,Manager,7,4,0,1,3,3,Infra & Cloud,0.2631578947368421,3,3.0,0,0,3,0
+40,M,Directeur Technique,1,5,0,0,0,3,Transformation Digitale,0.42857142857142855,2,2.75,1,1,3,1
+21,F,Assistant de Direction,1,1,1,0,0,1,Entrepreunariat,0.6666666666666666,2,3.25,1,1,0,0
+39,M,Consultant,9,2,0,0,0,3,Infra & Cloud,0.5,1,2.5,0,1,1,1
+36,M,Tech Lead,2,2,0,0,0,4,Infra & Cloud,0.75,1,2.25,1,1,3,1
+31,M,Représentant Commercial,0,1,0,0,1,3,Infra & Cloud,0.6666666666666666,3,2.75,-1,0,0,1
+28,M,Assistant de Direction,0,1,0,0,0,1,Infra & Cloud,0.6666666666666666,2,1.25,1,0,1,0
+35,M,Cadre Commercial,1,2,0,0,1,2,Marketing,0.3333333333333333,3,3.75,0,0,1,1
+49,M,Cadre Commercial,6,4,0,0,1,4,Entrepreunariat,0.3,2,2.75,1,0,2,1
+34,M,Tech Lead,2,2,0,0,0,2,Infra & Cloud,0.5,3,3.25,0,1,1,0
+29,F,Assistant de Direction,0,1,0,0,2,3,Infra & Cloud,0.125,3,3.0,0,0,2,1
+42,M,Consultant,4,2,0,0,0,3,Transformation Digitale,0.0,2,2.5,2,1,0,2
+29,M,Tech Lead,1,2,1,0,1,1,Transformation Digitale,0.18181818181818182,2,2.75,1,0,2,1
+38,M,Ressources Humaines,1,1,0,0,1,3,Ressources Humaines,0.0,2,3.5,-1,0,2,0
+28,M,Assistant de Direction,1,1,1,0,1,3,Infra & Cloud,0.5,3,3.25,1,0,1,1
+18,M,Consultant,1,1,0,1,0,1,Transformation Digitale,0.0,1,3.25,0,1,0,1
+33,F,Cadre Commercial,0,2,1,1,0,4,Marketing,0.5,2,1.5,0,1,1,1
+41,M,Consultant,3,1,1,0,1,4,Infra & Cloud,0.0,2,2.5,0,0,0,1
+31,M,Consultant,1,1,0,1,1,3,Transformation Digitale,0.6666666666666666,3,2.75,0,0,0,1
+37,F,Manager,7,2,0,0,2,2,Transformation Digitale,0.42857142857142855,2,3.25,1,0,2,2
+27,M,Assistant de Direction,1,1,0,0,1,3,Infra & Cloud,0.4,2,3.25,1,0,1,1
+34,F,Cadre Commercial,1,2,0,0,0,1,Infra & Cloud,0.42857142857142855,2,2.0,1,0,2,1
+35,M,Ressources Humaines,1,1,0,0,0,4,Entrepreunariat,0.6666666666666666,2,2.25,0,1,1,1
+29,F,Cadre Commercial,1,3,0,1,1,1,Infra & Cloud,0.8333333333333334,2,1.75,1,0,3,2
+40,F,Directeur Technique,9,3,0,0,0,4,Transformation Digitale,0.6842105263157895,3,2.5,0,1,3,1
+42,M,Cadre Commercial,0,4,1,1,0,3,Infra & Cloud,0.6363636363636364,3,2.0,0,1,4,1
+42,M,Cadre Commercial,7,2,0,0,0,4,Marketing,0.7142857142857143,2,2.75,0,1,2,0
+35,M,Consultant,6,1,0,0,1,4,Transformation Digitale,0.7777777777777778,2,3.0,1,0,2,0
+24,M,Consultant,8,1,0,0,0,3,Transformation Digitale,0.4,2,3.25,1,1,1,2
+28,F,Consultant,1,1,1,1,0,1,Infra & Cloud,0.0,2,3.25,0,0,0,1
+26,M,Consultant,1,1,0,0,1,4,Transformation Digitale,0.7777777777777778,2,2.5,0,0,2,0
+30,M,Cadre Commercial,1,2,0,0,1,3,Marketing,0.36363636363636365,2,2.5,1,0,2,1
+40,F,Assistant de Direction,3,2,1,0,1,2,Transformation Digitale,0.0,3,3.0,1,0,0,2
+35,M,Tech Lead,2,3,0,0,1,3,Infra & Cloud,0.5,2,2.75,1,0,2,0
+34,M,Manager,0,2,0,0,0,3,Transformation Digitale,0.6428571428571429,3,2.75,2,1,3,0
+35,M,Consultant,1,1,0,0,1,4,Autre,0.6666666666666666,3,3.5,1,0,0,0
+43,F,Cadre Commercial,8,2,0,1,0,3,Marketing,0.6,2,2.0,2,1,1,1
+32,F,Représentant Commercial,1,1,0,0,3,1,Infra & Cloud,0.0,1,2.5,0,0,0,0
+56,F,Senior Manager,4,5,0,0,1,4,Entrepreunariat,0.3333333333333333,2,3.0,0,0,1,0
+29,F,Consultant,1,1,0,0,1,1,Transformation Digitale,0.7272727272727273,2,2.5,0,0,2,1
+19,M,Assistant de Direction,1,1,0,0,0,2,Infra & Cloud,0.0,2,2.5,1,1,0,1
+45,F,Assistant de Direction,4,1,1,0,1,3,Transformation Digitale,0.5,2,2.25,0,0,1,1
+37,F,Tech Lead,1,2,0,0,1,3,Infra & Cloud,0.7333333333333333,2,3.0,1,0,3,0
+20,M,Consultant,1,1,0,0,0,3,Infra & Cloud,0.6666666666666666,2,1.75,1,1,0,0
+44,M,Assistant de Direction,1,1,1,1,0,4,Infra & Cloud,0.2857142857142857,2,3.0,0,1,2,1
+53,F,Senior Manager,3,5,0,0,1,2,Transformation Digitale,0.875,2,3.0,0,0,2,1
+29,F,Assistant de Direction,0,1,1,0,1,1,Infra & Cloud,0.5,2,2.25,2,0,1,1
+22,M,Assistant de Direction,0,1,1,1,1,4,Infra & Cloud,0.0,3,3.0,1,0,0,0
+46,F,Senior Manager,8,4,0,0,0,3,Marketing,0.3333333333333333,2,2.0,1,0,4,0
+44,M,Assistant de Direction,2,1,0,0,0,3,Infra & Cloud,0.0,1,3.5,2,1,0,1
+33,M,Ressources Humaines,1,1,0,0,1,3,Ressources Humaines,0.6666666666666666,2,3.0,0,0,1,0
+41,M,Assistant de Direction,6,1,0,1,1,2,Infra & Cloud,0.0,1,1.0,1,0,0,0
+30,M,Cadre Commercial,8,2,0,0,3,4,Infra & Cloud,0.6,2,2.5,0,0,1,2
+40,M,Cadre Commercial,5,2,0,0,3,4,Transformation Digitale,0.0,3,2.75,0,0,0,0
+50,F,Senior Manager,2,4,0,0,1,3,Transformation Digitale,0.6666666666666666,3,2.75,1,0,0,0
+28,M,Consultant,1,1,0,0,3,4,Transformation Digitale,0.42857142857142855,2,2.75,1,0,2,1
+46,M,Directeur Technique,5,5,0,0,1,2,Infra & Cloud,0.6,2,2.5,0,0,1,1
+35,M,Cadre Commercial,3,2,1,0,3,4,Infra & Cloud,0.875,2,2.75,0,0,2,1
+24,F,Consultant,1,1,0,1,1,2,Infra & Cloud,0.0,2,2.0,0,0,0,1
+33,F,Cadre Commercial,1,2,0,0,1,3,Transformation Digitale,0.09090909090909091,3,2.0,0,0,2,2
+36,M,Consultant,1,1,0,0,1,4,Infra & Cloud,0.875,2,3.0,2,0,2,1
+30,M,Consultant,1,2,0,0,3,4,Infra & Cloud,0.8181818181818182,2,2.25,0,0,2,1
+44,M,Assistant de Direction,1,2,0,0,0,4,Autre,0.8095238095238095,2,3.25,1,1,3,2
+20,M,Représentant Commercial,1,1,0,0,0,3,Marketing,0.6666666666666666,2,3.5,-1,1,0,2
+46,M,Tech Lead,2,2,0,0,1,4,Entrepreunariat,0.5714285714285714,2,3.25,0,0,2,0
+42,M,Ressources Humaines,7,2,0,0,1,5,Transformation Digitale,0.6,1,2.5,-1,0,1,0
+60,M,Cadre Commercial,0,2,1,0,1,4,Marketing,0.75,2,2.75,-1,0,3,1
+32,F,Consultant,1,1,0,0,1,3,Autre,0.6666666666666666,3,2.75,2,0,0,1
+32,F,Assistant de Direction,4,2,1,0,0,2,Infra & Cloud,0.7777777777777778,3,3.5,0,1,2,0
+36,F,Tech Lead,2,3,1,0,1,3,Entrepreunariat,0.875,2,2.5,3,0,2,0
+33,M,Assistant de Direction,0,1,0,0,1,3,Transformation Digitale,0.6666666666666666,2,2.5,0,0,3,1
+40,F,Cadre Commercial,7,2,0,0,1,3,Entrepreunariat,0.5,2,2.5,1,0,1,1
+25,M,Cadre Commercial,0,2,0,0,0,4,Infra & Cloud,0.2,2,3.0,0,1,1,1
+30,M,Assistant de Direction,0,1,1,0,1,3,Transformation Digitale,0.5833333333333334,2,2.5,1,0,3,0
+42,F,Directeur Technique,3,3,1,0,0,5,Transformation Digitale,0.0,3,2.0,0,0,0,2
+35,F,Cadre Commercial,4,3,1,0,1,2,Marketing,0.8571428571428571,1,2.75,1,0,3,1
+27,M,Assistant de Direction,1,1,1,0,2,3,Infra & Cloud,0.8,2,2.0,0,0,2,1
+54,F,Tech Lead,7,3,0,0,1,4,Infra & Cloud,0.6666666666666666,3,2.25,0,0,1,0
+44,F,Assistant de Direction,1,1,0,0,1,1,Infra & Cloud,0.6363636363636364,2,3.0,-1,0,2,0
+19,F,Assistant de Direction,1,1,1,1,0,3,Transformation Digitale,0.0,1,2.25,2,1,0,1
+29,F,Assistant de Direction,1,1,0,0,3,3,Infra & Cloud,0.5,2,2.25,0,0,1,0
+54,M,Directeur Technique,3,4,0,0,0,3,Infra & Cloud,0.8181818181818182,2,3.0,0,0,2,0
+31,M,Manager,1,2,1,0,0,2,Transformation Digitale,0.14285714285714285,2,2.5,0,0,2,1
+31,F,Manager,1,2,0,0,0,3,Transformation Digitale,0.7272727272727273,2,2.25,1,1,2,2
+59,F,Cadre Commercial,5,2,0,0,0,3,Infra & Cloud,0.7142857142857143,2,3.5,1,1,2,0
+43,M,Directeur Technique,3,5,0,0,1,3,Infra & Cloud,0.7777777777777778,2,3.0,2,0,2,0
+49,M,Senior Manager,2,5,0,0,1,2,Transformation Digitale,0.0,2,2.75,1,0,0,0
+36,M,Assistant de Direction,1,1,0,0,0,3,Entrepreunariat,0.5833333333333334,3,2.5,0,0,3,0
+48,M,Consultant,5,1,0,0,0,2,Entrepreunariat,0.0,2,2.75,-1,1,0,0
+27,M,Assistant de Direction,1,1,0,0,3,2,Infra & Cloud,0.5,2,2.25,0,0,1,0
+29,M,Manager,1,2,1,0,2,3,Infra & Cloud,0.0,2,3.0,0,0,2,1
+48,M,Directeur Technique,6,5,0,0,0,3,Infra & Cloud,0.0,2,3.75,1,1,0,0
+29,F,Directeur Technique,3,4,0,0,2,3,Infra & Cloud,0.875,2,3.0,1,0,2,0
+34,F,Assistant de Direction,0,1,0,0,0,3,Entrepreunariat,0.0,2,3.0,-1,0,0,1
+44,M,Senior Manager,7,5,0,0,1,3,Marketing,0.43478260869565216,2,2.5,0,0,4,0
+33,M,Cadre Commercial,0,3,1,0,2,5,Marketing,0.8,2,3.5,-1,0,2,1
+19,F,Assistant de Direction,1,1,1,0,0,3,Infra & Cloud,0.5,2,3.25,-1,1,0,2
+23,M,Assistant de Direction,1,1,0,0,1,2,Infra & Cloud,0.5,2,3.5,1,0,0,0
+25,M,Représentant Commercial,1,1,1,1,0,1,Infra & Cloud,0.0,3,3.5,2,1,0,2
+26,M,Assistant de Direction,1,1,1,0,0,2,Infra & Cloud,0.2222222222222222,2,2.75,1,1,2,0
+45,F,Senior Manager,2,5,1,1,0,3,Marketing,0.44,2,1.75,2,1,4,0
+55,M,Manager,1,4,1,0,1,1,Transformation Digitale,0.0,1,3.25,1,0,4,1
+21,F,Consultant,1,1,0,1,0,2,Infra & Cloud,0.6666666666666666,3,2.0,2,1,0,1
+46,F,Senior Manager,2,5,0,0,1,2,Marketing,0.6666666666666666,2,3.0,1,0,3,0
+34,F,Cadre Commercial,0,2,1,0,0,3,Marketing,0.5,2,2.75,0,1,1,0
+51,M,Senior Manager,4,5,1,0,1,3,Infra & Cloud,0.3333333333333333,3,2.25,1,0,4,1
+59,M,Tech Lead,6,3,0,0,0,4,Transformation Digitale,0.4,2,3.5,0,1,2,1
+34,F,Consultant,4,2,0,0,2,3,Transformation Digitale,0.8333333333333334,3,3.0,0,0,3,1
+28,M,Consultant,0,1,1,0,0,4,Transformation Digitale,0.4,3,3.0,0,1,1,0
+44,M,Senior Manager,1,5,0,0,2,2,Infra & Cloud,0.5,2,2.5,-1,0,4,0
+34,M,Ressources Humaines,4,2,0,0,2,3,Infra & Cloud,0.7272727272727273,3,3.25,1,0,2,1
+35,M,Assistant de Direction,0,1,1,0,0,1,Infra & Cloud,0.5,2,3.25,0,0,1,1
+42,F,Assistant de Direction,6,2,1,0,0,4,Transformation Digitale,0.0,2,2.75,-1,0,0,1
+43,F,Cadre Commercial,3,3,0,0,0,4,Marketing,0.7727272727272727,2,4.0,1,1,4,0
+36,F,Tech Lead,9,2,1,0,0,4,Infra & Cloud,0.7058823529411765,2,3.0,0,1,3,0
+44,F,Manager,1,3,0,1,1,3,Transformation Digitale,0.45454545454545453,2,3.0,0,0,2,1
+28,M,Consultant,1,1,1,0,1,3,Infra & Cloud,0.6666666666666666,3,3.25,1,0,0,0
+51,F,Consultant,0,1,0,0,0,2,Transformation Digitale,0.875,3,2.25,1,1,2,1
+30,F,Tech Lead,7,2,1,0,0,2,Transformation Digitale,0.7777777777777778,1,3.0,0,1,2,1
+29,F,Consultant,3,1,1,1,2,3,Entrepreunariat,0.875,2,2.25,0,0,2,1
+28,M,Assistant de Direction,2,1,0,0,0,3,Entrepreunariat,0.5,2,2.25,0,1,1,0
+25,F,Assistant de Direction,1,1,0,0,0,3,Transformation Digitale,0.3333333333333333,2,3.0,0,1,0,0
+32,M,Cadre Commercial,1,2,0,0,2,3,Transformation Digitale,0.7272727272727273,2,3.5,-1,0,2,1
+45,F,Senior Manager,3,5,0,0,0,3,Transformation Digitale,0.0,3,2.5,1,1,0,2
+39,F,Senior Manager,6,4,1,0,2,4,Transformation Digitale,0.1,2,3.0,1,0,3,1
+58,M,Assistant de Direction,1,1,0,0,2,4,Infra & Cloud,0.6666666666666666,2,2.75,0,0,0,2
+32,M,Consultant,1,2,0,1,1,2,Infra & Cloud,0.09090909090909091,2,2.75,0,0,2,1
+39,M,Assistant de Direction,0,1,0,1,0,3,Transformation Digitale,0.5,2,2.0,0,1,1,2
+30,F,Consultant,0,2,0,0,1,3,Entrepreunariat,0.7,2,2.25,1,0,2,1
+36,F,Manager,3,3,0,0,0,4,Entrepreunariat,0.875,2,2.75,0,0,2,1
+46,F,Ressources Humaines,6,1,0,0,0,2,Infra & Cloud,0.875,2,3.0,0,1,2,0
+28,F,Consultant,0,2,0,0,3,3,Infra & Cloud,0.5,1,2.75,2,0,2,0
+50,F,Directeur Technique,4,4,1,0,0,3,Infra & Cloud,0.5,2,2.5,0,0,1,2
+40,M,Cadre Commercial,2,3,1,1,0,4,Marketing,0.0,2,3.0,1,1,1,2
+52,M,Cadre Commercial,9,3,1,1,0,3,Infra & Cloud,0.7777777777777778,2,2.25,0,1,2,0
+30,F,Senior Manager,1,3,1,0,2,4,Transformation Digitale,0.8,2,2.5,1,0,2,1
+39,M,Tech Lead,0,2,0,0,0,2,Infra & Cloud,0.7777777777777778,2,2.0,0,1,2,1
+31,F,Cadre Commercial,1,3,1,0,1,4,Infra & Cloud,0.5454545454545454,1,2.5,0,0,2,0
+41,M,Cadre Commercial,1,2,0,0,0,2,Transformation Digitale,0.45,1,2.25,2,1,3,1
+31,F,Représentant Commercial,1,1,1,1,0,3,Infra & Cloud,0.5,3,2.75,0,1,1,0
+44,M,Consultant,4,1,0,1,0,3,Infra & Cloud,0.5,2,2.25,0,0,1,0
+42,M,Senior Manager,0,4,1,0,0,1,Infra & Cloud,0.47619047619047616,1,3.0,0,0,3,0
+55,F,Senior Manager,4,5,0,0,1,2,Transformation Digitale,0.55,2,3.5,2,0,3,0
+56,M,Senior Manager,6,5,0,0,0,4,Infra & Cloud,0.875,2,2.5,0,1,2,1
+40,M,Assistant de Direction,9,1,0,0,1,2,Infra & Cloud,0.0,1,2.75,0,0,1,1
+34,M,Manager,0,3,0,0,1,3,Infra & Cloud,0.6,2,3.5,0,0,2,1
+40,M,Assistant de Direction,1,2,0,0,0,3,Infra & Cloud,0.8,2,3.25,0,1,2,0
+41,F,Cadre Commercial,0,2,0,0,1,3,Marketing,0.7,3,2.75,0,0,2,0
+35,M,Assistant de Direction,1,2,1,0,0,4,Infra & Cloud,0.1,3,2.75,0,1,2,0
+51,M,Senior Manager,1,4,1,0,1,3,Infra & Cloud,0.29411764705882354,2,2.5,0,0,4,0
+38,F,Cadre Commercial,3,2,0,0,1,2,Infra & Cloud,0.875,2,2.5,0,0,2,0
+34,F,Cadre Commercial,1,2,0,0,0,2,Transformation Digitale,0.5454545454545454,2,3.0,0,1,2,1
+25,M,Consultant,3,1,0,0,3,1,Transformation Digitale,0.5,2,3.25,0,0,1,1
+58,F,Tech Lead,7,3,1,1,0,4,Transformation Digitale,0.8181818181818182,2,2.5,1,0,2,1
+40,M,Consultant,3,1,0,0,1,4,Infra & Cloud,0.6,2,2.5,1,0,1,0
+36,F,Cadre Commercial,2,2,0,0,1,3,Marketing,0.8125,3,2.0,-1,0,3,1
+48,M,Tech Lead,1,3,0,0,0,3,Infra & Cloud,0.7272727272727273,2,3.5,0,1,2,0
+27,F,Représentant Commercial,8,1,0,0,1,3,Transformation Digitale,0.0,2,3.0,-1,0,0,1
+51,F,Tech Lead,3,4,0,0,0,2,Entrepreunariat,0.5,2,2.5,1,1,1,1
+18,F,Consultant,1,1,0,0,0,3,Infra & Cloud,0.0,1,3.75,0,1,0,0
+35,F,Consultant,0,2,0,0,1,3,Transformation Digitale,0.0,2,3.25,1,0,2,0
+27,M,Cadre Commercial,3,2,0,0,0,1,Infra & Cloud,0.0,3,3.25,3,1,2,0
+55,M,Cadre Commercial,6,4,1,1,0,4,Marketing,0.4,2,2.25,-1,1,3,1
+56,M,Tech Lead,4,4,1,0,1,3,Infra & Cloud,0.45,2,2.5,0,0,3,2
+34,F,Assistant de Direction,1,1,0,0,3,1,Entrepreunariat,0.0,1,2.5,2,0,1,2
+40,F,Manager,5,2,0,0,3,1,Transformation Digitale,0.6153846153846154,2,2.5,0,0,3,0
+34,M,Consultant,4,2,0,0,2,3,Transformation Digitale,0.7777777777777778,2,2.25,0,0,2,2
+31,F,Représentant Commercial,7,1,0,1,0,3,Infra & Cloud,0.0,3,3.5,1,1,0,0
+35,F,Cadre Commercial,0,2,1,1,1,4,Marketing,0.4,3,3.0,0,0,1,1
+38,M,Assistant de Direction,1,1,0,0,3,3,Infra & Cloud,0.6,3,3.5,-1,0,1,1
+34,F,Manager,1,2,0,0,0,4,Entrepreunariat,0.7333333333333333,2,3.75,0,1,3,0
+28,M,Cadre Commercial,1,2,0,0,1,3,Infra & Cloud,0.6666666666666666,2,2.5,1,0,1,2
+31,M,Tech Lead,1,2,1,1,2,4,Transformation Digitale,0.6363636363636364,2,3.25,0,0,2,2
+39,M,Cadre Commercial,3,2,1,0,2,4,Infra & Cloud,0.6666666666666666,2,3.25,1,0,1,2
+51,M,Cadre Commercial,2,3,0,0,0,3,Marketing,0.4,3,2.25,0,0,1,0
+41,F,Assistant de Direction,3,2,1,0,2,3,Infra & Cloud,0.42857142857142855,3,2.75,0,0,2,2
+37,M,Assistant de Direction,7,1,1,0,0,1,Infra & Cloud,0.42857142857142855,2,3.25,0,0,2,0
+33,M,Cadre Commercial,6,2,0,0,0,1,Infra & Cloud,0.3333333333333333,3,2.75,0,0,1,0
+32,M,Cadre Commercial,0,2,1,0,3,1,Marketing,0.5,2,2.0,0,0,1,0
+39,M,Manager,3,3,0,0,1,2,Infra & Cloud,0.7142857142857143,1,2.75,1,0,2,2
+25,M,Cadre Commercial,2,2,0,0,0,1,Infra & Cloud,0.5,2,2.0,-1,0,1,1
+52,F,Tech Lead,2,4,1,0,1,2,Transformation Digitale,0.3333333333333333,3,2.75,-1,0,1,2
+43,F,Assistant de Direction,1,2,1,0,0,3,Transformation Digitale,0.38095238095238093,2,1.5,1,1,3,1
+27,F,Cadre Commercial,1,2,1,0,0,3,Marketing,0.5714285714285714,2,3.75,1,0,2,1
+27,F,Assistant de Direction,1,1,1,1,0,4,Infra & Cloud,0.7777777777777778,2,3.5,0,1,2,1
+26,M,Assistant de Direction,0,1,0,0,0,1,Transformation Digitale,0.2,2,3.0,1,1,1,0
+42,F,Senior Manager,0,4,0,0,1,3,Ressources Humaines,0.42857142857142855,2,2.5,0,0,3,1
+52,F,Consultant,9,1,0,0,0,4,Autre,0.6666666666666666,2,2.0,0,0,1,1
+37,F,Consultant,4,1,0,0,0,3,Transformation Digitale,0.5,2,2.0,0,1,1,1
+35,M,Tech Lead,2,3,0,0,0,2,Infra & Cloud,0.6666666666666666,3,3.25,0,1,0,1
+25,M,Consultant,4,1,0,0,1,3,Entrepreunariat,0.5,2,2.25,0,0,1,0
+26,M,Consultant,0,1,0,0,0,3,Autre,0.875,2,2.75,-1,1,2,1
+29,M,Ressources Humaines,1,3,0,0,0,3,Autre,0.8181818181818182,2,1.5,1,1,2,1
+49,M,Consultant,3,2,0,1,0,2,Infra & Cloud,0.6,3,1.5,2,1,1,2
+29,F,Manager,0,3,1,1,0,1,Autre,0.7777777777777778,3,2.75,0,1,2,1
+54,F,Directeur Technique,6,4,0,0,0,3,Transformation Digitale,0.3333333333333333,2,3.5,0,1,3,0
+58,F,Directeur Technique,3,5,1,0,1,3,Transformation Digitale,0.5,2,2.75,1,0,2,0
+55,M,Directeur Technique,2,4,0,0,2,4,Transformation Digitale,0.0,2,3.5,-1,0,2,0
+36,F,Cadre Commercial,3,2,1,0,0,4,Marketing,0.16666666666666666,2,2.5,0,1,1,0
+31,F,Représentant Commercial,1,1,0,1,0,4,Infra & Cloud,0.0,3,2.5,2,1,0,0
+30,F,Cadre Commercial,7,2,0,0,2,4,Marketing,0.5,2,2.5,0,0,1,1
+31,F,Directeur Technique,3,4,0,0,0,5,Infra & Cloud,0.0,2,2.5,0,1,1,1
+34,M,Assistant de Direction,5,1,0,0,2,4,Autre,0.6,3,2.75,0,0,1,0
+31,F,Assistant de Direction,1,1,0,1,0,3,Infra & Cloud,0.0,2,2.5,1,1,0,1
+27,M,Consultant,0,1,0,0,0,1,Infra & Cloud,0.6666666666666666,2,2.25,0,0,1,1
+36,M,Consultant,1,2,0,0,0,4,Infra & Cloud,0.7272727272727273,2,2.5,1,1,2,0
+36,F,Cadre Commercial,4,2,0,0,2,4,Marketing,0.5,2,1.75,1,0,1,1
+47,M,Assistant de Direction,7,1,0,0,1,3,Entrepreunariat,0.2857142857142857,2,2.5,0,0,2,0
+25,M,Représentant Commercial,3,1,0,1,0,2,Infra & Cloud,0.5,2,1.5,1,0,1,1
+37,M,Consultant,0,1,0,0,0,2,Entrepreunariat,0.42857142857142855,1,2.0,-1,1,2,0
+56,F,Assistant de Direction,2,1,0,0,1,2,Infra & Cloud,0.0,2,2.5,1,0,1,0
+47,F,Directeur Technique,3,4,0,0,2,4,Transformation Digitale,0.2857142857142857,2,2.5,0,0,3,0
+24,F,Cadre Commercial,1,2,1,0,2,1,Transformation Digitale,0.5,2,3.25,0,0,1,0
+32,M,Cadre Commercial,4,2,0,0,1,5,Marketing,0.6,2,3.25,0,0,1,1
+34,F,Consultant,5,1,0,0,1,3,Infra & Cloud,0.3333333333333333,2,2.25,1,0,1,0
+41,M,Assistant de Direction,2,1,1,0,0,5,Transformation Digitale,0.6,2,2.0,-1,0,1,0
+40,M,Consultant,3,2,0,0,2,4,Autre,0.7777777777777778,1,3.25,0,0,2,1
+31,M,Cadre Commercial,1,3,0,0,1,2,Infra & Cloud,0.6428571428571429,2,2.25,0,0,3,1
+46,M,Cadre Commercial,4,3,0,1,1,3,Marketing,0.375,2,2.5,0,0,2,1
+39,F,Consultant,2,1,1,1,0,3,Infra & Cloud,0.0,1,2.0,2,1,0,0
+31,F,Tech Lead,1,3,0,1,0,5,Infra & Cloud,0.6363636363636364,3,2.25,-1,1,2,0
+45,M,Manager,2,3,1,0,1,3,Transformation Digitale,0.875,2,2.0,2,0,2,1
+31,F,Ressources Humaines,9,1,0,0,0,2,Transformation Digitale,0.5,2,3.25,-1,1,1,1
+31,M,Consultant,6,1,1,1,1,3,Infra & Cloud,0.6666666666666666,3,2.5,0,0,0,0
+45,M,Tech Lead,4,3,1,0,2,3,Entrepreunariat,0.5,2,3.5,0,0,1,2
+48,M,Cadre Commercial,4,2,0,0,3,3,Marketing,0.6666666666666666,2,2.0,0,0,0,1
+34,F,Ressources Humaines,1,1,0,1,0,4,Entrepreunariat,0.6666666666666666,2,2.75,0,0,0,1
+40,M,Directeur Technique,2,3,0,0,1,1,Transformation Digitale,0.8,1,3.0,1,0,2,1
+28,M,Cadre Commercial,0,2,0,0,0,3,Transformation Digitale,0.5,2,3.0,0,1,1,0
+44,M,Consultant,3,1,0,0,0,3,Infra & Cloud,0.5,1,3.25,1,1,1,0
+53,M,Directeur Technique,4,4,0,0,0,3,Transformation Digitale,0.8,2,2.5,-1,1,2,0
+49,M,Manager,2,2,0,0,1,4,Entrepreunariat,0.5,2,2.0,0,0,1,0
+40,M,Assistant de Direction,2,1,0,0,1,3,Transformation Digitale,0.5,2,3.25,0,0,1,0
+44,M,Assistant de Direction,1,1,0,0,0,3,Infra & Cloud,0.5,2,2.75,0,1,1,1
+33,M,Cadre Commercial,0,2,0,0,2,3,Transformation Digitale,0.6,3,2.25,0,0,1,1
+34,M,Cadre Commercial,3,2,0,0,0,3,Autre,0.8571428571428571,2,3.0,2,1,3,0
+30,M,Cadre Commercial,8,2,0,0,2,1,Infra & Cloud,0.6666666666666666,2,3.0,0,0,0,1
+42,F,Consultant,1,1,0,0,0,2,Transformation Digitale,0.6153846153846154,3,2.75,0,1,3,1
+44,F,Cadre Commercial,7,2,0,0,1,5,Marketing,0.0,3,2.25,0,0,0,0
+30,M,Assistant de Direction,1,1,0,0,2,3,Entrepreunariat,0.0,1,2.5,0,0,0,1
+57,M,Assistant de Direction,0,2,0,0,1,2,Infra & Cloud,0.6153846153846154,2,2.0,0,0,3,0
+49,M,Manager,3,3,0,0,2,4,Infra & Cloud,0.7777777777777778,2,2.5,0,0,2,1
+34,M,Directeur Technique,7,4,0,0,2,3,Transformation Digitale,0.6,3,2.25,0,0,3,1
+28,M,Représentant Commercial,3,1,0,1,1,3,Entrepreunariat,0.5,3,3.0,0,0,1,0
+29,F,Cadre Commercial,5,2,0,1,0,3,Entrepreunariat,0.0,3,1.25,0,1,1,1
+34,F,Cadre Commercial,0,2,1,1,0,4,Transformation Digitale,0.625,2,2.5,2,1,3,2
+35,M,Représentant Commercial,1,1,0,0,1,1,Infra & Cloud,0.0,2,2.75,0,0,0,1
+24,M,Consultant,2,1,1,1,0,3,Transformation Digitale,0.0,3,2.0,0,1,0,1
+24,F,Représentant Commercial,1,1,0,0,1,2,Infra & Cloud,0.0,1,3.0,0,0,0,1
+44,M,Tech Lead,5,3,1,0,0,1,Transformation Digitale,0.6666666666666666,3,2.25,0,1,0,0
+29,M,Cadre Commercial,1,2,0,0,2,3,Infra & Cloud,0.36363636363636365,2,3.0,1,0,2,1
+30,M,Ressources Humaines,0,1,0,0,1,3,Infra & Cloud,0.5,2,2.75,1,0,1,0
+55,M,Manager,0,2,1,0,0,4,Infra & Cloud,0.5,2,3.0,0,0,1,0
+33,F,Consultant,8,1,0,0,0,4,Transformation Digitale,0.3333333333333333,2,2.5,1,0,1,0
+47,F,Cadre Commercial,3,2,1,0,1,3,Transformation Digitale,0.3333333333333333,2,2.75,0,0,1,1
+28,M,Consultant,7,1,0,1,0,2,Transformation Digitale,0.0,3,2.25,1,1,0,0
+28,M,Assistant de Direction,1,1,0,0,1,3,Infra & Cloud,0.0,2,2.25,1,0,0,0
+28,M,Cadre Commercial,0,2,0,0,0,3,Infra & Cloud,0.6,3,2.75,0,1,1,1
+49,F,Consultant,4,2,0,0,1,2,Transformation Digitale,0.5,2,2.0,2,0,1,0
+29,F,Consultant,0,1,0,0,3,1,Infra & Cloud,0.5,3,3.0,0,0,1,0
+28,M,Tech Lead,1,2,0,0,2,1,Infra & Cloud,0.7777777777777778,2,2.25,2,0,2,2
+33,M,Manager,2,2,1,0,0,5,Infra & Cloud,0.0,2,2.75,0,1,0,1
+32,M,Senior Manager,2,3,0,0,0,3,Transformation Digitale,0.0,2,3.25,1,1,1,1
+54,F,Senior Manager,3,4,0,0,1,4,Transformation Digitale,0.8,3,2.5,1,0,3,1
+29,M,Assistant de Direction,6,1,0,1,0,4,Entrepreunariat,0.7,2,1.5,1,1,2,0
+44,M,Directeur Technique,3,4,0,0,1,3,Infra & Cloud,0.8095238095238095,2,3.0,0,0,3,2
+39,F,Tech Lead,4,3,0,0,0,3,Infra & Cloud,0.6666666666666666,2,2.75,0,1,0,1
+46,F,Senior Manager,8,4,0,0,1,3,Infra & Cloud,0.07142857142857142,2,3.25,0,0,3,0
+35,F,Manager,1,3,0,0,0,3,Infra & Cloud,0.25,2,2.75,1,1,3,1
+23,M,Consultant,0,2,0,0,0,1,Infra & Cloud,0.4,2,2.25,0,1,1,1
+40,M,Consultant,3,1,0,1,0,4,Infra & Cloud,0.0,2,2.0,0,1,1,1
+34,M,Cadre Commercial,1,3,1,0,0,3,Entrepreunariat,0.5454545454545454,2,3.5,1,0,2,0
+31,F,Assistant de Direction,1,1,0,1,0,3,Infra & Cloud,0.875,3,2.25,0,1,2,0
+50,M,Directeur Technique,1,4,1,0,0,5,Transformation Digitale,0.2727272727272727,3,3.5,2,1,4,2
+34,M,Représentant Commercial,0,1,1,0,1,2,Entrepreunariat,0.5833333333333334,2,2.5,1,0,3,1
+42,M,Consultant,4,1,0,0,1,3,Transformation Digitale,0.0,2,2.5,1,0,0,0
+37,M,Assistant de Direction,1,2,0,0,0,3,Transformation Digitale,0.6363636363636364,2,2.25,0,0,2,1
+29,F,Manager,3,2,0,0,1,1,Autre,0.875,2,2.5,2,0,2,1
+33,M,Tech Lead,1,2,0,0,0,3,Infra & Cloud,0.3333333333333333,2,3.25,1,1,1,2
+45,M,Assistant de Direction,4,1,0,0,1,3,Entrepreunariat,0.5,2,3.75,1,0,1,2
+42,M,Manager,2,3,1,0,1,3,Infra & Cloud,0.42857142857142855,3,3.0,0,0,3,0
+40,M,Cadre Commercial,0,2,0,0,0,2,Transformation Digitale,0.1111111111111111,2,2.5,0,0,2,1
+33,M,Consultant,1,2,1,0,1,4,Infra & Cloud,0.4375,2,2.5,0,0,3,2
+40,M,Senior Manager,1,4,1,0,0,2,Transformation Digitale,0.3181818181818182,2,3.5,1,1,4,1
+24,M,Consultant,0,1,0,0,3,2,Entrepreunariat,0.0,2,2.25,1,0,0,2
+40,M,Manager,3,2,1,0,0,2,Infra & Cloud,0.6666666666666666,1,3.5,0,0,0,1
+45,M,Manager,1,3,0,0,3,4,Entrepreunariat,0.6363636363636364,2,1.75,0,0,2,0
+35,F,Représentant Commercial,0,1,0,0,2,4,Infra & Cloud,0.3333333333333333,2,2.25,2,0,1,2
+32,F,Assistant de Direction,3,2,0,0,1,2,Infra & Cloud,0.625,2,2.5,1,0,2,0
+36,M,Représentant Commercial,3,1,1,0,0,4,Infra & Cloud,0.5,2,3.25,1,1,1,0
+48,F,Cadre Commercial,8,2,0,0,1,4,Infra & Cloud,0.7777777777777778,2,3.0,0,0,2,1
+29,M,Assistant de Direction,6,1,0,0,2,3,Infra & Cloud,0.0,2,2.25,-1,0,0,1
+33,M,Cadre Commercial,2,2,0,0,1,4,Infra & Cloud,0.6666666666666666,2,1.75,0,0,0,1
+30,M,Cadre Commercial,1,2,0,1,1,3,Infra & Cloud,0.6363636363636364,2,2.5,1,0,2,0
+38,M,Ressources Humaines,3,2,0,0,0,4,Ressources Humaines,0.2857142857142857,3,3.0,0,0,2,1
+35,M,Consultant,1,1,0,0,0,3,Transformation Digitale,0.5,2,2.5,1,1,1,0
+30,M,Cadre Commercial,3,3,0,0,1,4,Entrepreunariat,0.6,2,2.5,0,0,1,2
+35,F,Consultant,1,1,1,1,1,3,Infra & Cloud,0.0,2,2.25,0,0,0,0
+53,F,Tech Lead,0,3,0,1,1,5,Entrepreunariat,0.2647058823529412,2,3.0,1,0,4,0
+38,M,Tech Lead,4,2,0,1,2,3,Transformation Digitale,0.6666666666666666,2,2.25,0,0,1,0
+32,M,Assistant de Direction,4,2,0,0,1,4,Entrepreunariat,0.2857142857142857,1,2.25,0,0,2,0
+48,F,Assistant de Direction,8,1,0,0,1,4,Autre,0.6666666666666666,2,2.5,0,0,2,1
+34,M,Assistant de Direction,1,1,0,0,0,4,Transformation Digitale,0.0,2,2.25,0,1,0,1
+55,M,Senior Manager,1,5,0,0,1,5,Marketing,0.35135135135135137,2,3.25,2,0,4,2
+34,M,Assistant de Direction,9,2,0,0,1,4,Infra & Cloud,0.3333333333333333,2,2.5,0,0,0,0
+26,F,Assistant de Direction,1,1,0,0,0,3,Infra & Cloud,0.0,2,2.25,1,0,0,0
+38,M,Cadre Commercial,0,2,0,0,1,3,Infra & Cloud,0.7,2,3.0,0,0,2,1
+38,F,Cadre Commercial,2,2,0,0,0,3,Infra & Cloud,0.5,2,2.5,0,1,1,1
+36,F,Cadre Commercial,6,2,0,0,0,4,Infra & Cloud,0.0,2,2.25,0,1,0,0
+29,M,Consultant,1,1,1,0,0,1,Transformation Digitale,0.45454545454545453,2,2.5,0,1,2,0
+35,F,Manager,3,2,1,0,0,4,Transformation Digitale,0.6666666666666666,2,2.5,0,1,1,1
+39,M,Cadre Commercial,2,3,0,0,1,3,Transformation Digitale,0.75,2,2.75,-1,0,2,1
+29,M,Manager,1,2,0,0,1,1,Infra & Cloud,0.42857142857142855,3,3.25,0,0,2,0
+50,M,Senior Manager,4,5,1,0,1,3,Marketing,0.0,2,3.0,0,0,0,1
+23,M,Assistant de Direction,2,1,0,0,1,3,Entrepreunariat,0.6666666666666666,2,3.5,-1,0,0,1
+36,M,Consultant,3,2,1,0,1,4,Infra & Cloud,0.5,3,2.25,-1,0,1,1
+42,M,Senior Manager,8,5,0,0,0,2,Autre,0.5,2,3.75,2,1,0,1
+35,M,Consultant,1,2,0,0,2,3,Infra & Cloud,0.7272727272727273,2,2.75,-1,0,2,2
+34,M,Manager,1,2,0,0,1,4,Entrepreunariat,0.7777777777777778,3,2.75,1,0,2,1
+40,F,Cadre Commercial,1,2,0,0,1,2,Infra & Cloud,0.3333333333333333,2,2.75,0,0,1,1
+43,M,Consultant,5,1,0,0,1,3,Entrepreunariat,0.2857142857142857,2,3.0,-1,0,2,2
+35,M,Consultant,1,1,0,0,1,2,Infra & Cloud,0.5,2,3.25,1,0,0,1
+46,M,Senior Manager,1,4,0,0,0,4,Infra & Cloud,0.4444444444444444,2,2.0,-1,1,4,0
+28,M,Consultant,1,1,1,1,3,3,Transformation Digitale,0.0,2,2.75,0,0,0,2
+22,F,Assistant de Direction,1,1,1,0,0,2,Autre,0.6,1,2.25,1,0,1,2
+50,M,Manager,2,4,1,0,1,5,Transformation Digitale,0.41935483870967744,3,2.75,0,0,4,1
+32,F,Assistant de Direction,3,1,0,0,2,4,Autre,0.5,2,3.25,-1,0,1,0
+44,F,Directeur Technique,0,5,1,0,1,3,Transformation Digitale,0.43478260869565216,2,3.0,0,0,4,1
+30,M,Assistant de Direction,1,1,0,0,1,3,Transformation Digitale,0.14285714285714285,2,2.0,1,0,2,1
+45,F,Consultant,1,2,1,0,0,5,Transformation Digitale,0.36363636363636365,2,2.0,2,1,2,0
+45,M,Cadre Commercial,1,2,0,0,1,3,Marketing,0.45454545454545453,1,1.5,1,0,2,2
+31,M,Cadre Commercial,7,2,0,0,0,4,Autre,0.5,3,3.0,0,1,1,0
+36,F,Tech Lead,9,2,1,0,2,4,Infra & Cloud,0.25,2,2.75,0,0,1,1
+34,M,Tech Lead,1,2,0,0,1,4,Infra & Cloud,0.2,3,2.75,-1,0,2,1
+49,F,Consultant,1,1,0,0,1,4,Infra & Cloud,0.4,2,2.5,0,0,2,2
+39,M,Tech Lead,2,2,0,0,3,5,Transformation Digitale,0.875,2,2.5,0,0,2,1
+27,M,Consultant,1,1,0,0,2,3,Autre,0.875,2,2.25,1,0,2,1
+35,M,Assistant de Direction,1,2,0,0,0,5,Infra & Cloud,0.5882352941176471,2,2.5,-1,0,3,1
+28,F,Tech Lead,0,2,0,0,1,3,Transformation Digitale,0.0,2,1.75,3,0,1,2
+21,M,Assistant de Direction,1,1,0,0,0,1,Transformation Digitale,0.6666666666666666,2,3.25,0,1,0,0
+18,F,Représentant Commercial,1,1,1,1,0,2,Transformation Digitale,0.0,3,3.25,0,1,0,0
+47,F,Senior Manager,3,5,0,0,1,4,Infra & Cloud,0.0,2,3.25,0,0,1,2
+39,M,Consultant,0,2,0,0,1,2,Transformation Digitale,0.6363636363636364,2,3.25,1,0,2,0
+40,F,Tech Lead,1,3,0,0,2,3,Infra & Cloud,0.631578947368421,2,2.75,1,0,3,1
+35,F,Manager,1,2,0,0,1,4,Infra & Cloud,0.6,1,3.25,0,0,3,1
+37,M,Tech Lead,3,2,0,0,3,3,Infra & Cloud,0.4,2,2.25,0,0,1,1
+39,F,Tech Lead,0,2,0,0,0,3,Transformation Digitale,0.8,3,2.25,0,1,2,0
+45,F,Tech Lead,1,2,0,0,2,2,Autre,0.8181818181818182,2,3.0,1,0,2,0
+38,F,Tech Lead,3,3,1,0,1,2,Transformation Digitale,0.3333333333333333,2,3.75,1,0,1,0
+35,M,Cadre Commercial,9,3,0,1,0,3,Transformation Digitale,0.0,2,2.75,1,0,3,1
+37,F,Assistant de Direction,1,1,0,0,1,3,Transformation Digitale,0.7777777777777778,2,1.5,0,0,2,1
+40,F,Tech Lead,6,3,1,0,0,3,Infra & Cloud,0.6,2,3.25,0,1,1,1
+44,M,Ressources Humaines,4,2,1,0,0,5,Ressources Humaines,0.18181818181818182,3,2.75,0,0,2,0
+48,M,Senior Manager,2,4,0,0,1,5,Transformation Digitale,0.6666666666666666,3,3.0,2,0,0,0
+35,M,Cadre Commercial,6,2,1,1,2,2,Transformation Digitale,0.6666666666666666,2,2.75,2,0,0,1
+24,F,Assistant de Direction,1,1,1,0,0,1,Entrepreunariat,0.42857142857142855,3,2.75,0,1,2,0
+27,F,Assistant de Direction,7,1,0,0,0,3,Transformation Digitale,0.5,2,2.25,-1,0,1,1
+27,M,Assistant de Direction,2,1,0,0,0,3,Transformation Digitale,0.4,3,3.25,0,1,1,0
+40,M,Consultant,3,1,1,1,0,3,Infra & Cloud,0.6,2,1.25,0,1,1,1
+29,M,Cadre Commercial,9,2,0,0,0,3,Transformation Digitale,0.6666666666666666,2,3.0,1,1,1,1
+36,F,Manager,4,3,0,0,2,4,Infra & Cloud,0.5,2,2.25,0,0,1,0
+25,M,Tech Lead,1,2,0,0,2,1,Infra & Cloud,0.875,3,3.25,-1,0,2,0
+39,M,Tech Lead,4,2,0,0,0,3,Transformation Digitale,0.0,2,3.0,1,0,1,1
+49,F,Directeur Technique,3,4,0,0,2,4,Autre,0.4,2,2.0,0,0,1,2
+50,F,Directeur Technique,5,3,0,0,3,5,Infra & Cloud,0.7333333333333333,2,2.75,1,0,3,1
+20,F,Représentant Commercial,1,1,0,0,0,3,Transformation Digitale,0.6666666666666666,2,2.5,0,1,0,0
+34,F,Assistant de Direction,1,2,0,0,1,3,Infra & Cloud,0.75,2,3.0,0,0,3,0
+36,M,Consultant,2,1,0,0,0,3,Infra & Cloud,0.6,2,2.25,0,1,1,1
+49,F,Manager,2,4,1,0,1,1,Infra & Cloud,0.75,2,2.75,1,0,3,1
+36,F,Tech Lead,0,2,0,0,0,4,Transformation Digitale,0.5,1,3.25,1,0,1,0
+36,M,Manager,6,2,0,0,1,2,Infra & Cloud,0.6666666666666666,2,2.25,0,0,1,0
+54,F,Senior Manager,3,4,0,0,1,5,Transformation Digitale,0.6363636363636364,2,2.75,1,0,2,2
+43,M,Directeur Technique,1,4,0,0,1,2,Infra & Cloud,0.7333333333333333,2,2.5,2,0,3,1
+35,M,Cadre Commercial,3,2,1,1,0,4,Autre,0.5833333333333334,3,3.25,1,1,3,1
+38,M,Assistant de Direction,7,2,0,0,2,3,Infra & Cloud,0.6428571428571429,3,4.0,0,0,3,0
+29,M,Cadre Commercial,1,2,1,0,1,3,Transformation Digitale,0.8181818181818182,2,1.75,1,0,2,0
+33,M,Cadre Commercial,1,2,0,0,2,4,Transformation Digitale,0.5714285714285714,2,3.5,0,0,2,0
+32,M,Assistant de Direction,0,2,0,0,2,3,Transformation Digitale,0.6,2,2.75,0,0,2,0
+31,F,Cadre Commercial,1,2,0,0,2,4,Infra & Cloud,0.18181818181818182,2,2.25,0,0,2,0
+49,F,Consultant,4,1,1,0,1,3,Transformation Digitale,0.6666666666666666,2,2.25,0,0,0,1
+38,F,Consultant,1,1,0,0,0,3,Transformation Digitale,0.6,3,2.75,2,1,1,0
+47,F,Senior Manager,6,4,0,0,3,4,Infra & Cloud,0.5,2,2.5,-1,0,1,0
+49,M,Senior Manager,4,4,0,0,0,3,Infra & Cloud,0.0,2,2.5,0,1,2,0
+41,M,Cadre Commercial,3,3,1,0,0,2,Infra & Cloud,0.6666666666666666,2,3.5,0,1,0,2
+20,M,Représentant Commercial,1,1,0,0,0,1,Infra & Cloud,0.6666666666666666,2,2.25,0,1,0,1
+33,F,Cadre Commercial,1,2,1,0,1,3,Infra & Cloud,0.2857142857142857,1,3.25,1,0,2,1
+36,M,Manager,6,2,0,0,2,4,Infra & Cloud,0.5,2,2.0,0,0,1,2
+44,F,Ressources Humaines,4,1,1,0,3,3,Infra & Cloud,0.6666666666666666,2,2.75,0,0,0,0
+23,M,Consultant,1,1,1,1,0,1,Transformation Digitale,0.3333333333333333,2,2.75,1,1,1,1
+38,F,Consultant,7,1,0,0,1,2,Transformation Digitale,0.0,2,3.25,0,0,0,0
+53,M,Manager,3,3,0,0,0,4,Transformation Digitale,0.4,2,3.0,-1,0,1,2
+48,F,Représentant Commercial,2,1,1,1,2,2,Transformation Digitale,0.7,3,3.25,0,0,2,1
+32,M,Consultant,1,1,0,1,0,4,Infra & Cloud,0.0,2,2.5,0,1,0,0
+26,M,Consultant,1,1,0,0,0,3,Transformation Digitale,0.875,1,3.5,1,1,2,1
+55,M,Assistant de Direction,5,1,0,0,1,3,Entrepreunariat,0.4,2,2.5,1,0,1,2
+34,M,Consultant,1,2,0,0,1,2,Transformation Digitale,0.8125,2,3.25,1,0,3,0
+60,M,Manager,3,3,0,0,1,4,Transformation Digitale,0.0,2,3.5,3,0,0,0
+33,M,Consultant,1,1,0,0,3,3,Transformation Digitale,0.8666666666666667,2,2.75,-1,0,3,2
+37,M,Cadre Commercial,1,2,0,0,2,4,Transformation Digitale,0.42857142857142855,3,3.0,2,0,2,0
+34,F,Assistant de Direction,1,1,0,0,0,3,Infra & Cloud,0.6363636363636364,2,2.75,1,0,2,1
+23,M,Représentant Commercial,1,1,1,1,1,3,Infra & Cloud,0.5,2,3.0,1,0,1,1
+44,F,Manager,1,3,1,0,1,3,Infra & Cloud,0.7777777777777778,2,3.0,-1,0,2,0
+35,M,Assistant de Direction,0,1,1,0,0,4,Transformation Digitale,0.6666666666666666,3,3.0,1,1,1,0
+43,M,Cadre Commercial,1,2,1,0,1,3,Transformation Digitale,0.7272727272727273,2,3.0,0,0,2,0
+24,M,Assistant de Direction,1,1,0,0,1,3,Transformation Digitale,0.6666666666666666,2,3.25,-1,0,1,1
+41,M,Cadre Commercial,1,3,0,0,0,3,Marketing,0.6363636363636364,2,3.0,0,1,2,1
+29,F,Consultant,9,1,0,0,1,4,Transformation Digitale,0.3333333333333333,2,3.25,0,0,1,1
+36,F,Représentant Commercial,3,2,0,0,0,4,Infra & Cloud,0.5,2,3.0,0,1,3,0
+45,M,Manager,3,3,0,0,1,1,Infra & Cloud,0.16666666666666666,1,3.0,2,0,4,0
+24,M,Ressources Humaines,1,1,0,1,1,1,Ressources Humaines,0.0,2,3.25,2,0,0,2
+47,M,Cadre Commercial,7,4,0,1,0,3,Infra & Cloud,0.4166666666666667,3,2.5,2,0,4,1
+26,M,Consultant,1,1,0,0,3,4,Transformation Digitale,0.5,2,3.5,2,0,1,1
+45,F,Directeur Technique,1,4,0,0,0,2,Entrepreunariat,0.2727272727272727,2,3.0,1,1,4,2
+32,M,Assistant de Direction,6,1,0,0,1,3,Infra & Cloud,0.5,3,1.75,0,0,1,1
+31,M,Consultant,1,1,0,0,1,4,Infra & Cloud,0.5,2,3.25,0,0,1,0
+41,M,Ressources Humaines,6,2,0,0,1,3,Ressources Humaines,0.5,1,2.5,2,0,1,0
+40,F,Tech Lead,2,2,1,0,1,2,Infra & Cloud,0.0,2,2.0,0,0,0,1
+24,M,Consultant,1,1,0,0,3,1,Transformation Digitale,0.2857142857142857,2,2.25,0,0,2,2
+46,M,Manager,6,2,0,0,0,4,Infra & Cloud,0.8181818181818182,2,3.0,0,1,2,1
+35,M,Tech Lead,2,2,0,0,1,4,Infra & Cloud,0.875,2,3.0,0,0,2,2
+30,M,Assistant de Direction,1,1,0,0,1,1,Infra & Cloud,0.7272727272727273,2,2.5,0,0,2,1
+47,M,Cadre Commercial,7,2,0,0,1,4,Marketing,0.0,1,2.5,0,0,0,0
+46,M,Cadre Commercial,4,3,1,0,1,3,Infra & Cloud,0.2727272727272727,2,2.75,0,0,2,0
+36,M,Cadre Commercial,5,2,1,1,3,5,Marketing,0.6666666666666666,2,2.0,1,0,0,1
+32,M,Cadre Commercial,6,2,0,1,0,2,Infra & Cloud,0.0,2,2.0,2,1,0,0
+23,F,Consultant,1,1,0,0,0,1,Transformation Digitale,0.5,2,2.25,0,1,1,0
+31,F,Tech Lead,2,2,0,0,0,1,Entrepreunariat,0.6666666666666666,3,3.5,1,1,1,2
+39,M,Consultant,1,2,1,0,1,3,Infra & Cloud,0.8,1,3.75,0,0,2,0
+32,M,Cadre Commercial,3,3,0,0,1,3,Infra & Cloud,0.4,2,2.75,2,0,1,1
+40,M,Senior Manager,1,5,0,0,0,4,Transformation Digitale,0.36363636363636365,2,2.0,0,1,4,1
+45,F,Ressources Humaines,4,3,0,0,2,3,Infra & Cloud,0.5,2,3.25,3,0,1,0
+30,F,Assistant de Direction,0,1,0,0,0,4,Entrepreunariat,0.7,3,3.0,1,1,2,0
+24,M,Ressources Humaines,0,1,0,0,1,3,Transformation Digitale,0.3333333333333333,3,3.0,0,0,0,1
+30,F,Ressources Humaines,6,1,0,1,1,3,Ressources Humaines,0.4,3,3.0,1,0,1,1
+31,M,Cadre Commercial,1,2,0,0,1,3,Entrepreunariat,0.3333333333333333,2,2.5,0,0,1,0
+27,F,Assistant de Direction,1,1,0,0,0,3,Transformation Digitale,0.5714285714285714,2,3.0,0,1,2,1
+29,F,Représentant Commercial,1,1,0,1,0,3,Marketing,0.6666666666666666,2,2.5,2,1,0,1
+29,M,Manager,8,2,1,0,0,3,Infra & Cloud,0.5,3,3.75,-1,1,1,0
+30,M,Cadre Commercial,2,3,0,0,1,2,Marketing,0.875,2,2.0,1,0,2,1
+34,M,Assistant de Direction,0,1,1,0,3,4,Transformation Digitale,0.3333333333333333,2,3.0,-1,0,1,0
+33,F,Cadre Commercial,8,2,0,0,0,3,Marketing,0.5833333333333334,1,3.0,0,1,3,0
+49,F,Cadre Commercial,3,2,0,0,0,4,Marketing,0.6666666666666666,2,3.75,0,1,1,1
+33,F,Cadre Commercial,2,3,1,1,0,3,Infra & Cloud,0.0,2,1.75,1,1,0,1
+38,F,Consultant,4,1,0,0,1,2,Transformation Digitale,0.7142857142857143,3,2.25,1,0,2,0
+31,M,Cadre Commercial,2,3,0,1,3,4,Marketing,0.0,2,2.0,0,0,0,1
+29,F,Assistant de Direction,1,1,0,0,1,3,Entrepreunariat,0.0,2,2.75,1,0,0,0
+30,M,Manager,3,2,0,0,1,3,Infra & Cloud,0.875,2,3.0,-1,0,2,1
+32,M,Assistant de Direction,2,1,0,0,0,4,Entrepreunariat,0.875,1,2.25,0,1,2,0
+38,M,Manager,3,2,1,0,1,3,Transformation Digitale,0.0,2,3.0,2,0,0,1
+43,M,Assistant de Direction,9,1,1,1,1,3,Entrepreunariat,0.0,3,3.25,1,0,0,1
+42,M,Consultant,8,1,0,0,3,3,Transformation Digitale,0.6666666666666666,2,2.0,1,0,1,1
+55,M,Directeur Technique,8,5,0,0,3,3,Transformation Digitale,0.0,2,2.25,1,0,0,0
+33,M,Assistant de Direction,5,2,0,0,2,3,Entrepreunariat,0.7,1,3.0,0,0,2,0
+41,M,Consultant,1,1,0,0,2,4,Infra & Cloud,0.6666666666666666,2,2.25,1,0,1,1
+34,M,Cadre Commercial,1,2,1,0,1,3,Infra & Cloud,0.4375,1,3.25,0,0,3,1
+53,F,Tech Lead,4,4,1,0,3,4,Transformation Digitale,0.5,1,2.5,2,0,1,0
+43,M,Ressources Humaines,0,1,0,0,0,3,Infra & Cloud,0.8,2,2.75,0,1,2,0
+34,F,Cadre Commercial,5,2,0,0,0,2,Infra & Cloud,0.6666666666666666,2,3.0,2,1,0,0
+21,M,Représentant Commercial,1,1,0,1,0,1,Marketing,0.0,2,2.25,0,1,0,1
+38,F,Consultant,1,1,0,0,1,2,Autre,0.6666666666666666,2,3.0,1,0,1,1
+22,F,Consultant,1,1,1,1,0,1,Transformation Digitale,0.0,2,2.5,0,0,0,1
+31,F,Cadre Commercial,1,2,0,0,2,4,Marketing,0.5384615384615384,2,2.25,1,0,3,2
+51,F,Senior Manager,2,3,0,0,0,3,Entrepreunariat,0.6666666666666666,2,2.75,0,0,0,0
+37,M,Cadre Commercial,1,2,0,0,2,2,Marketing,0.5,2,2.0,1,0,1,1
+46,M,Directeur Technique,7,5,1,0,1,4,Transformation Digitale,0.6666666666666666,2,3.25,0,0,0,0
+36,M,Manager,7,3,1,0,1,3,Infra & Cloud,0.5384615384615384,2,3.0,0,0,3,1
+44,M,Assistant de Direction,1,1,1,1,3,2,Transformation Digitale,0.5,3,2.5,0,0,1,0
+37,M,Ressources Humaines,2,2,0,0,0,2,Autre,0.6363636363636364,2,2.5,0,0,2,1
+35,M,Cadre Commercial,1,2,1,1,0,3,Infra & Cloud,0.6363636363636364,2,3.5,0,1,2,2
+33,M,Assistant de Direction,6,1,0,0,1,4,Infra & Cloud,0.5454545454545454,2,2.5,-1,0,2,1
+28,M,Assistant de Direction,1,1,0,0,1,3,Infra & Cloud,0.5,2,3.5,0,0,1,0
+39,M,Directeur Technique,7,3,0,0,0,1,Transformation Digitale,0.4,2,3.0,1,1,1,1
+46,M,Cadre Commercial,8,2,0,0,0,2,Infra & Cloud,0.6666666666666666,1,2.5,1,1,0,2
+40,F,Consultant,4,1,0,0,1,2,Infra & Cloud,0.4,2,2.5,0,0,1,0
+42,M,Manager,5,2,0,0,2,3,Transformation Digitale,0.0,2,2.0,-1,0,0,1
+35,M,Tech Lead,2,2,0,0,1,2,Transformation Digitale,0.875,1,3.0,0,0,2,0
+38,M,Ressources Humaines,5,1,0,0,3,3,Ressources Humaines,0.6666666666666666,1,2.5,0,0,3,0
+34,M,Consultant,4,2,0,1,1,4,Infra & Cloud,0.875,3,2.5,0,0,2,1
+37,M,Tech Lead,1,2,0,1,0,4,Transformation Digitale,0.7272727272727273,2,2.0,0,1,2,1
+39,M,Cadre Commercial,2,2,0,0,1,3,Infra & Cloud,0.6666666666666666,3,3.5,0,0,0,1
+43,M,Assistant de Direction,4,1,0,0,0,3,Infra & Cloud,0.5,1,2.25,0,1,1,1
+41,M,Manager,3,2,0,0,0,3,Infra & Cloud,0.5,2,1.5,-1,1,1,0
+41,F,Cadre Commercial,0,3,1,0,1,1,Marketing,0.21739130434782608,2,3.5,0,0,4,0
+30,F,Tech Lead,9,3,0,0,0,3,Transformation Digitale,0.25,2,2.25,0,1,2,1
+26,F,Ressources Humaines,0,1,1,1,0,2,Transformation Digitale,0.6666666666666666,2,3.0,0,0,1,1
+46,F,Manager,4,2,0,1,1,2,Transformation Digitale,0.7,2,3.5,1,0,2,2
+40,F,Manager,4,2,0,0,1,3,Infra & Cloud,0.5,2,3.5,0,0,1,0
+34,M,Cadre Commercial,1,2,0,0,2,2,Entrepreunariat,0.7272727272727273,2,2.75,0,0,2,1
+58,M,Senior Manager,4,4,0,0,1,3,Transformation Digitale,0.8235294117647058,1,2.5,1,0,3,0
+35,M,Consultant,0,1,0,0,1,4,Transformation Digitale,0.5,2,2.75,2,0,1,2
+47,F,Tech Lead,8,3,1,0,1,3,Infra & Cloud,0.43478260869565216,2,2.75,1,0,4,0
+40,F,Manager,2,2,0,0,1,3,Infra & Cloud,0.875,2,2.0,0,0,2,1
+54,F,Assistant de Direction,4,2,0,0,1,4,Transformation Digitale,0.875,2,3.0,0,0,2,1
+31,F,Cadre Commercial,2,3,0,0,2,4,Marketing,0.5,3,2.25,0,0,1,1
+28,F,Assistant de Direction,1,1,0,0,1,3,Transformation Digitale,0.5,2,2.5,1,0,1,0
+38,F,Représentant Commercial,2,2,1,0,2,4,Marketing,0.6,2,2.25,3,0,1,0
+26,M,Cadre Commercial,1,2,0,0,0,3,Transformation Digitale,0.3333333333333333,2,2.75,0,1,1,1
+58,M,Directeur Technique,2,4,1,0,0,4,Infra & Cloud,0.6666666666666666,3,2.25,0,0,0,1
+18,F,Assistant de Direction,1,1,0,0,0,3,Transformation Digitale,0.0,1,2.25,0,1,0,1
+31,M,Ressources Humaines,0,1,0,1,0,5,Ressources Humaines,0.0,2,2.75,-1,0,0,1
+29,M,Ressources Humaines,4,1,1,1,3,3,Ressources Humaines,0.0,2,2.25,1,0,0,1
+45,F,Cadre Commercial,4,2,0,0,2,4,Infra & Cloud,0.7777777777777778,1,3.0,1,0,2,0
+36,F,Assistant de Direction,4,2,1,0,1,4,Autre,0.0,2,3.25,1,0,0,0
+43,M,Cadre Commercial,1,2,0,0,1,4,Infra & Cloud,0.875,3,2.75,1,0,2,0
+27,F,Consultant,0,1,1,0,0,2,Infra & Cloud,0.3333333333333333,3,3.25,0,1,1,0
+29,M,Consultant,1,1,0,0,0,1,Transformation Digitale,0.8333333333333334,3,3.5,0,0,3,1
+32,M,Cadre Commercial,8,2,0,0,0,4,Marketing,0.0,3,3.75,0,1,0,1
+42,M,Assistant de Direction,3,1,0,0,2,4,Entrepreunariat,0.42857142857142855,1,2.5,1,0,2,1
+47,F,Consultant,4,1,0,0,0,4,Infra & Cloud,0.0,2,2.75,0,1,0,1
+46,M,Tech Lead,3,3,0,0,1,2,Infra & Cloud,0.7,2,3.25,0,0,2,0
+28,M,Ressources Humaines,1,1,0,0,1,2,Infra & Cloud,0.5,1,3.0,0,0,1,0
+29,M,Manager,8,2,0,0,2,1,Infra & Cloud,0.75,2,3.5,2,0,2,2
+42,M,Consultant,4,1,0,0,0,3,Infra & Cloud,0.0,2,3.5,0,1,0,1
+32,M,Cadre Commercial,7,2,1,1,0,4,Marketing,0.6666666666666666,2,2.5,1,1,0,0
+46,F,Cadre Commercial,2,4,0,0,1,3,Entrepreunariat,0.4,2,2.25,-1,0,3,0
+27,F,Représentant Commercial,1,2,0,0,1,1,Transformation Digitale,0.8,2,3.0,2,0,2,2
+29,M,Ressources Humaines,1,1,0,0,0,1,Transformation Digitale,0.0,2,3.25,1,0,0,1
+43,F,Senior Manager,7,5,0,0,0,3,Transformation Digitale,0.8235294117647058,2,2.75,1,0,3,1
+48,M,Directeur Technique,4,5,0,0,0,3,Infra & Cloud,0.391304347826087,2,3.25,1,0,4,1
+29,M,Assistant de Direction,1,1,1,1,0,2,Infra & Cloud,0.0,3,3.0,2,1,0,2
+46,F,Cadre Commercial,5,3,0,1,3,3,Infra & Cloud,0.7777777777777778,2,2.75,1,0,2,1
+27,F,Assistant de Direction,0,1,0,0,1,3,Infra & Cloud,0.375,3,2.75,1,0,2,1
+39,M,Assistant de Direction,8,2,0,0,3,4,Autre,0.6666666666666666,2,3.25,0,0,0,1
+55,M,Assistant de Direction,8,1,0,0,1,4,Entrepreunariat,0.6666666666666666,2,3.0,2,0,1,0
+28,F,Représentant Commercial,1,1,0,0,1,3,Transformation Digitale,0.0,2,2.75,0,0,0,0
+30,M,Représentant Commercial,1,1,0,1,0,3,Transformation Digitale,0.0,2,2.75,0,1,0,1
+22,M,Assistant de Direction,1,1,1,1,0,1,Infra & Cloud,0.0,2,2.5,1,1,0,1
+36,F,Cadre Commercial,1,2,1,0,1,4,Entrepreunariat,0.6363636363636364,2,2.25,1,0,2,1
+31,M,Consultant,1,2,0,0,1,3,Infra & Cloud,0.18181818181818182,2,2.25,0,0,2,1
+34,M,Cadre Commercial,2,3,1,0,3,3,Infra & Cloud,0.0,2,3.5,0,0,1,0
+29,M,Consultant,3,1,0,0,0,3,Infra & Cloud,0.5,2,2.5,0,1,1,1
+37,M,Assistant de Direction,5,2,1,0,1,4,Transformation Digitale,0.6666666666666666,2,2.75,1,0,1,1
+35,F,Tech Lead,0,2,1,0,0,2,Autre,0.5,2,3.25,1,0,1,1
+45,F,Tech Lead,0,2,0,0,2,2,Infra & Cloud,0.8,2,3.0,1,0,2,2
+36,M,Ressources Humaines,1,2,0,0,0,1,Ressources Humaines,0.7272727272727273,3,3.0,2,1,2,0
+40,M,Senior Manager,2,4,0,0,1,4,Infra & Cloud,0.8,2,1.5,0,0,3,0
+26,F,Assistant de Direction,1,1,1,0,1,2,Infra & Cloud,0.0,2,2.5,1,0,0,0
+27,F,Cadre Commercial,0,2,0,0,0,2,Transformation Digitale,0.7777777777777778,2,2.0,-1,1,2,0
+48,F,Senior Manager,3,4,0,0,1,3,Transformation Digitale,0.30434782608695654,3,3.25,0,0,4,2
+44,M,Manager,2,2,0,0,1,4,Infra & Cloud,0.6666666666666666,2,2.5,-1,0,0,0
+34,M,Assistant de Direction,1,1,1,1,1,4,Entrepreunariat,0.0,1,2.5,3,0,1,1
+56,M,Consultant,1,1,0,1,0,2,Infra & Cloud,0.0,2,3.0,0,1,1,2
+36,M,Cadre Commercial,2,2,0,0,2,2,Marketing,0.6,2,2.25,1,0,1,1
+41,F,Cadre Commercial,5,2,0,0,1,3,Marketing,0.6666666666666666,2,2.75,1,0,1,1
+42,M,Directeur Technique,9,3,0,0,1,3,Transformation Digitale,0.5,2,2.5,0,0,3,1
+31,F,Cadre Commercial,2,2,1,0,1,2,Transformation Digitale,0.6666666666666666,2,3.5,0,0,1,1
+34,F,Cadre Commercial,3,2,1,0,0,1,Transformation Digitale,0.2,2,3.25,1,0,1,0
+31,F,Consultant,8,1,0,0,1,3,Transformation Digitale,0.6666666666666666,2,2.0,-1,0,0,0
+26,M,Consultant,0,1,0,0,1,3,Autre,0.875,3,2.75,-1,0,2,1
+45,M,Manager,4,2,0,0,0,4,Transformation Digitale,0.6,3,2.75,0,1,1,0
+33,M,Cadre Commercial,1,2,0,0,0,4,Marketing,0.8181818181818182,2,2.25,0,1,2,1
+28,M,Cadre Commercial,1,2,1,0,1,2,Infra & Cloud,0.875,3,3.25,1,0,2,0
+29,M,Représentant Commercial,1,1,0,1,0,3,Entrepreunariat,0.0,3,2.75,-1,1,0,2
+39,F,Cadre Commercial,6,2,0,0,1,4,Infra & Cloud,0.5,1,2.5,2,0,1,2
+27,M,Assistant de Direction,1,1,0,0,1,4,Entrepreunariat,0.3333333333333333,2,2.25,0,0,1,0
+34,M,Assistant de Direction,1,2,1,0,0,4,Autre,0.6875,3,3.0,1,0,3,2
+28,F,Cadre Commercial,3,2,1,1,0,2,Marketing,0.6666666666666666,2,3.5,0,1,0,1
+47,M,Assistant de Direction,8,2,0,0,1,4,Entrepreunariat,0.7777777777777778,1,3.0,0,0,2,1
+56,F,Cadre Commercial,4,2,0,0,1,5,Marketing,0.0,2,2.75,1,0,0,1
+39,M,Tech Lead,1,2,0,0,1,2,Transformation Digitale,0.8181818181818182,2,2.25,1,0,2,1
+38,F,Assistant de Direction,1,2,1,0,1,3,Transformation Digitale,0.3333333333333333,3,3.0,1,0,3,1
+58,F,Senior Manager,4,4,1,0,1,3,Infra & Cloud,0.0,2,3.25,0,0,0,2
+32,F,Assistant de Direction,3,1,1,1,0,2,Infra & Cloud,0.6,3,2.0,-1,1,1,0
+38,M,Assistant de Direction,2,1,0,0,2,2,Infra & Cloud,0.5,2,3.5,0,0,1,1
+49,M,Directeur Technique,3,5,0,0,0,1,Infra & Cloud,0.5,3,3.25,0,0,1,0
+42,M,Cadre Commercial,3,2,1,0,2,4,Marketing,0.0,2,3.0,0,0,0,1
+27,F,Ressources Humaines,1,1,0,1,0,3,Ressources Humaines,0.0,3,1.75,1,0,0,2
+35,M,Cadre Commercial,0,2,0,0,1,4,Transformation Digitale,0.6666666666666666,2,2.0,0,0,1,1
+28,M,Assistant de Direction,1,1,0,0,0,3,Transformation Digitale,0.6666666666666666,1,2.75,0,1,1,1
+31,M,Assistant de Direction,1,1,1,0,1,2,Transformation Digitale,0.6,1,3.0,0,0,1,0
+36,M,Consultant,1,1,0,0,0,4,Infra & Cloud,0.3333333333333333,1,2.0,0,0,1,1
+34,M,Cadre Commercial,1,3,0,0,0,3,Marketing,0.06666666666666667,2,2.0,1,1,3,0
+34,M,Cadre Commercial,1,3,0,0,1,4,Transformation Digitale,0.1111111111111111,2,3.0,0,0,2,1
+26,M,Consultant,0,1,0,0,0,3,Transformation Digitale,0.75,2,2.5,0,1,2,0
+29,M,Manager,0,2,0,0,1,3,Infra & Cloud,0.3333333333333333,2,1.25,0,0,1,0
+32,F,Manager,5,2,0,0,1,4,Transformation Digitale,0.3333333333333333,1,3.0,0,0,1,1
+31,M,Assistant de Direction,1,2,0,0,0,3,Infra & Cloud,0.6363636363636364,3,2.5,3,0,2,0
+28,M,Consultant,5,1,0,1,1,3,Entrepreunariat,0.6,2,2.5,1,0,1,1
+38,M,Représentant Commercial,4,1,0,0,0,3,Infra & Cloud,0.0,2,1.25,1,1,0,0
+35,F,Cadre Commercial,1,2,1,0,0,4,Infra & Cloud,0.8181818181818182,2,3.5,0,0,2,1
+27,M,Cadre Commercial,1,2,0,0,0,3,Marketing,0.875,2,3.0,0,1,2,1
+32,M,Tech Lead,8,2,0,0,0,4,Infra & Cloud,0.0,2,3.25,2,1,0,0
+31,M,Cadre Commercial,1,2,1,1,0,4,Marketing,0.7272727272727273,3,2.75,0,0,2,2
+53,M,Cadre Commercial,6,3,1,1,0,4,Infra & Cloud,0.6666666666666666,2,1.5,0,1,0,2
+54,F,Assistant de Direction,3,2,0,0,2,2,Infra & Cloud,0.6,2,2.25,0,0,1,1
+33,M,Manager,1,2,0,0,3,2,Infra & Cloud,0.8,3,3.25,1,0,2,1
+43,M,Manager,1,3,0,0,1,3,Infra & Cloud,0.8181818181818182,2,2.25,0,0,2,1
+38,M,Ressources Humaines,0,1,1,0,1,4,Autre,0.2857142857142857,3,2.75,0,0,2,0
+55,M,Senior Manager,4,5,1,0,1,4,Ressources Humaines,0.36363636363636365,2,2.25,-1,0,2,2
+31,F,Consultant,1,1,1,0,3,1,Transformation Digitale,0.0,2,3.5,2,0,0,0
+39,M,Cadre Commercial,0,4,0,0,0,4,Marketing,0.47619047619047616,2,1.75,0,1,3,1
+42,M,Assistant de Direction,1,2,0,0,0,2,Infra & Cloud,0.3333333333333333,1,3.5,1,1,3,2
+31,F,Directeur Technique,4,3,0,0,1,3,Transformation Digitale,0.6666666666666666,1,3.25,1,0,3,1
+54,F,Tech Lead,6,2,1,0,0,3,Transformation Digitale,0.6666666666666666,2,2.75,0,1,1,1
+24,M,Manager,1,2,0,0,0,2,Infra & Cloud,0.4,2,2.25,1,1,1,0
+23,M,Consultant,1,1,0,0,0,2,Autre,0.6666666666666666,2,3.75,0,1,1,1
+40,F,Consultant,1,2,0,0,1,3,Entrepreunariat,0.36363636363636365,3,3.0,0,0,2,1
+40,F,Cadre Commercial,3,2,0,0,1,2,Marketing,0.8333333333333334,2,2.5,0,0,3,0
+25,F,Ressources Humaines,4,1,0,0,0,3,Ressources Humaines,0.6666666666666666,2,2.75,0,0,0,0
+30,M,Consultant,1,1,0,0,0,2,Transformation Digitale,0.5384615384615384,2,2.75,0,0,3,0
+25,M,Consultant,6,1,1,0,1,1,Autre,0.6666666666666666,2,3.0,0,0,0,0
+47,M,Manager,2,3,0,0,0,3,Transformation Digitale,0.6111111111111112,2,2.25,1,1,3,2
+33,M,Consultant,1,1,0,0,3,2,Transformation Digitale,0.0,1,2.5,1,0,0,0
+38,M,Cadre Commercial,0,2,0,0,2,4,Infra & Cloud,0.5,2,2.5,0,0,3,0
+31,M,Représentant Commercial,0,1,0,0,1,2,Infra & Cloud,0.6666666666666666,2,2.5,0,0,0,0
+38,M,Tech Lead,2,2,0,0,1,4,Infra & Cloud,0.7777777777777778,3,2.75,1,0,2,1
+42,M,Assistant de Direction,6,2,1,0,1,4,Infra & Cloud,0.4,2,2.5,0,0,1,1
+41,M,Assistant de Direction,3,1,0,0,1,3,Infra & Cloud,0.0,2,3.0,1,0,1,0
+47,F,Directeur Technique,0,3,0,0,2,1,Transformation Digitale,0.8571428571428571,1,1.75,0,0,3,0
+35,M,Consultant,7,1,1,0,1,4,Transformation Digitale,0.6666666666666666,2,3.25,0,0,0,1
+22,M,Assistant de Direction,0,1,0,0,0,2,Infra & Cloud,0.5,2,3.75,0,1,1,0
+35,M,Assistant de Direction,1,2,0,0,0,4,Transformation Digitale,0.7272727272727273,2,2.5,0,1,2,1
+33,F,Manager,0,2,1,0,1,2,Transformation Digitale,0.1,2,2.5,0,0,2,1
+32,F,Consultant,1,1,0,0,0,4,Infra & Cloud,0.14285714285714285,2,2.75,1,1,2,2
+40,M,Consultant,8,1,0,0,2,4,Infra & Cloud,0.0,2,2.5,0,0,0,0
+32,M,Représentant Commercial,0,1,0,0,1,4,Transformation Digitale,0.6666666666666666,2,2.25,1,0,0,0
+39,M,Assistant de Direction,7,2,0,0,0,1,Infra & Cloud,0.875,2,2.25,0,1,2,2
+38,F,Directeur Technique,3,3,0,0,1,3,Transformation Digitale,0.5789473684210527,2,2.25,2,0,3,1
+32,F,Cadre Commercial,1,3,0,0,2,4,Marketing,0.4666666666666667,2,3.25,0,0,3,0
+37,F,Directeur Technique,1,3,1,0,1,3,Infra & Cloud,0.47058823529411764,2,2.75,0,0,3,1
+25,F,Cadre Commercial,0,2,1,0,1,2,Autre,0.6666666666666666,2,2.0,1,0,1,1
+52,M,Représentant Commercial,2,1,0,0,2,4,Infra & Cloud,0.0,1,2.25,0,0,2,2
+44,M,Assistant de Direction,6,1,1,0,0,3,Transformation Digitale,0.4,2,3.0,0,1,1,0
+21,M,Représentant Commercial,1,1,1,0,0,1,Transformation Digitale,0.6666666666666666,2,2.75,0,1,0,0
+39,M,Senior Manager,2,5,0,0,0,3,Infra & Cloud,0.42857142857142855,1,3.25,0,1,2,1
+23,M,Représentant Commercial,1,1,0,1,1,3,Marketing,0.0,3,2.0,0,0,0,1
+36,F,Cadre Commercial,0,3,0,0,2,3,Transformation Digitale,0.4,2,2.75,1,0,2,0
+36,F,Tech Lead,7,2,0,0,3,2,Infra & Cloud,0.4,3,2.75,0,0,1,0
+56,M,Manager,1,2,0,0,1,4,Infra & Cloud,0.6428571428571429,1,2.25,1,0,3,0
+29,M,Assistant de Direction,9,1,1,1,3,4,Transformation Digitale,0.6666666666666666,2,2.75,0,0,0,0
+42,M,Senior Manager,5,5,0,0,0,3,Infra & Cloud,0.6086956521739131,2,1.75,0,0,4,0
+56,M,Consultant,8,1,0,1,1,2,Entrepreunariat,0.7272727272727273,2,3.0,0,0,2,1
+41,F,Tech Lead,0,4,0,0,1,4,Infra & Cloud,0.47619047619047616,2,2.25,2,0,3,2
+34,F,Cadre Commercial,1,2,0,0,2,3,Marketing,0.7777777777777778,2,3.5,2,0,2,2
+36,M,Cadre Commercial,1,2,0,0,1,4,Marketing,0.6875,1,2.75,3,0,3,1
+41,M,Cadre Commercial,2,2,0,0,1,3,Infra & Cloud,0.6666666666666666,2,2.75,1,0,1,0
+32,M,Assistant de Direction,1,1,0,0,0,3,Entrepreunariat,0.4,2,3.0,0,1,1,0
+35,F,Ressources Humaines,1,3,1,0,0,4,Infra & Cloud,0.7,2,3.25,0,1,2,2
+38,F,Cadre Commercial,1,2,0,0,1,2,Infra & Cloud,0.8181818181818182,2,2.75,0,0,2,1
+50,M,Cadre Commercial,7,2,0,1,2,4,Infra & Cloud,0.14285714285714285,3,3.0,0,0,2,0
+36,F,Cadre Commercial,4,2,0,0,1,4,Marketing,0.0,2,2.25,1,0,2,1
+45,F,Cadre Commercial,8,2,0,0,0,3,Infra & Cloud,0.16666666666666666,2,3.25,0,1,1,1
+40,M,Assistant de Direction,2,1,0,0,0,4,Infra & Cloud,0.6666666666666666,2,3.25,1,1,0,0
+35,M,Manager,1,2,1,0,2,4,Infra & Cloud,0.18181818181818182,3,3.5,0,0,2,1
+40,F,Assistant de Direction,2,1,0,0,3,4,Transformation Digitale,0.3333333333333333,2,2.75,0,0,1,0
+35,F,Assistant de Direction,1,1,0,0,1,4,Infra & Cloud,0.2,2,3.5,2,0,1,0
+29,M,Consultant,4,2,1,0,1,2,Autre,0.6,2,2.5,1,0,1,1
+29,F,Assistant de Direction,1,1,0,0,0,4,Transformation Digitale,0.6666666666666666,2,2.0,1,1,1,2
+50,M,Cadre Commercial,4,3,1,1,1,3,Marketing,0.0,2,2.5,1,0,1,2
+39,F,Cadre Commercial,0,4,0,0,1,1,Marketing,0.2857142857142857,2,2.25,1,0,3,2
+31,M,Tech Lead,0,2,0,0,0,3,Transformation Digitale,0.7,1,2.0,0,1,2,0
+26,F,Représentant Commercial,0,1,0,0,0,3,Autre,0.0,2,3.5,1,1,1,0
+36,M,Consultant,4,2,0,0,1,2,Transformation Digitale,0.5,3,3.25,-1,0,1,2
+39,M,Manager,4,3,0,0,1,1,Transformation Digitale,0.875,2,2.25,1,0,2,1
+27,M,Tech Lead,1,2,1,0,1,3,Infra & Cloud,0.42857142857142855,2,2.25,0,0,2,0
+49,M,Cadre Commercial,2,2,0,0,0,3,Transformation Digitale,0.8,3,3.0,1,0,2,0
+34,M,Consultant,2,2,0,0,0,3,Transformation Digitale,0.4,2,2.5,-1,0,1,1

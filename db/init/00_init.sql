@@ -49,3 +49,31 @@ INSERT INTO app.model_registry (name, version, artifact_path)
 VALUES ('employee_churn_rf', 'v1', 'models/model.joblib')
 ON CONFLICT (name, version) DO NOTHING;
 
+-- Dataset (training data)
+CREATE TABLE IF NOT EXISTS app.employee_dataset (
+  id BIGSERIAL PRIMARY KEY,
+  
+  age INTEGER NOT NULL,
+  genre TEXT NOT NULL,
+  poste TEXT NOT NULL,
+  nombre_experiences_precedentes INTEGER NOT NULL,
+  niveau_hierarchique_poste INTEGER NOT NULL,
+  heure_supplementaires INTEGER NOT NULL,
+  a_quitte_l_entreprise INTEGER NOT NULL CHECK (a_quitte_l_entreprise IN (0,1)),
+  nombre_participation_pee INTEGER NOT NULL,
+  niveau_education INTEGER NOT NULL,
+  domaine_etude TEXT NOT NULL,
+  ratio_anciennete_manager DOUBLE PRECISION NOT NULL,
+  frequence_deplacement_code INTEGER NOT NULL,
+  score_satisfaction_global DOUBLE PRECISION NOT NULL,
+  delta_evaluation INTEGER NOT NULL,
+  "Célibataire" INTEGER NOT NULL CHECK ("Célibataire" IN (0,1)),
+  annees_dans_l_entreprise_bins INTEGER NOT NULL,
+  distance_domicile_travail_bins INTEGER NOT NULL,
+
+
+  created_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
+);
+
+CREATE INDEX IF NOT EXISTS idx_employee_dataset_created_at
+  ON app.employee_dataset(created_at DESC);
