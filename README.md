@@ -18,10 +18,12 @@ Le modèle est exposé via une **API FastAPI**, et déployé sur Hugging Face Sp
 ---
 ### Performances finales du modèle
 
-- F-beta score : 0.629
-- Recall : 75 %
-- Precision : 36 %
-- Seuil métier : 47 %
+| Métrique | Valeur | Interprétation |
+|----------|--------|----------------|
+| F-beta score | 0.629 | Compromis optimisé entre précision et rappel |
+| Recall | 75 % | 75 % des employés qui quittent l’entreprise sont correctement détectés |
+| Precision | 36 % | Parmi les employés prédits comme partants, 36 % quittent réellement |
+| Seuil de décision | 0.47 | Seuil ajusté pour privilégier la détection des départs |
 
 ---
 
@@ -39,16 +41,23 @@ Le modèle est exposé via une **API FastAPI**, et déployé sur Hugging Face Sp
 - `tests/` : tests Pytest (unitaires / fonctionnels / DB)
 - `Dockerfile`, `docker-compose.yml` : exécution locale / déploiement HF (Docker SDK)
 - `.github/workflows/` : CI + déploiement Hugging Face
-- `docs/` : schéma UML de la base de données
+- `docs/` : schéma UML de la base de données et d'autres documentations 
 - `data/` : Données d'apprentissage du modèle (.csv)
 - `db/` : exemple de requêtes SQL sur la base de donnée
-- `sql/` : initialisation de la base de données test
-- `scripts/`
+- `scripts/` : scripts utilitaires liés à la gestion des données et à l'analyse de la base de données
 
 ---
 
 ## Lancer le projet en local
 ---
+
+### 0) Cloner le dépôt
+
+```bash
+git clone https://github.com/suzannexisabel/OpenClassrooms_projet_5.git
+cd OpenClassrooms_projet_5
+```
+
 ### 1) Installation python
 ```bash
 python -m venv .venv
@@ -74,7 +83,7 @@ En déploiement cloud (Hugging Face Spaces), la base de données n'est pas conne
 ---
 #### Démarrer PostgreSQL via Docker
 
-```Bash
+```bash
 docker-compose up -d
 ```
 ---
@@ -87,23 +96,27 @@ l’API démarre en mode sans base de données (pas de logging des prédictions)
 ---
 #### Activer la DB en Local 
 
-```Bash
+```bash
 export DATABASE_URL=postgresql+psycopg://mluser:mlpass@localhost:5432/mldb  
 export DATABASE_URL_TEST=postgresql+psycopg://mluser:mlpass@localhost:5432/mldb_test  
 ```
 --- 
 
-#### Shéma de la base de données (UML)
+#### Schéma de la base de données (UML)
 
 Voici le diagramme qui représente la structure et les relations de la base de données PostgreSQL.
 
-![Database Shema](docs/uml_db.png)
+![Database Schema](docs/uml_db.png)
 
 ### Tables Principales 
 - `app.model_registry` : registre des versions du modèle (nom, version, artifact_path)
 - `app.prediction_request` : logs des inputs (payload JSON)
 - `app.prediction_result` : logs des outputs (prediction, proba, seuil, latence) + FK vers request et modèle
 - `app.employee_dataset` : représente la base de données d'apprentissage du modèle RF. 
+
+## API en ligne 
+
+[L’API est accessible ici](https://huggingface.co/spaces/suzannexisabel/HF_space_OC_projet_5)
 
 ## API - endpoints
 
@@ -184,6 +197,30 @@ pytest -vv --cov=app --cov-report=term-missing --cov-report=xml
 - CI : exécute automatiquement les tests (DB OFF + DB ON) et génère un rapport de couverture uploadé en artifact.
 - CD : déploie automatiquement sur Hugging Face Spaces à chaque push sur `main` avec le `TOKEN` via GitHub Secrets.
 
+## Sécurité et gestion des accès
+Les informations sensibles ne sont jamais stockées dans le dépôt.
+
+Les variables suivantes sont utilisées pour gérer l’accès aux ressources :
+
+- `DATABASE_URL`
+- `DATABASE_URL_TEST`
+- `HF_TOKEN`
+
+Ces variables sont :
+
+- définies dans un fichier `.env` en local (non versionné),
+- stockées dans **GitHub Secrets** pour la CI/CD.
+
+Bonnes pratiques appliquées :
+
+- le fichier `.env` est ignoré via `.gitignore`
+- les tokens et identifiants ne sont jamais committés dans le dépôt
+- les accès aux services externes passent uniquement par des variables d’environnement.
+
 ## Déploiement sur Hugging Face Space
 
 [Hugging Face Space](https://huggingface.co/spaces/suzannexisabel/HF_space_OC_projet_5)
+
+## Documentation supplémentaire
+
+- [Documentation technique du modèle](docs/model_documentation.md)
