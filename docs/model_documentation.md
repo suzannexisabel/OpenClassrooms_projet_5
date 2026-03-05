@@ -94,7 +94,7 @@ Les performences du modele optimisé sont :
 - la détection des employés susceptibles de quitter l’entreprise (aun moins 75%)
 - au prix d’un nombre plus élevé de faux positifs.
 
-Dans ce contexte métier, il est plus coûteux pour l’entreprise de **ne pas détecter un employé susceptible de quitter l’entreprise** (faux négatif) que d’identifier à tort un employé comme étant à risque (faux positif). Un faux négatif correspondrait à un départ non anticipé, pouvant entraîner des coûts importants liés au recrutement, à la perte de compétences et à la désorganisation des équipes. À l’inverse, un faux positif peut simplement conduire les équipes RH à analyser plus attentivement une situation ou à mettre en place des actions préventives> Pour cette raison, le modèle privilégie le **recall**, afin de détecter le plus grand nombre possible d’employés susceptibles de quitter l’entreprise.
+Dans ce contexte métier, il est plus coûteux pour l’entreprise de **ne pas détecter un employé susceptible de quitter l’entreprise** (faux négatif) que d’identifier à tort un employé comme étant à risque (faux positif). Un faux négatif correspondrait à un départ non anticipé, pouvant entraîner des coûts importants liés au recrutement, à la perte de compétences et à la désorganisation des équipes. À l’inverse, un faux positif peut simplement conduire les équipes RH à analyser plus attentivement une situation ou à mettre en place des actions préventives. Pour cette raison, le modèle privilégie le **recall**, afin de détecter le plus grand nombre possible d’employés susceptibles de quitter l’entreprise.
 
 ## Déploiement du modèle
 Le modèle entraîné est exporté au format : `joblib`
@@ -102,4 +102,4 @@ Il est ensuite utilisé dans l’API FastAPI.
 
 Le chargement du modèle suit la logique suivante :
 Chargement du fichier local models/model.joblib
-Si le fichier n’est pas présent, téléchargement depuis Hugging Face Modèle
+Si le fichier n’est pas présent, téléchargement depuis Hugging Face Hub.

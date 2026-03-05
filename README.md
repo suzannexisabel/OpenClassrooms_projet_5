@@ -36,17 +36,63 @@ Le modèle est exposé via une **API FastAPI**, et déployé sur Hugging Face Sp
 ---
 
 ## Architecture du dépôt
-- `app/` : code FastAPI (API, schémas Pydantic, accès DB, chargement modèle)
-- `db/init/00_init.sql` : initialisation PostgreSQL (schéma + tables)
-- `tests/` : tests Pytest (unitaires / fonctionnels / DB)
-- `Dockerfile`, `docker-compose.yml` : exécution locale / déploiement HF (Docker SDK)
-- `.github/workflows/` : CI + déploiement Hugging Face
-- `docs/` : schéma UML de la base de données et d'autres documentations 
-- `data/` : Données d'apprentissage du modèle (.csv)
-- `db/` : exemple de requêtes SQL sur la base de donnée
-- `scripts/` : scripts utilitaires liés à la gestion des données et à l'analyse de la base de données
-
----
+```bash
+.
+├── app/                         # Application FastAPI
+│   ├── main.py                  # Endpoints API (/ , /health , /predict)
+│   ├── db.py                    # Connexion PostgreSQL via SQLAlchemy
+│   ├── model.py                 # Chargement du pipeline ML (joblib ou download HF)
+│   └── schemas.py               # Schémas Pydantic (requêtes / réponses)
+│
+├── .github/
+│   └── workflows/
+│       └── ci-cd.yml            # Pipeline CI/CD GitHub Actions
+│
+├── tests/                       # Tests automatisés Pytest
+│   ├── functional/              # Tests fonctionnels de l'API
+│   │   ├── test_health.py
+│   │   ├── test_predict_db_off.py
+│   │   ├── test_predict_db_on.py
+│   │   ├── test_predict_rollback.py
+│   │   └── test_root.py
+│   │
+│   ├── unit/                    # Tests unitaires des composants
+│   │   ├── test_predict_classes.py
+│   │   ├── test_predict_errors.py
+│   │   ├── test_predict_threshold.py
+│   │   ├── test_schemas.py
+│   │   └── test_smoke.py
+│   │
+│   ├── sql/                     # Scripts SQL pour les tests DB
+│   │   └── init_test_db.sql
+│   │
+│   └── conftest.py              # Fixtures Pytest partagées
+│
+├── db/                          # Scripts SQL PostgreSQL
+│   ├── init/
+│   │   └── 00_init.sql          # Création du schéma et des tables
+│   └── examples_queries.sql     # Exemples de requêtes SQL
+│
+├── scripts/                     # Scripts utilitaires
+│   ├── import_dataset.py        # Import du dataset dans PostgreSQL
+│   └── query_db_stats.py        # Requêtes statistiques sur la base
+│
+├── docs/                        # Documentation technique
+│   ├── model_documentation.md   # Documentation du modèle
+│   ├── uml_db.png               # Diagramme UML de la base
+│   └── uml_db.puml              # Source PlantUML du diagramme
+│
+├── data/                        # Données d'apprentissage
+│   └── employee_churn_dataset_for_db.csv
+│
+├── docker-compose.yml           # Lancement PostgreSQL local
+├── Dockerfile                   # Image Docker de l'API
+├── pytest.ini                   # Configuration Pytest
+├── README.md                    # Documentation principale
+├── requirements.txt             # Dépendances Python
+├── .gitattributes
+└── .gitignore
+```
 
 ## Lancer le projet en local
 ---
